@@ -1,0 +1,2892 @@
+{
+  "id": "cc11e95537f3",
+  "map": "De_ancient",
+  "rounds_count": 23,
+  "rounds_history": [
+    {
+      "round_num": 1,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 1,
+      "score_b": 0,
+      "kill_feed": [
+        {
+          "time": "0:10",
+          "killer": "MINUUUSSS",
+          "killer_team": "CT",
+          "victim": "kuch_",
+          "victim_team": "T",
+          "weapon": "Desert Eagle",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:12",
+          "killer": "myshulka",
+          "killer_team": "T",
+          "victim": "MINUUUSSS",
+          "victim_team": "CT",
+          "weapon": "Glock-18",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:17",
+          "killer": "wqshka",
+          "killer_team": "CT",
+          "victim": "frosya4",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:19",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "wqshka",
+          "victim_team": "CT",
+          "weapon": "Glock-18",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:26",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "Gunen",
+          "victim_team": "CT",
+          "weapon": "Glock-18",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:28",
+          "killer": "avoid_3",
+          "killer_team": "CT",
+          "victim": "myshulka",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:29",
+          "killer": "ChefSenya",
+          "killer_team": "CT",
+          "victim": "Dikaya kachka",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:33",
+          "killer": "avoid_3",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": true,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 2,
+      "score_b": 0,
+      "kill_feed": [
+        {
+          "time": "0:16",
+          "killer": "kuch_",
+          "killer_team": "T",
+          "victim": "MINUUUSSS",
+          "victim_team": "CT",
+          "weapon": "Glock-18",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:17",
+          "killer": "frosya4",
+          "killer_team": "T",
+          "victim": "avoid_3",
+          "victim_team": "CT",
+          "weapon": "Tec-9",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:17",
+          "killer": "wqshka",
+          "killer_team": "CT",
+          "victim": "kuch_",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:20",
+          "killer": "wqshka",
+          "killer_team": "CT",
+          "victim": "myshulka",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:21",
+          "killer": "wqshka",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:25",
+          "killer": "wqshka",
+          "killer_team": "CT",
+          "victim": "Dikaya kachka",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:37",
+          "killer": "ChefSenya",
+          "killer_team": "CT",
+          "victim": "frosya4",
+          "victim_team": "T",
+          "weapon": "MP9",
+          "hs": true,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 3,
+      "score_b": 0,
+      "kill_feed": [
+        {
+          "time": "0:13",
+          "killer": "avoid_3",
+          "killer_team": "CT",
+          "victim": "frosya4",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:15",
+          "killer": "avoid_3",
+          "killer_team": "CT",
+          "victim": "myshulka",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:16",
+          "killer": "avoid_3",
+          "killer_team": "CT",
+          "victim": "Dikaya kachka",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:16",
+          "killer": "avoid_3",
+          "killer_team": "CT",
+          "victim": "kuch_",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:20",
+          "killer": "ChefSenya",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 4,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 4,
+      "score_b": 0,
+      "kill_feed": [
+        {
+          "time": "0:17",
+          "killer": "MINUUUSSS",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:17",
+          "killer": "avoid_3",
+          "killer_team": "CT",
+          "victim": "frosya4",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:25",
+          "killer": "MINUUUSSS",
+          "killer_team": "CT",
+          "victim": "kuch_",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:27",
+          "killer": "ChefSenya",
+          "killer_team": "CT",
+          "victim": "myshulka",
+          "victim_team": "T",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:34",
+          "killer": "ChefSenya",
+          "killer_team": "CT",
+          "victim": "Dikaya kachka",
+          "victim_team": "T",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 5,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 4,
+      "score_b": 1,
+      "kill_feed": [
+        {
+          "time": "0:17",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "Gunen",
+          "victim_team": "CT",
+          "weapon": "Negev",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:22",
+          "killer": "frosya4",
+          "killer_team": "T",
+          "victim": "avoid_3",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:35",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "0:37",
+          "killer": "kuch_",
+          "killer_team": "T",
+          "victim": "wqshka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:44",
+          "killer": "MINUUUSSS",
+          "killer_team": "CT",
+          "victim": "myshulka",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:51",
+          "killer": "ChefSenya",
+          "killer_team": "CT",
+          "victim": "kuch_",
+          "victim_team": "T",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:58",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "MINUUUSSS",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:00",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "ChefSenya",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 6,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 4,
+      "score_b": 2,
+      "kill_feed": [
+        {
+          "time": "0:22",
+          "killer": "frosya4",
+          "killer_team": "T",
+          "victim": "Gunen",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:38",
+          "killer": "myshulka",
+          "killer_team": "T",
+          "victim": "avoid_3",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:43",
+          "killer": "kuch_",
+          "killer_team": "T",
+          "victim": "MINUUUSSS",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:50",
+          "killer": "ChefSenya",
+          "killer_team": "CT",
+          "victim": "kuch_",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:56",
+          "killer": "frosya4",
+          "killer_team": "T",
+          "victim": "ChefSenya",
+          "victim_team": "CT",
+          "weapon": "Desert Eagle",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:01",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "1:01",
+          "killer": "wqshka",
+          "killer_team": "CT",
+          "victim": "Dikaya kachka",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:13",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "wqshka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 7,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 4,
+      "score_b": 3,
+      "kill_feed": [
+        {
+          "time": "0:15",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "wqshka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:17",
+          "killer": "ChefSenya",
+          "killer_team": "CT",
+          "victim": "Dikaya kachka",
+          "victim_team": "T",
+          "weapon": "Desert Eagle",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:17",
+          "killer": "frosya4",
+          "killer_team": "T",
+          "victim": "ChefSenya",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:22",
+          "killer": "Gunen",
+          "killer_team": "CT",
+          "victim": "myshulka",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:23",
+          "killer": "frosya4",
+          "killer_team": "T",
+          "victim": "MINUUUSSS",
+          "victim_team": "CT",
+          "weapon": "HE Grenade",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:27",
+          "killer": "avoid_3",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:30",
+          "killer": "avoid_3",
+          "killer_team": "CT",
+          "victim": "kuch_",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:31",
+          "killer": "frosya4",
+          "killer_team": "T",
+          "victim": "avoid_3",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:36",
+          "killer": "frosya4",
+          "killer_team": "T",
+          "victim": "Gunen",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 8,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 4,
+      "score_b": 4,
+      "kill_feed": [
+        {
+          "time": "0:09",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "wqshka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:10",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "MINUUUSSS",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:13",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "Gunen",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:16",
+          "killer": "ChefSenya",
+          "killer_team": "CT",
+          "victim": "Dikaya kachka",
+          "victim_team": "T",
+          "weapon": "HE Grenade",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:18",
+          "killer": "kuch_",
+          "killer_team": "T",
+          "victim": "ChefSenya",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:33",
+          "killer": "avoid_3",
+          "killer_team": "CT",
+          "victim": "kuch_",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:48",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "0:48",
+          "killer": "frosya4",
+          "killer_team": "T",
+          "victim": "avoid_3",
+          "victim_team": "CT",
+          "weapon": "Desert Eagle",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 9,
+      "winner_side": "T",
+      "win_type": "bomb",
+      "score_a": 4,
+      "score_b": 5,
+      "kill_feed": [
+        {
+          "time": "0:23",
+          "killer": "ChefSenya",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:23",
+          "killer": "kuch_",
+          "killer_team": "T",
+          "victim": "MINUUUSSS",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:23",
+          "killer": "myshulka",
+          "killer_team": "T",
+          "victim": "ChefSenya",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:28",
+          "killer": "kuch_",
+          "killer_team": "T",
+          "victim": "Gunen",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:37",
+          "killer": "avoid_3",
+          "killer_team": "CT",
+          "victim": "myshulka",
+          "victim_team": "T",
+          "weapon": "Desert Eagle",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:37",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "avoid_3",
+          "victim_team": "CT",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:43",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        }
+      ]
+    },
+    {
+      "round_num": 10,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 4,
+      "score_b": 6,
+      "kill_feed": [
+        {
+          "time": "0:10",
+          "killer": "wqshka",
+          "killer_team": "CT",
+          "victim": "wqshka",
+          "victim_team": "CT",
+          "weapon": "World",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:18",
+          "killer": "avoid_3",
+          "killer_team": "CT",
+          "victim": "kuch_",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:24",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "MINUUUSSS",
+          "victim_team": "CT",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:36",
+          "killer": "avoid_3",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:38",
+          "killer": "frosya4",
+          "killer_team": "T",
+          "victim": "ChefSenya",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:46",
+          "killer": "myshulka",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "0:47",
+          "killer": "frosya4",
+          "killer_team": "T",
+          "victim": "wqshka",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:48",
+          "killer": "avoid_3",
+          "killer_team": "CT",
+          "victim": "myshulka",
+          "victim_team": "T",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:52",
+          "killer": "avoid_3",
+          "killer_team": "CT",
+          "victim": "frosya4",
+          "victim_team": "T",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:58",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "Gunen",
+          "victim_team": "CT",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:02",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "avoid_3",
+          "victim_team": "CT",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 11,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 4,
+      "score_b": 7,
+      "kill_feed": [
+        {
+          "time": "0:09",
+          "killer": "MINUUUSSS",
+          "killer_team": "CT",
+          "victim": "kuch_",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:13",
+          "killer": "ChefSenya",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "Desert Eagle",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:21",
+          "killer": "MINUUUSSS",
+          "killer_team": "CT",
+          "victim": "myshulka",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:30",
+          "killer": "frosya4",
+          "killer_team": "T",
+          "victim": "avoid_3",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:35",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "Gunen",
+          "victim_team": "CT",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:48",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "MINUUUSSS",
+          "victim_team": "CT",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:53",
+          "killer": "wqshka",
+          "killer_team": "CT",
+          "victim": "frosya4",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:54",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "wqshka",
+          "victim_team": "CT",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:00",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "1:15",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "ChefSenya",
+          "victim_team": "CT",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 12,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 4,
+      "score_b": 8,
+      "kill_feed": [
+        {
+          "time": "0:10",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "ChefSenya",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:12",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "MINUUUSSS",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:18",
+          "killer": "frosya4",
+          "killer_team": "T",
+          "victim": "Gunen",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:24",
+          "killer": "avoid_3",
+          "killer_team": "CT",
+          "victim": "kuch_",
+          "victim_team": "T",
+          "weapon": "HE Grenade",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:26",
+          "killer": "wqshka",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:38",
+          "killer": "myshulka",
+          "killer_team": "T",
+          "victim": "avoid_3",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:47",
+          "killer": "wqshka",
+          "killer_team": "CT",
+          "victim": "frosya4",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:08",
+          "killer": "wqshka",
+          "killer_team": "CT",
+          "victim": "myshulka",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:08",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "wqshka",
+          "victim_team": "CT",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 13,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 9,
+      "score_b": 4,
+      "kill_feed": [
+        {
+          "time": "0:30",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "wqshka",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:39",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "MINUUUSSS",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:40",
+          "killer": "kuch_",
+          "killer_team": "CT",
+          "victim": "Gunen",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:43",
+          "killer": "avoid_3",
+          "killer_team": "T",
+          "victim": "frosya4",
+          "victim_team": "CT",
+          "weapon": "P250",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:44",
+          "killer": "kuch_",
+          "killer_team": "CT",
+          "victim": "avoid_3",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:46",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "ChefSenya",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": true,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 14,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 9,
+      "score_b": 5,
+      "kill_feed": [
+        {
+          "time": "0:16",
+          "killer": "frosya4",
+          "killer_team": "CT",
+          "victim": "avoid_3",
+          "victim_team": "T",
+          "weapon": "MAG-7",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:26",
+          "killer": "frosya4",
+          "killer_team": "CT",
+          "victim": "MINUUUSSS",
+          "victim_team": "T",
+          "weapon": "MAG-7",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:30",
+          "killer": "wqshka",
+          "killer_team": "T",
+          "victim": "frosya4",
+          "victim_team": "CT",
+          "weapon": "Tec-9",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:34",
+          "killer": "kuch_",
+          "killer_team": "CT",
+          "victim": "ChefSenya",
+          "victim_team": "T",
+          "weapon": "MP7",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:34",
+          "killer": "wqshka",
+          "killer_team": "T",
+          "victim": "kuch_",
+          "victim_team": "CT",
+          "weapon": "Tec-9",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:38",
+          "killer": "wqshka",
+          "killer_team": "T",
+          "victim": "myshulka",
+          "victim_team": "CT",
+          "weapon": "Tec-9",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:44",
+          "killer": "wqshka",
+          "killer_team": "T",
+          "victim": "cheattopchik",
+          "victim_team": "CT",
+          "weapon": "Tec-9",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:47",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "wqshka",
+          "victim_team": "T",
+          "weapon": "MP7",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:06",
+          "killer": "Gunen",
+          "killer_team": "T",
+          "victim": "Dikaya kachka",
+          "victim_team": "CT",
+          "weapon": "Tec-9",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 15,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 9,
+      "score_b": 6,
+      "kill_feed": [
+        {
+          "time": "0:16",
+          "killer": "Gunen",
+          "killer_team": "T",
+          "victim": "kuch_",
+          "victim_team": "CT",
+          "weapon": "Galil AR",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:18",
+          "killer": "avoid_3",
+          "killer_team": "T",
+          "victim": "Dikaya kachka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:21",
+          "killer": "wqshka",
+          "killer_team": "T",
+          "victim": "frosya4",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:24",
+          "killer": "avoid_3",
+          "killer_team": "T",
+          "victim": "myshulka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:47",
+          "killer": "wqshka",
+          "killer_team": "T",
+          "victim": "cheattopchik",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 16,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 9,
+      "score_b": 7,
+      "kill_feed": [
+        {
+          "time": "0:14",
+          "killer": "frosya4",
+          "killer_team": "CT",
+          "victim": "Gunen",
+          "victim_team": "T",
+          "weapon": "FAMAS",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:28",
+          "killer": "ChefSenya",
+          "killer_team": "T",
+          "victim": "myshulka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:28",
+          "killer": "kuch_",
+          "killer_team": "CT",
+          "victim": "ChefSenya",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:29",
+          "killer": "avoid_3",
+          "killer_team": "T",
+          "victim": "frosya4",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:38",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "avoid_3",
+          "victim_team": "T",
+          "weapon": "FAMAS",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:39",
+          "killer": "wqshka",
+          "killer_team": "T",
+          "victim": "kuch_",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:05",
+          "killer": "wqshka",
+          "killer_team": "T",
+          "victim": "cheattopchik",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:17",
+          "killer": "MINUUUSSS",
+          "killer_team": "T",
+          "victim": "Dikaya kachka",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 17,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 9,
+      "score_b": 8,
+      "kill_feed": [
+        {
+          "time": "0:11",
+          "killer": "MINUUUSSS",
+          "killer_team": "T",
+          "victim": "kuch_",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:16",
+          "killer": "Gunen",
+          "killer_team": "T",
+          "victim": "cheattopchik",
+          "victim_team": "CT",
+          "weapon": "Galil AR",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:18",
+          "killer": "wqshka",
+          "killer_team": "T",
+          "victim": "Dikaya kachka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:27",
+          "killer": "frosya4",
+          "killer_team": "CT",
+          "victim": "avoid_3",
+          "victim_team": "T",
+          "weapon": "Desert Eagle",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:32",
+          "killer": "wqshka",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "0:46",
+          "killer": "ChefSenya",
+          "killer_team": "T",
+          "victim": "frosya4",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:56",
+          "killer": "wqshka",
+          "killer_team": "T",
+          "victim": "myshulka",
+          "victim_team": "CT",
+          "weapon": "Knife",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 18,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 9,
+      "score_b": 9,
+      "kill_feed": [
+        {
+          "time": "0:11",
+          "killer": "ChefSenya",
+          "killer_team": "T",
+          "victim": "cheattopchik",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:13",
+          "killer": "wqshka",
+          "killer_team": "T",
+          "victim": "frosya4",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:20",
+          "killer": "wqshka",
+          "killer_team": "T",
+          "victim": "kuch_",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:25",
+          "killer": "Gunen",
+          "killer_team": "T",
+          "victim": "Dikaya kachka",
+          "victim_team": "CT",
+          "weapon": "Galil AR",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:29",
+          "killer": "myshulka",
+          "killer_team": "CT",
+          "victim": "wqshka",
+          "victim_team": "T",
+          "weapon": "MP5-SD",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:31",
+          "killer": "myshulka",
+          "killer_team": "CT",
+          "victim": "ChefSenya",
+          "victim_team": "T",
+          "weapon": "MP5-SD",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:35",
+          "killer": "avoid_3",
+          "killer_team": "T",
+          "victim": "myshulka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 19,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 9,
+      "score_b": 10,
+      "kill_feed": [
+        {
+          "time": "0:28",
+          "killer": "ChefSenya",
+          "killer_team": "T",
+          "victim": "Dikaya kachka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:29",
+          "killer": "cheattopchik",
+          "killer_team": "CT",
+          "victim": "ChefSenya",
+          "victim_team": "T",
+          "weapon": "Five-SeveN",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:30",
+          "killer": "wqshka",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "0:36",
+          "killer": "MINUUUSSS",
+          "killer_team": "T",
+          "victim": "kuch_",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:36",
+          "killer": "frosya4",
+          "killer_team": "CT",
+          "victim": "wqshka",
+          "victim_team": "T",
+          "weapon": "Desert Eagle",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:39",
+          "killer": "cheattopchik",
+          "killer_team": "CT",
+          "victim": "MINUUUSSS",
+          "victim_team": "T",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:49",
+          "killer": "avoid_3",
+          "killer_team": "T",
+          "victim": "frosya4",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:52",
+          "killer": "avoid_3",
+          "killer_team": "T",
+          "victim": "myshulka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:53",
+          "killer": "cheattopchik",
+          "killer_team": "CT",
+          "victim": "avoid_3",
+          "victim_team": "T",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:03",
+          "killer": "Gunen",
+          "killer_team": "T",
+          "victim": "cheattopchik",
+          "victim_team": "CT",
+          "weapon": "Galil AR",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 20,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 10,
+      "score_b": 10,
+      "kill_feed": [
+        {
+          "time": "0:14",
+          "killer": "ChefSenya",
+          "killer_team": "T",
+          "victim": "myshulka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:24",
+          "killer": "wqshka",
+          "killer_team": "T",
+          "victim": "frosya4",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:26",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "ChefSenya",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:33",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "MINUUUSSS",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:40",
+          "killer": "kuch_",
+          "killer_team": "CT",
+          "victim": "avoid_3",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:41",
+          "killer": "wqshka",
+          "killer_team": "T",
+          "victim": "kuch_",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:50",
+          "killer": "cheattopchik",
+          "killer_team": "CT",
+          "victim": "wqshka",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:06",
+          "killer": "cheattopchik",
+          "killer_team": "CT",
+          "victim": "Gunen",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 21,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 10,
+      "score_b": 11,
+      "kill_feed": [
+        {
+          "time": "0:29",
+          "killer": "Gunen",
+          "killer_team": "T",
+          "victim": "kuch_",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:31",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "Gunen",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:33",
+          "killer": "avoid_3",
+          "killer_team": "T",
+          "victim": "frosya4",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:34",
+          "killer": "MINUUUSSS",
+          "killer_team": "T",
+          "victim": "Dikaya kachka",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:40",
+          "killer": "ChefSenya",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "0:40",
+          "killer": "avoid_3",
+          "killer_team": "T",
+          "victim": "cheattopchik",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:53",
+          "killer": "avoid_3",
+          "killer_team": "T",
+          "victim": "myshulka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 22,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 10,
+      "score_b": 12,
+      "kill_feed": [
+        {
+          "time": "0:21",
+          "killer": "ChefSenya",
+          "killer_team": "T",
+          "victim": "myshulka",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:32",
+          "killer": "MINUUUSSS",
+          "killer_team": "T",
+          "victim": "frosya4",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:38",
+          "killer": "MINUUUSSS",
+          "killer_team": "T",
+          "victim": "kuch_",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:39",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "wqshka",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:45",
+          "killer": "cheattopchik",
+          "killer_team": "CT",
+          "victim": "ChefSenya",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:54",
+          "killer": "avoid_3",
+          "killer_team": "T",
+          "victim": "Dikaya kachka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:00",
+          "killer": "avoid_3",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "1:07",
+          "killer": "cheattopchik",
+          "killer_team": "CT",
+          "victim": "Gunen",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:09",
+          "killer": "cheattopchik",
+          "killer_team": "CT",
+          "victim": "avoid_3",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:19",
+          "killer": "MINUUUSSS",
+          "killer_team": "T",
+          "victim": "cheattopchik",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 23,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 10,
+      "score_b": 13,
+      "kill_feed": [
+        {
+          "time": "0:21",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "Gunen",
+          "victim_team": "T",
+          "weapon": "FAMAS",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:29",
+          "killer": "frosya4",
+          "killer_team": "CT",
+          "victim": "MINUUUSSS",
+          "victim_team": "T",
+          "weapon": "MP9",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:30",
+          "killer": "wqshka",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "0:31",
+          "killer": "ChefSenya",
+          "killer_team": "T",
+          "victim": "cheattopchik",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:33",
+          "killer": "avoid_3",
+          "killer_team": "T",
+          "victim": "kuch_",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:39",
+          "killer": "myshulka",
+          "killer_team": "CT",
+          "victim": "avoid_3",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:41",
+          "killer": "wqshka",
+          "killer_team": "T",
+          "victim": "myshulka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:42",
+          "killer": "wqshka",
+          "killer_team": "T",
+          "victim": "frosya4",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:46",
+          "killer": "ChefSenya",
+          "killer_team": "T",
+          "victim": "Dikaya kachka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        }
+      ]
+    }
+  ],
+  "final_score_t": 13,
+  "final_score_ct": 10,
+  "players": [
+    {
+      "name": "frosya4",
+      "steamid": "76561198147687871",
+      "team": "CT",
+      "kills": 19,
+      "deaths": 18,
+      "assists": 4,
+      "hs": 9,
+      "hs_percent": 47,
+      "kd": 1.0555555555555556,
+      "adr": 128.0909090909091,
+      "fk": 3,
+      "fd": 1,
+      "blind_time": 57.636551808,
+      "util_dmg": 87,
+      "util_dmg_per_round": 3.9545454545454546,
+      "fav_weapon": "AWP",
+      "weapons": [
+        {
+          "name": "AWP",
+          "kills": 6,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "Desert Eagle",
+          "kills": 4,
+          "hs": 3,
+          "hs_percent": 75
+        },
+        {
+          "name": "HE Grenade",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "MAG-7",
+          "kills": 2,
+          "hs": 2,
+          "hs_percent": 100
+        },
+        {
+          "name": "FAMAS",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "MP9",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "Tec-9",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "AK-47",
+          "kills": 3,
+          "hs": 2,
+          "hs_percent": 66
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "wqshka",
+          "kills": 2,
+          "deaths": 8,
+          "diff": -6
+        },
+        {
+          "enemy": "avoid_3",
+          "kills": 7,
+          "deaths": 7,
+          "diff": 0
+        },
+        {
+          "enemy": "ChefSenya",
+          "kills": 3,
+          "deaths": 2,
+          "diff": 1
+        },
+        {
+          "enemy": "Gunen",
+          "kills": 4,
+          "deaths": 0,
+          "diff": 4
+        },
+        {
+          "enemy": "MINUUUSSS",
+          "kills": 3,
+          "deaths": 1,
+          "diff": 2
+        }
+      ]
+    },
+    {
+      "name": "Gunen",
+      "steamid": "76561198369471632",
+      "team": "T",
+      "kills": 7,
+      "deaths": 15,
+      "assists": 1,
+      "hs": 2,
+      "hs_percent": 28,
+      "kd": 0.4666666666666667,
+      "adr": 51.31818181818182,
+      "fk": 2,
+      "fd": 4,
+      "blind_time": 4.87554272,
+      "util_dmg": 23,
+      "util_dmg_per_round": 1.0454545454545454,
+      "fav_weapon": "Galil AR",
+      "weapons": [
+        {
+          "name": "M4A4",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "Tec-9",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "Galil AR",
+          "kills": 4,
+          "hs": 1,
+          "hs_percent": 25
+        },
+        {
+          "name": "AK-47",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "cheattopchik",
+          "kills": 2,
+          "deaths": 5,
+          "diff": -3
+        },
+        {
+          "enemy": "frosya4",
+          "kills": 0,
+          "deaths": 4,
+          "diff": -4
+        },
+        {
+          "enemy": "myshulka",
+          "kills": 1,
+          "deaths": 0,
+          "diff": 1
+        },
+        {
+          "enemy": "kuch_",
+          "kills": 2,
+          "deaths": 2,
+          "diff": 0
+        },
+        {
+          "enemy": "Dikaya kachka",
+          "kills": 2,
+          "deaths": 4,
+          "diff": -2
+        }
+      ]
+    },
+    {
+      "name": "ChefSenya",
+      "steamid": "76561198197698014",
+      "team": "T",
+      "kills": 19,
+      "deaths": 15,
+      "assists": 6,
+      "hs": 9,
+      "hs_percent": 47,
+      "kd": 1.2666666666666666,
+      "adr": 133.47619047619048,
+      "fk": 5,
+      "fd": 1,
+      "blind_time": 45.707799424,
+      "util_dmg": 215,
+      "util_dmg_per_round": 10.238095238095237,
+      "fav_weapon": "AK-47",
+      "weapons": [
+        {
+          "name": "AK-47",
+          "kills": 10,
+          "hs": 4,
+          "hs_percent": 40
+        },
+        {
+          "name": "AWP",
+          "kills": 2,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "Desert Eagle",
+          "kills": 2,
+          "hs": 2,
+          "hs_percent": 100
+        },
+        {
+          "name": "HE Grenade",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "M4A1",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "USP-S",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "MP9",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "M4A4",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "kuch_",
+          "kills": 2,
+          "deaths": 3,
+          "diff": -1
+        },
+        {
+          "enemy": "Dikaya kachka",
+          "kills": 6,
+          "deaths": 4,
+          "diff": 2
+        },
+        {
+          "enemy": "frosya4",
+          "kills": 2,
+          "deaths": 3,
+          "diff": -1
+        },
+        {
+          "enemy": "cheattopchik",
+          "kills": 5,
+          "deaths": 3,
+          "diff": 2
+        },
+        {
+          "enemy": "myshulka",
+          "kills": 4,
+          "deaths": 2,
+          "diff": 2
+        }
+      ]
+    },
+    {
+      "name": "wqshka",
+      "steamid": "76561198976457404",
+      "team": "T",
+      "kills": 27,
+      "deaths": 15,
+      "assists": 8,
+      "hs": 11,
+      "hs_percent": 40,
+      "kd": 1.8,
+      "adr": 156.38095238095238,
+      "fk": 1,
+      "fd": 4,
+      "blind_time": 19.98668128,
+      "util_dmg": 85,
+      "util_dmg_per_round": 4.0476190476190474,
+      "fav_weapon": "AK-47",
+      "weapons": [
+        {
+          "name": "World",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "Tec-9",
+          "kills": 4,
+          "hs": 3,
+          "hs_percent": 75
+        },
+        {
+          "name": "AK-47",
+          "kills": 11,
+          "hs": 3,
+          "hs_percent": 27
+        },
+        {
+          "name": "Knife",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "USP-S",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "M4A4",
+          "kills": 9,
+          "hs": 4,
+          "hs_percent": 44
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "Dikaya kachka",
+          "kills": 3,
+          "deaths": 8,
+          "diff": -5
+        },
+        {
+          "enemy": "kuch_",
+          "kills": 5,
+          "deaths": 1,
+          "diff": 4
+        },
+        {
+          "enemy": "myshulka",
+          "kills": 5,
+          "deaths": 1,
+          "diff": 4
+        },
+        {
+          "enemy": "cheattopchik",
+          "kills": 5,
+          "deaths": 2,
+          "diff": 3
+        },
+        {
+          "enemy": "wqshka",
+          "kills": 1,
+          "deaths": 1,
+          "diff": 0
+        },
+        {
+          "enemy": "frosya4",
+          "kills": 8,
+          "deaths": 2,
+          "diff": 6
+        }
+      ]
+    },
+    {
+      "name": "Dikaya kachka",
+      "steamid": "76561198863013576",
+      "team": "CT",
+      "kills": 25,
+      "deaths": 16,
+      "assists": 5,
+      "hs": 12,
+      "hs_percent": 48,
+      "kd": 1.5625,
+      "adr": 148.08695652173913,
+      "fk": 4,
+      "fd": 1,
+      "blind_time": 23.865452671999996,
+      "util_dmg": 221,
+      "util_dmg_per_round": 9.608695652173912,
+      "fav_weapon": "M4A1",
+      "weapons": [
+        {
+          "name": "USP-S",
+          "kills": 3,
+          "hs": 3,
+          "hs_percent": 100
+        },
+        {
+          "name": "MP7",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "FAMAS",
+          "kills": 2,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "AWP",
+          "kills": 3,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "M4A4",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "Glock-18",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "AK-47",
+          "kills": 5,
+          "hs": 2,
+          "hs_percent": 40
+        },
+        {
+          "name": "M4A1",
+          "kills": 9,
+          "hs": 5,
+          "hs_percent": 55
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "wqshka",
+          "kills": 8,
+          "deaths": 3,
+          "diff": 5
+        },
+        {
+          "enemy": "ChefSenya",
+          "kills": 4,
+          "deaths": 6,
+          "diff": -2
+        },
+        {
+          "enemy": "avoid_3",
+          "kills": 3,
+          "deaths": 3,
+          "diff": 0
+        },
+        {
+          "enemy": "MINUUUSSS",
+          "kills": 6,
+          "deaths": 2,
+          "diff": 4
+        },
+        {
+          "enemy": "Gunen",
+          "kills": 4,
+          "deaths": 2,
+          "diff": 2
+        }
+      ]
+    },
+    {
+      "name": "avoid_3",
+      "steamid": "76561198766959529",
+      "team": "T",
+      "kills": 28,
+      "deaths": 17,
+      "assists": 6,
+      "hs": 12,
+      "hs_percent": 42,
+      "kd": 1.6470588235294117,
+      "adr": 160.7391304347826,
+      "fk": 1,
+      "fd": 1,
+      "blind_time": 6.874520448,
+      "util_dmg": 221,
+      "util_dmg_per_round": 9.608695652173912,
+      "fav_weapon": "AK-47",
+      "weapons": [
+        {
+          "name": "M4A4",
+          "kills": 10,
+          "hs": 4,
+          "hs_percent": 40
+        },
+        {
+          "name": "Desert Eagle",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "AK-47",
+          "kills": 13,
+          "hs": 4,
+          "hs_percent": 30
+        },
+        {
+          "name": "HE Grenade",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "P250",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "USP-S",
+          "kills": 2,
+          "hs": 2,
+          "hs_percent": 100
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "myshulka",
+          "kills": 8,
+          "deaths": 3,
+          "diff": 5
+        },
+        {
+          "enemy": "cheattopchik",
+          "kills": 4,
+          "deaths": 2,
+          "diff": 2
+        },
+        {
+          "enemy": "frosya4",
+          "kills": 7,
+          "deaths": 7,
+          "diff": 0
+        },
+        {
+          "enemy": "Dikaya kachka",
+          "kills": 3,
+          "deaths": 3,
+          "diff": 0
+        },
+        {
+          "enemy": "kuch_",
+          "kills": 6,
+          "deaths": 2,
+          "diff": 4
+        }
+      ]
+    },
+    {
+      "name": "kuch_",
+      "steamid": "76561199034456123",
+      "team": "CT",
+      "kills": 11,
+      "deaths": 21,
+      "assists": 10,
+      "hs": 7,
+      "hs_percent": 63,
+      "kd": 0.5238095238095238,
+      "adr": 79.08695652173913,
+      "fk": 1,
+      "fd": 5,
+      "blind_time": 3.382030528,
+      "util_dmg": 28,
+      "util_dmg_per_round": 1.2173913043478262,
+      "fav_weapon": "AK-47",
+      "weapons": [
+        {
+          "name": "USP-S",
+          "kills": 2,
+          "hs": 1,
+          "hs_percent": 50
+        },
+        {
+          "name": "MP7",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "M4A1",
+          "kills": 2,
+          "hs": 1,
+          "hs_percent": 50
+        },
+        {
+          "name": "Glock-18",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "AK-47",
+          "kills": 5,
+          "hs": 4,
+          "hs_percent": 80
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "wqshka",
+          "kills": 1,
+          "deaths": 5,
+          "diff": -4
+        },
+        {
+          "enemy": "avoid_3",
+          "kills": 2,
+          "deaths": 6,
+          "diff": -4
+        },
+        {
+          "enemy": "ChefSenya",
+          "kills": 3,
+          "deaths": 2,
+          "diff": 1
+        },
+        {
+          "enemy": "Gunen",
+          "kills": 2,
+          "deaths": 2,
+          "diff": 0
+        },
+        {
+          "enemy": "MINUUUSSS",
+          "kills": 3,
+          "deaths": 6,
+          "diff": -3
+        }
+      ]
+    },
+    {
+      "name": "cheattopchik",
+      "steamid": "76561199786282852",
+      "team": "CT",
+      "kills": 14,
+      "deaths": 18,
+      "assists": 5,
+      "hs": 3,
+      "hs_percent": 21,
+      "kd": 0.7777777777777778,
+      "adr": 99,
+      "fk": 2,
+      "fd": 3,
+      "blind_time": 6.658611712000001,
+      "util_dmg": 12,
+      "util_dmg_per_round": 0.5454545454545454,
+      "fav_weapon": "AK-47",
+      "weapons": [
+        {
+          "name": "Negev",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "AK-47",
+          "kills": 6,
+          "hs": 2,
+          "hs_percent": 33
+        },
+        {
+          "name": "Five-SeveN",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "M4A4",
+          "kills": 5,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "Glock-18",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "avoid_3",
+          "kills": 2,
+          "deaths": 4,
+          "diff": -2
+        },
+        {
+          "enemy": "wqshka",
+          "kills": 2,
+          "deaths": 5,
+          "diff": -3
+        },
+        {
+          "enemy": "ChefSenya",
+          "kills": 3,
+          "deaths": 5,
+          "diff": -2
+        },
+        {
+          "enemy": "MINUUUSSS",
+          "kills": 2,
+          "deaths": 2,
+          "diff": 0
+        },
+        {
+          "enemy": "Gunen",
+          "kills": 5,
+          "deaths": 2,
+          "diff": 3
+        }
+      ]
+    },
+    {
+      "name": "MINUUUSSS",
+      "steamid": "76561199045393127",
+      "team": "T",
+      "kills": 13,
+      "deaths": 15,
+      "assists": 2,
+      "hs": 3,
+      "hs_percent": 23,
+      "kd": 0.8666666666666667,
+      "adr": 121.7,
+      "fk": 4,
+      "fd": 1,
+      "blind_time": 0,
+      "util_dmg": 12,
+      "util_dmg_per_round": 0.6,
+      "fav_weapon": "AWP",
+      "weapons": [
+        {
+          "name": "Desert Eagle",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "AWP",
+          "kills": 12,
+          "hs": 2,
+          "hs_percent": 16
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "kuch_",
+          "kills": 6,
+          "deaths": 3,
+          "diff": 3
+        },
+        {
+          "enemy": "myshulka",
+          "kills": 2,
+          "deaths": 1,
+          "diff": 1
+        },
+        {
+          "enemy": "cheattopchik",
+          "kills": 2,
+          "deaths": 2,
+          "diff": 0
+        },
+        {
+          "enemy": "Dikaya kachka",
+          "kills": 2,
+          "deaths": 6,
+          "diff": -4
+        },
+        {
+          "enemy": "frosya4",
+          "kills": 1,
+          "deaths": 3,
+          "diff": -2
+        }
+      ]
+    },
+    {
+      "name": "myshulka",
+      "steamid": "76561199887422043",
+      "team": "CT",
+      "kills": 7,
+      "deaths": 20,
+      "assists": 2,
+      "hs": 2,
+      "hs_percent": 28,
+      "kd": 0.35,
+      "adr": 36.333333333333336,
+      "fk": 0,
+      "fd": 2,
+      "blind_time": 1.4786047999999998,
+      "util_dmg": 1,
+      "util_dmg_per_round": 0.047619047619047616,
+      "fav_weapon": "AK-47",
+      "weapons": [
+        {
+          "name": "Glock-18",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "AK-47",
+          "kills": 3,
+          "hs": 1,
+          "hs_percent": 33
+        },
+        {
+          "name": "MP5-SD",
+          "kills": 2,
+          "hs": 1,
+          "hs_percent": 50
+        },
+        {
+          "name": "M4A1",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "MINUUUSSS",
+          "kills": 1,
+          "deaths": 2,
+          "diff": -1
+        },
+        {
+          "enemy": "avoid_3",
+          "kills": 3,
+          "deaths": 8,
+          "diff": -5
+        },
+        {
+          "enemy": "wqshka",
+          "kills": 1,
+          "deaths": 5,
+          "diff": -4
+        },
+        {
+          "enemy": "ChefSenya",
+          "kills": 2,
+          "deaths": 4,
+          "diff": -2
+        },
+        {
+          "enemy": "Gunen",
+          "kills": 0,
+          "deaths": 1,
+          "diff": -1
+        }
+      ]
+    }
+  ],
+  "filename": "20376231_19098099_2511232147-de_ancient.dem",
+  "upload_date": "2025-11-23T21:47:00Z"
+}

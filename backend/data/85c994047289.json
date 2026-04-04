@@ -1,0 +1,3305 @@
+{
+  "id": "85c994047289",
+  "map": "De_mirage",
+  "rounds_count": 28,
+  "rounds_history": [
+    {
+      "round_num": 1,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 1,
+      "score_b": 0,
+      "kill_feed": [
+        {
+          "time": "0:10",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "MC MLADEN",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:24",
+          "killer": "Chikipuk",
+          "killer_team": "CT",
+          "victim": "hohlomet3000",
+          "victim_team": "T",
+          "weapon": "P2000",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:25",
+          "killer": "wood1e",
+          "killer_team": "CT",
+          "victim": "kuch_",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:26",
+          "killer": "YaB0G_A_Tb)_Lo}{",
+          "killer_team": "CT",
+          "victim": "Bandera1337",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:31",
+          "killer": "YaB0G_A_Tb)_Lo}{",
+          "killer_team": "CT",
+          "victim": "steam1user76",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 2,
+      "score_b": 0,
+      "kill_feed": [
+        {
+          "time": "0:12",
+          "killer": "wood1e",
+          "killer_team": "CT",
+          "victim": "MC MLADEN",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:21",
+          "killer": "hohlomet3000",
+          "killer_team": "T",
+          "victim": "cheattopchik",
+          "victim_team": "CT",
+          "weapon": "Glock-18",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:24",
+          "killer": "wood1e",
+          "killer_team": "CT",
+          "victim": "kuch_",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:28",
+          "killer": "wood1e",
+          "killer_team": "CT",
+          "victim": "hohlomet3000",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:48",
+          "killer": "Chikipuk",
+          "killer_team": "CT",
+          "victim": "steam1user76",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:49",
+          "killer": "Chikipuk",
+          "killer_team": "CT",
+          "victim": "Bandera1337",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "winner_side": "T",
+      "win_type": "bomb",
+      "score_a": 2,
+      "score_b": 1,
+      "kill_feed": [
+        {
+          "time": "0:11",
+          "killer": "hohlomet3000",
+          "killer_team": "T",
+          "victim": "wood1e",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:43",
+          "killer": "kuch_",
+          "killer_team": "T",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:46",
+          "killer": "MC MLADEN",
+          "killer_team": "T",
+          "victim": "Chikipuk",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:58",
+          "killer": "hohlomet3000",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "1:18",
+          "killer": "cheattopchik",
+          "killer_team": "CT",
+          "victim": "Bandera1337",
+          "victim_team": "T",
+          "weapon": "P90",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:22",
+          "killer": "kuch_",
+          "killer_team": "T",
+          "victim": "cheattopchik",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:29",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "kuch_",
+          "victim_team": "T",
+          "weapon": "MP7",
+          "hs": true,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 4,
+      "winner_side": "T",
+      "win_type": "bomb",
+      "score_a": 2,
+      "score_b": 2,
+      "kill_feed": [
+        {
+          "time": "0:20",
+          "killer": "Bandera1337",
+          "killer_team": "T",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:28",
+          "killer": "MC MLADEN",
+          "killer_team": "T",
+          "victim": "cheattopchik",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:28",
+          "killer": "wood1e",
+          "killer_team": "CT",
+          "victim": "MC MLADEN",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:31",
+          "killer": "wood1e",
+          "killer_team": "CT",
+          "victim": "steam1user76",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:33",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "kuch_",
+          "victim_team": "T",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:37",
+          "killer": "Bandera1337",
+          "killer_team": "T",
+          "victim": "wood1e",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:38",
+          "killer": "Bandera1337",
+          "killer_team": "T",
+          "victim": "Dikaya kachka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:46",
+          "killer": "Bandera1337",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "0:56",
+          "killer": "Chikipuk",
+          "killer_team": "CT",
+          "victim": "Bandera1337",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:27",
+          "killer": "World",
+          "killer_team": "NONE",
+          "victim": "Chikipuk",
+          "victim_team": "CT",
+          "weapon": "C4",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 5,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 2,
+      "score_b": 3,
+      "kill_feed": [
+        {
+          "time": "0:15",
+          "killer": "steam1user76",
+          "killer_team": "T",
+          "victim": "Dikaya kachka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:16",
+          "killer": "wood1e",
+          "killer_team": "CT",
+          "victim": "steam1user76",
+          "victim_team": "T",
+          "weapon": "Desert Eagle",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:19",
+          "killer": "wood1e",
+          "killer_team": "CT",
+          "victim": "MC MLADEN",
+          "victim_team": "T",
+          "weapon": "Desert Eagle",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:20",
+          "killer": "hohlomet3000",
+          "killer_team": "T",
+          "victim": "wood1e",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:23",
+          "killer": "kuch_",
+          "killer_team": "T",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:25",
+          "killer": "kuch_",
+          "killer_team": "T",
+          "victim": "Chikipuk",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:27",
+          "killer": "cheattopchik",
+          "killer_team": "CT",
+          "victim": "hohlomet3000",
+          "victim_team": "T",
+          "weapon": "Negev",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:29",
+          "killer": "kuch_",
+          "killer_team": "T",
+          "victim": "cheattopchik",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 6,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 2,
+      "score_b": 4,
+      "kill_feed": [
+        {
+          "time": "0:13",
+          "killer": "steam1user76",
+          "killer_team": "T",
+          "victim": "wood1e",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:17",
+          "killer": "hohlomet3000",
+          "killer_team": "T",
+          "victim": "Chikipuk",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:20",
+          "killer": "YaB0G_A_Tb)_Lo}{",
+          "killer_team": "CT",
+          "victim": "hohlomet3000",
+          "victim_team": "T",
+          "weapon": "MP7",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:21",
+          "killer": "kuch_",
+          "killer_team": "T",
+          "victim": "cheattopchik",
+          "victim_team": "CT",
+          "weapon": "HE Grenade",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:23",
+          "killer": "YaB0G_A_Tb)_Lo}{",
+          "killer_team": "CT",
+          "victim": "Bandera1337",
+          "victim_team": "T",
+          "weapon": "MP7",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:30",
+          "killer": "MC MLADEN",
+          "killer_team": "T",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:40",
+          "killer": "kuch_",
+          "killer_team": "T",
+          "victim": "Dikaya kachka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 7,
+      "winner_side": "T",
+      "win_type": "bomb",
+      "score_a": 2,
+      "score_b": 5,
+      "kill_feed": [
+        {
+          "time": "0:09",
+          "killer": "hohlomet3000",
+          "killer_team": "T",
+          "victim": "cheattopchik",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:22",
+          "killer": "steam1user76",
+          "killer_team": "T",
+          "victim": "Chikipuk",
+          "victim_team": "CT",
+          "weapon": "HE Grenade",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:23",
+          "killer": "MC MLADEN",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "0:27",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "kuch_",
+          "victim_team": "T",
+          "weapon": "Desert Eagle",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:27",
+          "killer": "Bandera1337",
+          "killer_team": "T",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "CT",
+          "weapon": "Galil AR",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:28",
+          "killer": "MC MLADEN",
+          "killer_team": "T",
+          "victim": "Dikaya kachka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:32",
+          "killer": "wood1e",
+          "killer_team": "CT",
+          "victim": "Bandera1337",
+          "victim_team": "T",
+          "weapon": "Desert Eagle",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:57",
+          "killer": "wood1e",
+          "killer_team": "CT",
+          "victim": "steam1user76",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 8,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 3,
+      "score_b": 5,
+      "kill_feed": [
+        {
+          "time": "0:15",
+          "killer": "steam1user76",
+          "killer_team": "T",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:25",
+          "killer": "wood1e",
+          "killer_team": "CT",
+          "victim": "MC MLADEN",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:29",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "Bandera1337",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:31",
+          "killer": "hohlomet3000",
+          "killer_team": "T",
+          "victim": "Chikipuk",
+          "victim_team": "CT",
+          "weapon": "Knife",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:37",
+          "killer": "cheattopchik",
+          "killer_team": "CT",
+          "victim": "hohlomet3000",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:50",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "kuch_",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:53",
+          "killer": "wood1e",
+          "killer_team": "CT",
+          "victim": "steam1user76",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 9,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 4,
+      "score_b": 5,
+      "kill_feed": [
+        {
+          "time": "0:24",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "MC MLADEN",
+          "victim_team": "T",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:24",
+          "killer": "hohlomet3000",
+          "killer_team": "T",
+          "victim": "Dikaya kachka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:28",
+          "killer": "wood1e",
+          "killer_team": "CT",
+          "victim": "hohlomet3000",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:32",
+          "killer": "steam1user76",
+          "killer_team": "T",
+          "victim": "cheattopchik",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:40",
+          "killer": "steam1user76",
+          "killer_team": "T",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:42",
+          "killer": "wood1e",
+          "killer_team": "CT",
+          "victim": "Bandera1337",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:44",
+          "killer": "kuch_",
+          "killer_team": "T",
+          "victim": "wood1e",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:51",
+          "killer": "Chikipuk",
+          "killer_team": "CT",
+          "victim": "steam1user76",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:58",
+          "killer": "Chikipuk",
+          "killer_team": "CT",
+          "victim": "kuch_",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 10,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 5,
+      "score_b": 5,
+      "kill_feed": [
+        {
+          "time": "0:23",
+          "killer": "YaB0G_A_Tb)_Lo}{",
+          "killer_team": "CT",
+          "victim": "MC MLADEN",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:23",
+          "killer": "Bandera1337",
+          "killer_team": "T",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "CT",
+          "weapon": "Desert Eagle",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:27",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "kuch_",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:29",
+          "killer": "steam1user76",
+          "killer_team": "T",
+          "victim": "wood1e",
+          "victim_team": "CT",
+          "weapon": "SSG 08",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:39",
+          "killer": "Bandera1337",
+          "killer_team": "T",
+          "victim": "Dikaya kachka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:44",
+          "killer": "Chikipuk",
+          "killer_team": "CT",
+          "victim": "Bandera1337",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:03",
+          "killer": "cheattopchik",
+          "killer_team": "CT",
+          "victim": "hohlomet3000",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:18",
+          "killer": "steam1user76",
+          "killer_team": "T",
+          "victim": "Chikipuk",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:21",
+          "killer": "cheattopchik",
+          "killer_team": "CT",
+          "victim": "steam1user76",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 11,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 5,
+      "score_b": 6,
+      "kill_feed": [
+        {
+          "time": "0:15",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "kuch_",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:30",
+          "killer": "Bandera1337",
+          "killer_team": "T",
+          "victim": "wood1e",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:08",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "Bandera1337",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:10",
+          "killer": "steam1user76",
+          "killer_team": "T",
+          "victim": "Dikaya kachka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:11",
+          "killer": "cheattopchik",
+          "killer_team": "CT",
+          "victim": "MC MLADEN",
+          "victim_team": "T",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:21",
+          "killer": "steam1user76",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "1:40",
+          "killer": "hohlomet3000",
+          "killer_team": "T",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:45",
+          "killer": "steam1user76",
+          "killer_team": "T",
+          "victim": "cheattopchik",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:45",
+          "killer": "hohlomet3000",
+          "killer_team": "T",
+          "victim": "Chikipuk",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 12,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 6,
+      "score_b": 6,
+      "kill_feed": [
+        {
+          "time": "0:12",
+          "killer": "kuch_",
+          "killer_team": "T",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:13",
+          "killer": "cheattopchik",
+          "killer_team": "CT",
+          "victim": "kuch_",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:18",
+          "killer": "Chikipuk",
+          "killer_team": "CT",
+          "victim": "Bandera1337",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:25",
+          "killer": "cheattopchik",
+          "killer_team": "CT",
+          "victim": "MC MLADEN",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:26",
+          "killer": "steam1user76",
+          "killer_team": "T",
+          "victim": "Chikipuk",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:29",
+          "killer": "steam1user76",
+          "killer_team": "T",
+          "victim": "cheattopchik",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:30",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "steam1user76",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:01",
+          "killer": "Dikaya kachka",
+          "killer_team": "CT",
+          "victim": "hohlomet3000",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 13,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 7,
+      "score_b": 6,
+      "kill_feed": [
+        {
+          "time": "0:11",
+          "killer": "MC MLADEN",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:11",
+          "killer": "wood1e",
+          "killer_team": "T",
+          "victim": "MC MLADEN",
+          "victim_team": "CT",
+          "weapon": "Glock-18",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:12",
+          "killer": "kuch_",
+          "killer_team": "CT",
+          "victim": "Dikaya kachka",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:27",
+          "killer": "kuch_",
+          "killer_team": "CT",
+          "victim": "wood1e",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:29",
+          "killer": "hohlomet3000",
+          "killer_team": "CT",
+          "victim": "Chikipuk",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:32",
+          "killer": "hohlomet3000",
+          "killer_team": "CT",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": true,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 14,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 8,
+      "score_b": 6,
+      "kill_feed": [
+        {
+          "time": "0:26",
+          "killer": "hohlomet3000",
+          "killer_team": "CT",
+          "victim": "Dikaya kachka",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:36",
+          "killer": "kuch_",
+          "killer_team": "CT",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:44",
+          "killer": "kuch_",
+          "killer_team": "CT",
+          "victim": "Chikipuk",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:46",
+          "killer": "wood1e",
+          "killer_team": "T",
+          "victim": "kuch_",
+          "victim_team": "CT",
+          "weapon": "Desert Eagle",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:53",
+          "killer": "wood1e",
+          "killer_team": "T",
+          "victim": "MC MLADEN",
+          "victim_team": "CT",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:56",
+          "killer": "steam1user76",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "P250",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:58",
+          "killer": "hohlomet3000",
+          "killer_team": "CT",
+          "victim": "wood1e",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 15,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 9,
+      "score_b": 6,
+      "kill_feed": [
+        {
+          "time": "0:20",
+          "killer": "MC MLADEN",
+          "killer_team": "CT",
+          "victim": "Chikipuk",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:28",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "hohlomet3000",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:39",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "MC MLADEN",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:42",
+          "killer": "kuch_",
+          "killer_team": "CT",
+          "victim": "Dikaya kachka",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:47",
+          "killer": "YaB0G_A_Tb)_Lo}{",
+          "killer_team": "T",
+          "victim": "kuch_",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:51",
+          "killer": "Bandera1337",
+          "killer_team": "CT",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:31",
+          "killer": "Bandera1337",
+          "killer_team": "CT",
+          "victim": "wood1e",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:35",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "steam1user76",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:45",
+          "killer": "Bandera1337",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 16,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 10,
+      "score_b": 6,
+      "kill_feed": [
+        {
+          "time": "0:38",
+          "killer": "kuch_",
+          "killer_team": "CT",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:45",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "MC MLADEN",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:46",
+          "killer": "hohlomet3000",
+          "killer_team": "CT",
+          "victim": "Dikaya kachka",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:50",
+          "killer": "kuch_",
+          "killer_team": "CT",
+          "victim": "Chikipuk",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:53",
+          "killer": "wood1e",
+          "killer_team": "T",
+          "victim": "kuch_",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:56",
+          "killer": "hohlomet3000",
+          "killer_team": "CT",
+          "victim": "wood1e",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:58",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "hohlomet3000",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:03",
+          "killer": "steam1user76",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 17,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 10,
+      "score_b": 7,
+      "kill_feed": [
+        {
+          "time": "0:13",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "kuch_",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:21",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "hohlomet3000",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:27",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "MC MLADEN",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:37",
+          "killer": "steam1user76",
+          "killer_team": "CT",
+          "victim": "Chikipuk",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:43",
+          "killer": "wood1e",
+          "killer_team": "T",
+          "victim": "steam1user76",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:58",
+          "killer": "YaB0G_A_Tb)_Lo}{",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "1:08",
+          "killer": "Bandera1337",
+          "killer_team": "CT",
+          "victim": "Dikaya kachka",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:17",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "Bandera1337",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 18,
+      "winner_side": "CT",
+      "win_type": "defuse",
+      "score_a": 11,
+      "score_b": 7,
+      "kill_feed": [
+        {
+          "time": "0:07",
+          "killer": "hohlomet3000",
+          "killer_team": "CT",
+          "victim": "Dikaya kachka",
+          "victim_team": "T",
+          "weapon": "SSG 08",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:15",
+          "killer": "hohlomet3000",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "SSG 08",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:22",
+          "killer": "Bandera1337",
+          "killer_team": "CT",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "T",
+          "weapon": "MP9",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:22",
+          "killer": "wood1e",
+          "killer_team": "T",
+          "victim": "MC MLADEN",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:23",
+          "killer": "Chikipuk",
+          "killer_team": "T",
+          "victim": "hohlomet3000",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:34",
+          "killer": "Bandera1337",
+          "killer_team": "CT",
+          "victim": "Chikipuk",
+          "victim_team": "T",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:07",
+          "killer": "wood1e",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "1:25",
+          "killer": "wood1e",
+          "killer_team": "T",
+          "victim": "Bandera1337",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:28",
+          "killer": "kuch_",
+          "killer_team": "CT",
+          "victim": "wood1e",
+          "victim_team": "T",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 19,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 11,
+      "score_b": 8,
+      "kill_feed": [
+        {
+          "time": "0:09",
+          "killer": "hohlomet3000",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:19",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "steam1user76",
+          "victim_team": "CT",
+          "weapon": "Desert Eagle",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:30",
+          "killer": "Bandera1337",
+          "killer_team": "CT",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:37",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "Bandera1337",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:44",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "0:53",
+          "killer": "wood1e",
+          "killer_team": "T",
+          "victim": "hohlomet3000",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:56",
+          "killer": "wood1e",
+          "killer_team": "T",
+          "victim": "kuch_",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:57",
+          "killer": "MC MLADEN",
+          "killer_team": "CT",
+          "victim": "wood1e",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:04",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "MC MLADEN",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 20,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 11,
+      "score_b": 9,
+      "kill_feed": [
+        {
+          "time": "0:17",
+          "killer": "wood1e",
+          "killer_team": "T",
+          "victim": "Bandera1337",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:27",
+          "killer": "kuch_",
+          "killer_team": "CT",
+          "victim": "Chikipuk",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:29",
+          "killer": "YaB0G_A_Tb)_Lo}{",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "0:33",
+          "killer": "kuch_",
+          "killer_team": "CT",
+          "victim": "wood1e",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:38",
+          "killer": "YaB0G_A_Tb)_Lo}{",
+          "killer_team": "T",
+          "victim": "MC MLADEN",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:39",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "hohlomet3000",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:39",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "kuch_",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:41",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "steam1user76",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 21,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 11,
+      "score_b": 10,
+      "kill_feed": [
+        {
+          "time": "0:12",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "Bandera1337",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:12",
+          "killer": "MC MLADEN",
+          "killer_team": "CT",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "T",
+          "weapon": "MP9",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:12",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "MC MLADEN",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:12",
+          "killer": "kuch_",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "CZ75 Auto",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:13",
+          "killer": "wood1e",
+          "killer_team": "T",
+          "victim": "steam1user76",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:15",
+          "killer": "wood1e",
+          "killer_team": "T",
+          "victim": "kuch_",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:29",
+          "killer": "wood1e",
+          "killer_team": "T",
+          "victim": "hohlomet3000",
+          "victim_team": "CT",
+          "weapon": "Molotov",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 22,
+      "winner_side": "T",
+      "win_type": "bomb",
+      "score_a": 11,
+      "score_b": 11,
+      "kill_feed": [
+        {
+          "time": "0:15",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "Bandera1337",
+          "victim_team": "CT",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:27",
+          "killer": "wood1e",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "0:36",
+          "killer": "MC MLADEN",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:41",
+          "killer": "YaB0G_A_Tb)_Lo}{",
+          "killer_team": "T",
+          "victim": "kuch_",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:45",
+          "killer": "MC MLADEN",
+          "killer_team": "CT",
+          "victim": "Chikipuk",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:51",
+          "killer": "hohlomet3000",
+          "killer_team": "CT",
+          "victim": "wood1e",
+          "victim_team": "T",
+          "weapon": "SSG 08",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:53",
+          "killer": "MC MLADEN",
+          "killer_team": "CT",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:53",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "hohlomet3000",
+          "victim_team": "CT",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:02",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "MC MLADEN",
+          "victim_team": "CT",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:02",
+          "killer": "steam1user76",
+          "killer_team": "CT",
+          "victim": "Dikaya kachka",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:08",
+          "killer": "World",
+          "killer_team": "NONE",
+          "victim": "steam1user76",
+          "victim_team": "CT",
+          "weapon": "C4",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 23,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 12,
+      "score_b": 11,
+      "kill_feed": [
+        {
+          "time": "0:18",
+          "killer": "Bandera1337",
+          "killer_team": "CT",
+          "victim": "wood1e",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:20",
+          "killer": "hohlomet3000",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "MP9",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:25",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "Bandera1337",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:26",
+          "killer": "kuch_",
+          "killer_team": "CT",
+          "victim": "Chikipuk",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:26",
+          "killer": "hohlomet3000",
+          "killer_team": "CT",
+          "victim": "Dikaya kachka",
+          "victim_team": "T",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:27",
+          "killer": "YaB0G_A_Tb)_Lo}{",
+          "killer_team": "T",
+          "victim": "hohlomet3000",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:38",
+          "killer": "steam1user76",
+          "killer_team": "CT",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 24,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 12,
+      "score_b": 12,
+      "kill_feed": [
+        {
+          "time": "0:50",
+          "killer": "YaB0G_A_Tb)_Lo}{",
+          "killer_team": "T",
+          "victim": "kuch_",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:53",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "MC MLADEN",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:55",
+          "killer": "steam1user76",
+          "killer_team": "CT",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "T",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:55",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "steam1user76",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:56",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "Bandera1337",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:02",
+          "killer": "wood1e",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "1:20",
+          "killer": "hohlomet3000",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:23",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "hohlomet3000",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 25,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 13,
+      "score_b": 12,
+      "kill_feed": [
+        {
+          "time": "0:47",
+          "killer": "YaB0G_A_Tb)_Lo}{",
+          "killer_team": "T",
+          "victim": "MC MLADEN",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:47",
+          "killer": "Bandera1337",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:49",
+          "killer": "Bandera1337",
+          "killer_team": "CT",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:54",
+          "killer": "kuch_",
+          "killer_team": "CT",
+          "victim": "wood1e",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:55",
+          "killer": "kuch_",
+          "killer_team": "CT",
+          "victim": "Dikaya kachka",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:02",
+          "killer": "steam1user76",
+          "killer_team": "CT",
+          "victim": "Chikipuk",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 26,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 14,
+      "score_b": 12,
+      "kill_feed": [
+        {
+          "time": "0:16",
+          "killer": "hohlomet3000",
+          "killer_team": "CT",
+          "victim": "wood1e",
+          "victim_team": "T",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:16",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "hohlomet3000",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:17",
+          "killer": "Bandera1337",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:19",
+          "killer": "Bandera1337",
+          "killer_team": "CT",
+          "victim": "Chikipuk",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:21",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "Bandera1337",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:24",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "steam1user76",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:26",
+          "killer": "kuch_",
+          "killer_team": "CT",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:29",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "kuch_",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:36",
+          "killer": "MC MLADEN",
+          "killer_team": "CT",
+          "victim": "Dikaya kachka",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 27,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 15,
+      "score_b": 12,
+      "kill_feed": [
+        {
+          "time": "0:17",
+          "killer": "wood1e",
+          "killer_team": "T",
+          "victim": "hohlomet3000",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:31",
+          "killer": "Bandera1337",
+          "killer_team": "CT",
+          "victim": "wood1e",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:37",
+          "killer": "kuch_",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:47",
+          "killer": "Dikaya kachka",
+          "killer_team": "T",
+          "victim": "steam1user76",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:50",
+          "killer": "Bandera1337",
+          "killer_team": "CT",
+          "victim": "Dikaya kachka",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:52",
+          "killer": "YaB0G_A_Tb)_Lo}{",
+          "killer_team": "T",
+          "victim": "kuch_",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:52",
+          "killer": "MC MLADEN",
+          "killer_team": "CT",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:04",
+          "killer": "MC MLADEN",
+          "killer_team": "CT",
+          "victim": "Chikipuk",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 28,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 12,
+      "score_b": 16,
+      "kill_feed": [
+        {
+          "time": "0:11",
+          "killer": "Bandera1337",
+          "killer_team": "T",
+          "victim": "Dikaya kachka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:24",
+          "killer": "kuch_",
+          "killer_team": "T",
+          "victim": "Chikipuk",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:25",
+          "killer": "MC MLADEN",
+          "killer_team": "T",
+          "victim": "cheattopchik",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:29",
+          "killer": "YaB0G_A_Tb)_Lo}{",
+          "killer_team": "CT",
+          "victim": "MC MLADEN",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:30",
+          "killer": "hohlomet3000",
+          "killer_team": "T",
+          "victim": "YaB0G_A_Tb)_Lo}{",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:43",
+          "killer": "steam1user76",
+          "killer_team": "T",
+          "victim": "wood1e",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    }
+  ],
+  "final_score_t": 16,
+  "final_score_ct": 12,
+  "players": [
+    {
+      "name": "cheattopchik",
+      "steamid": "76561199786282852",
+      "team": "CT",
+      "kills": 19,
+      "deaths": 23,
+      "assists": 6,
+      "hs": 8,
+      "hs_percent": 42,
+      "kd": 0.8260869565217391,
+      "adr": 99.53846153846153,
+      "fk": 2,
+      "fd": 3,
+      "blind_time": 7.7812938240000005,
+      "util_dmg": 94,
+      "util_dmg_per_round": 3.6153846153846154,
+      "fav_weapon": "AK-47",
+      "weapons": [
+        {
+          "name": "P90",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "Negev",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "M4A4",
+          "kills": 5,
+          "hs": 1,
+          "hs_percent": 20
+        },
+        {
+          "name": "AK-47",
+          "kills": 12,
+          "hs": 5,
+          "hs_percent": 41
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "hohlomet3000",
+          "kills": 6,
+          "deaths": 6,
+          "diff": 0
+        },
+        {
+          "enemy": "Bandera1337",
+          "kills": 4,
+          "deaths": 3,
+          "diff": 1
+        },
+        {
+          "enemy": "kuch_",
+          "kills": 2,
+          "deaths": 5,
+          "diff": -3
+        },
+        {
+          "enemy": "MC MLADEN",
+          "kills": 5,
+          "deaths": 4,
+          "diff": 1
+        },
+        {
+          "enemy": "steam1user76",
+          "kills": 2,
+          "deaths": 5,
+          "diff": -3
+        }
+      ]
+    },
+    {
+      "name": "Dikaya kachka",
+      "steamid": "76561198863013576",
+      "team": "CT",
+      "kills": 31,
+      "deaths": 19,
+      "assists": 14,
+      "hs": 19,
+      "hs_percent": 61,
+      "kd": 1.631578947368421,
+      "adr": 164.67857142857142,
+      "fk": 4,
+      "fd": 4,
+      "blind_time": 50.629764544000004,
+      "util_dmg": 322,
+      "util_dmg_per_round": 11.5,
+      "fav_weapon": "AK-47",
+      "weapons": [
+        {
+          "name": "M4A4",
+          "kills": 2,
+          "hs": 2,
+          "hs_percent": 100
+        },
+        {
+          "name": "USP-S",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "MP7",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "AK-47",
+          "kills": 17,
+          "hs": 9,
+          "hs_percent": 52
+        },
+        {
+          "name": "Desert Eagle",
+          "kills": 2,
+          "hs": 2,
+          "hs_percent": 100
+        },
+        {
+          "name": "M4A1",
+          "kills": 7,
+          "hs": 4,
+          "hs_percent": 57
+        },
+        {
+          "name": "AWP",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "hohlomet3000",
+          "kills": 5,
+          "deaths": 5,
+          "diff": 0
+        },
+        {
+          "enemy": "MC MLADEN",
+          "kills": 6,
+          "deaths": 2,
+          "diff": 4
+        },
+        {
+          "enemy": "kuch_",
+          "kills": 8,
+          "deaths": 4,
+          "diff": 4
+        },
+        {
+          "enemy": "Bandera1337",
+          "kills": 6,
+          "deaths": 5,
+          "diff": 1
+        },
+        {
+          "enemy": "steam1user76",
+          "kills": 6,
+          "deaths": 3,
+          "diff": 3
+        }
+      ]
+    },
+    {
+      "name": "YaB0G_A_Tb)_Lo}{",
+      "steamid": "76561198861841702",
+      "team": "CT",
+      "kills": 13,
+      "deaths": 24,
+      "assists": 4,
+      "hs": 5,
+      "hs_percent": 38,
+      "kd": 0.5416666666666666,
+      "adr": 64.26923076923077,
+      "fk": 3,
+      "fd": 4,
+      "blind_time": 0,
+      "util_dmg": 0,
+      "util_dmg_per_round": 0,
+      "fav_weapon": "AK-47",
+      "weapons": [
+        {
+          "name": "USP-S",
+          "kills": 2,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "MP7",
+          "kills": 2,
+          "hs": 1,
+          "hs_percent": 50
+        },
+        {
+          "name": "M4A1",
+          "kills": 2,
+          "hs": 1,
+          "hs_percent": 50
+        },
+        {
+          "name": "AK-47",
+          "kills": 7,
+          "hs": 3,
+          "hs_percent": 42
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "Bandera1337",
+          "kills": 2,
+          "deaths": 7,
+          "diff": -5
+        },
+        {
+          "enemy": "steam1user76",
+          "kills": 1,
+          "deaths": 4,
+          "diff": -3
+        },
+        {
+          "enemy": "kuch_",
+          "kills": 4,
+          "deaths": 6,
+          "diff": -2
+        },
+        {
+          "enemy": "hohlomet3000",
+          "kills": 2,
+          "deaths": 3,
+          "diff": -1
+        },
+        {
+          "enemy": "MC MLADEN",
+          "kills": 4,
+          "deaths": 4,
+          "diff": 0
+        }
+      ]
+    },
+    {
+      "name": "Bandera1337",
+      "steamid": "76561198860750091",
+      "team": "T",
+      "kills": 22,
+      "deaths": 20,
+      "assists": 9,
+      "hs": 7,
+      "hs_percent": 31,
+      "kd": 1.1,
+      "adr": 112.48,
+      "fk": 3,
+      "fd": 3,
+      "blind_time": 14.6837056,
+      "util_dmg": 155,
+      "util_dmg_per_round": 6.2,
+      "fav_weapon": "M4A4",
+      "weapons": [
+        {
+          "name": "Desert Eagle",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "M4A1",
+          "kills": 3,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "M4A4",
+          "kills": 9,
+          "hs": 3,
+          "hs_percent": 33
+        },
+        {
+          "name": "MP9",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "AK-47",
+          "kills": 7,
+          "hs": 4,
+          "hs_percent": 57
+        },
+        {
+          "name": "Galil AR",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "wood1e",
+          "kills": 5,
+          "deaths": 4,
+          "diff": 1
+        },
+        {
+          "enemy": "Dikaya kachka",
+          "kills": 5,
+          "deaths": 6,
+          "diff": -1
+        },
+        {
+          "enemy": "YaB0G_A_Tb)_Lo}{",
+          "kills": 7,
+          "deaths": 2,
+          "diff": 5
+        },
+        {
+          "enemy": "Chikipuk",
+          "kills": 2,
+          "deaths": 4,
+          "diff": -2
+        },
+        {
+          "enemy": "cheattopchik",
+          "kills": 3,
+          "deaths": 4,
+          "diff": -1
+        }
+      ]
+    },
+    {
+      "name": "steam1user76",
+      "steamid": "76561199785765417",
+      "team": "T",
+      "kills": 20,
+      "deaths": 18,
+      "assists": 2,
+      "hs": 11,
+      "hs_percent": 55,
+      "kd": 1.1111111111111112,
+      "adr": 104.73076923076923,
+      "fk": 3,
+      "fd": 0,
+      "blind_time": 9.760025855999999,
+      "util_dmg": 86,
+      "util_dmg_per_round": 3.3076923076923075,
+      "fav_weapon": "AK-47",
+      "weapons": [
+        {
+          "name": "AK-47",
+          "kills": 10,
+          "hs": 7,
+          "hs_percent": 70
+        },
+        {
+          "name": "HE Grenade",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "AWP",
+          "kills": 2,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "SSG 08",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "P250",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "M4A1",
+          "kills": 5,
+          "hs": 3,
+          "hs_percent": 60
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "wood1e",
+          "kills": 3,
+          "deaths": 6,
+          "diff": -3
+        },
+        {
+          "enemy": "Dikaya kachka",
+          "kills": 3,
+          "deaths": 6,
+          "diff": -3
+        },
+        {
+          "enemy": "cheattopchik",
+          "kills": 5,
+          "deaths": 2,
+          "diff": 3
+        },
+        {
+          "enemy": "YaB0G_A_Tb)_Lo}{",
+          "kills": 4,
+          "deaths": 1,
+          "diff": 3
+        },
+        {
+          "enemy": "Chikipuk",
+          "kills": 5,
+          "deaths": 2,
+          "diff": 3
+        }
+      ]
+    },
+    {
+      "name": "Chikipuk",
+      "steamid": "76561199576987472",
+      "team": "CT",
+      "kills": 9,
+      "deaths": 22,
+      "assists": 6,
+      "hs": 4,
+      "hs_percent": 44,
+      "kd": 0.4090909090909091,
+      "adr": 63.2,
+      "fk": 0,
+      "fd": 1,
+      "blind_time": 0,
+      "util_dmg": 0,
+      "util_dmg_per_round": 0,
+      "fav_weapon": "M4A1",
+      "weapons": [
+        {
+          "name": "P2000",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "M4A1",
+          "kills": 7,
+          "hs": 2,
+          "hs_percent": 28
+        },
+        {
+          "name": "AK-47",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "hohlomet3000",
+          "kills": 2,
+          "deaths": 4,
+          "diff": -2
+        },
+        {
+          "enemy": "steam1user76",
+          "kills": 2,
+          "deaths": 5,
+          "diff": -3
+        },
+        {
+          "enemy": "Bandera1337",
+          "kills": 4,
+          "deaths": 2,
+          "diff": 2
+        },
+        {
+          "enemy": "MC MLADEN",
+          "kills": 0,
+          "deaths": 4,
+          "diff": -4
+        },
+        {
+          "enemy": "kuch_",
+          "kills": 1,
+          "deaths": 6,
+          "diff": -5
+        }
+      ]
+    },
+    {
+      "name": "kuch_",
+      "steamid": "76561199034456123",
+      "team": "T",
+      "kills": 26,
+      "deaths": 21,
+      "assists": 5,
+      "hs": 7,
+      "hs_percent": 26,
+      "kd": 1.2380952380952381,
+      "adr": 103.28571428571429,
+      "fk": 2,
+      "fd": 3,
+      "blind_time": 0,
+      "util_dmg": 20,
+      "util_dmg_per_round": 0.7142857142857143,
+      "fav_weapon": "M4A1",
+      "weapons": [
+        {
+          "name": "USP-S",
+          "kills": 2,
+          "hs": 1,
+          "hs_percent": 50
+        },
+        {
+          "name": "M4A1",
+          "kills": 12,
+          "hs": 4,
+          "hs_percent": 33
+        },
+        {
+          "name": "CZ75 Auto",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "AK-47",
+          "kills": 10,
+          "hs": 2,
+          "hs_percent": 20
+        },
+        {
+          "name": "HE Grenade",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "wood1e",
+          "kills": 5,
+          "deaths": 6,
+          "diff": -1
+        },
+        {
+          "enemy": "YaB0G_A_Tb)_Lo}{",
+          "kills": 6,
+          "deaths": 4,
+          "diff": 2
+        },
+        {
+          "enemy": "cheattopchik",
+          "kills": 5,
+          "deaths": 2,
+          "diff": 3
+        },
+        {
+          "enemy": "Dikaya kachka",
+          "kills": 4,
+          "deaths": 8,
+          "diff": -4
+        },
+        {
+          "enemy": "Chikipuk",
+          "kills": 6,
+          "deaths": 1,
+          "diff": 5
+        }
+      ]
+    },
+    {
+      "name": "MC MLADEN",
+      "steamid": "76561198807168215",
+      "team": "T",
+      "kills": 15,
+      "deaths": 22,
+      "assists": 6,
+      "hs": 4,
+      "hs_percent": 26,
+      "kd": 0.6818181818181818,
+      "adr": 80.62962962962963,
+      "fk": 2,
+      "fd": 5,
+      "blind_time": 0,
+      "util_dmg": 8,
+      "util_dmg_per_round": 0.2962962962962963,
+      "fav_weapon": "M4A1",
+      "weapons": [
+        {
+          "name": "AK-47",
+          "kills": 5,
+          "hs": 2,
+          "hs_percent": 40
+        },
+        {
+          "name": "USP-S",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "M4A1",
+          "kills": 8,
+          "hs": 1,
+          "hs_percent": 12
+        },
+        {
+          "name": "MP9",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "wood1e",
+          "kills": 1,
+          "deaths": 7,
+          "diff": -6
+        },
+        {
+          "enemy": "Chikipuk",
+          "kills": 4,
+          "deaths": 0,
+          "diff": 4
+        },
+        {
+          "enemy": "cheattopchik",
+          "kills": 4,
+          "deaths": 5,
+          "diff": -1
+        },
+        {
+          "enemy": "YaB0G_A_Tb)_Lo}{",
+          "kills": 4,
+          "deaths": 4,
+          "diff": 0
+        },
+        {
+          "enemy": "Dikaya kachka",
+          "kills": 2,
+          "deaths": 6,
+          "diff": -4
+        }
+      ]
+    },
+    {
+      "name": "wood1e",
+      "steamid": "76561199110513233",
+      "team": "CT",
+      "kills": 28,
+      "deaths": 20,
+      "assists": 5,
+      "hs": 16,
+      "hs_percent": 57,
+      "kd": 1.4,
+      "adr": 139.75,
+      "fk": 3,
+      "fd": 4,
+      "blind_time": 56.22012992,
+      "util_dmg": 273,
+      "util_dmg_per_round": 9.75,
+      "fav_weapon": "AK-47",
+      "weapons": [
+        {
+          "name": "AK-47",
+          "kills": 10,
+          "hs": 7,
+          "hs_percent": 70
+        },
+        {
+          "name": "Molotov",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "USP-S",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "M4A1",
+          "kills": 7,
+          "hs": 3,
+          "hs_percent": 42
+        },
+        {
+          "name": "AWP",
+          "kills": 4,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "Desert Eagle",
+          "kills": 4,
+          "hs": 4,
+          "hs_percent": 100
+        },
+        {
+          "name": "Glock-18",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "Bandera1337",
+          "kills": 4,
+          "deaths": 5,
+          "diff": -1
+        },
+        {
+          "enemy": "steam1user76",
+          "kills": 6,
+          "deaths": 3,
+          "diff": 3
+        },
+        {
+          "enemy": "kuch_",
+          "kills": 6,
+          "deaths": 5,
+          "diff": 1
+        },
+        {
+          "enemy": "MC MLADEN",
+          "kills": 7,
+          "deaths": 1,
+          "diff": 6
+        },
+        {
+          "enemy": "hohlomet3000",
+          "kills": 5,
+          "deaths": 6,
+          "diff": -1
+        }
+      ]
+    },
+    {
+      "name": "hohlomet3000",
+      "steamid": "76561198434489836",
+      "team": "T",
+      "kills": 24,
+      "deaths": 20,
+      "assists": 10,
+      "hs": 12,
+      "hs_percent": 50,
+      "kd": 1.2,
+      "adr": 154.42307692307693,
+      "fk": 6,
+      "fd": 1,
+      "blind_time": 10.728610944,
+      "util_dmg": 308,
+      "util_dmg_per_round": 11.846153846153847,
+      "fav_weapon": "AK-47",
+      "weapons": [
+        {
+          "name": "AWP",
+          "kills": 6,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "SSG 08",
+          "kills": 3,
+          "hs": 3,
+          "hs_percent": 100
+        },
+        {
+          "name": "MP9",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "Glock-18",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "AK-47",
+          "kills": 7,
+          "hs": 4,
+          "hs_percent": 57
+        },
+        {
+          "name": "Knife",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "USP-S",
+          "kills": 2,
+          "hs": 2,
+          "hs_percent": 100
+        },
+        {
+          "name": "M4A1",
+          "kills": 2,
+          "hs": 1,
+          "hs_percent": 50
+        },
+        {
+          "name": "M4A4",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "Chikipuk",
+          "kills": 4,
+          "deaths": 2,
+          "diff": 2
+        },
+        {
+          "enemy": "cheattopchik",
+          "kills": 6,
+          "deaths": 6,
+          "diff": 0
+        },
+        {
+          "enemy": "wood1e",
+          "kills": 6,
+          "deaths": 5,
+          "diff": 1
+        },
+        {
+          "enemy": "YaB0G_A_Tb)_Lo}{",
+          "kills": 3,
+          "deaths": 2,
+          "diff": 1
+        },
+        {
+          "enemy": "Dikaya kachka",
+          "kills": 5,
+          "deaths": 5,
+          "diff": 0
+        }
+      ]
+    }
+  ],
+  "filename": "19834011_18554582_2510181940-de_mirage.dem",
+  "upload_date": "2025-10-18T19:40:00Z"
+}

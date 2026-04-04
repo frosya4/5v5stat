@@ -1,0 +1,807 @@
+=============================================================
+  DEMO: 23371609_22010831_2604032038-de_ancient.dem
+  SCORE: CT 6 - 13 T   (19 rounds)
+  Parsed in: 3.704s
+=============================================================
+
+--- SCOREBOARD (Basic) ---
+
+  Player                   K   D   A   ADR  KAST   HS%    UD    FK   FD    k2  k3+
+  [CT]
+  cheattopchik            10  18   0    56  140%   60%    47     0    0     3    0
+  EBAL_MATVEYA             7  14   0    52  105%   43%     0     2    0     1    0
+  _Dream_                 14  19   0    84  165%   50%     0     4    0     1    1
+  vanalpisyn               4  18   0    22  110%   25%    18     0    0     1    0
+  danektraher             23  17   0   120  200%   57%    49     3    0     6    2
+
+  [T]
+  YaB0G_A_Tb)_Lo}{        22  15   0   132  185%   55%    95     9    0     6    2
+  Chelka25                22  12   0   111  170%   32%    39     1    0     4    1
+  frosya4                 20  13   0   102  165%   55%    72     1    0     5    2
+  MC MLADEN               12  13   0    66  125%   25%   142     0    0     1    1
+  myshulka                 8  12   0    37  100%    0%    55     0    0     1    0
+
+--- ADVANCED STATS ---
+
+  [T] MC MLADEN
+    Kills=12  Deaths=13  HS=3(25%)  UD=142
+    Opening: FK=0 FD=0  TradeKills=0
+    Multikills: 2k=1 3k=1 4k=0 5k=0
+    Clutches: 1v1=0 1v2=0 1v3=0 1v4=0 1v5=0
+    Flash: 2 enemies flashed  5.5s total blind time
+    Path samples: 639 positions logged
+    Approx. distance traveled: 141218 units
+
+  [T] myshulka
+    Kills=8  Deaths=12  HS=0(0%)  UD=55
+    Opening: FK=0 FD=0  TradeKills=0
+    Multikills: 2k=1 3k=0 4k=0 5k=0
+    Clutches: 1v1=0 1v2=0 1v3=0 1v4=0 1v5=0
+    Flash: 2 enemies flashed  4.7s total blind time
+    Path samples: 668 positions logged
+    Approx. distance traveled: 146833 units
+
+  [CT] danektraher
+    Kills=23  Deaths=17  HS=13(57%)  UD=49
+    Opening: FK=3 FD=0  TradeKills=0
+    Multikills: 2k=6 3k=1 4k=0 5k=1
+    Clutches: 1v1=0 1v2=0 1v3=0 1v4=0 1v5=0
+    Flash: 8 enemies flashed  18.1s total blind time
+    Path samples: 630 positions logged
+    Approx. distance traveled: 136032 units
+
+  [CT] cheattopchik
+    Kills=10  Deaths=18  HS=6(60%)  UD=47
+    Opening: FK=0 FD=0  TradeKills=0
+    Multikills: 2k=3 3k=0 4k=0 5k=0
+    Clutches: 1v1=0 1v2=0 1v3=0 1v4=0 1v5=0
+    Flash: 1 enemies flashed  1.0s total blind time
+    Path samples: 705 positions logged
+    Approx. distance traveled: 141704 units
+
+  [CT] EBAL_MATVEYA
+    Kills=7  Deaths=14  HS=3(43%)  UD=0
+    Opening: FK=2 FD=0  TradeKills=0
+    Multikills: 2k=1 3k=0 4k=0 5k=0
+    Clutches: 1v1=0 1v2=0 1v3=0 1v4=0 1v5=0
+    Flash: 7 enemies flashed  14.9s total blind time
+    Path samples: 472 positions logged
+    Approx. distance traveled: 104965 units
+
+  [T] YaB0G_A_Tb)_Lo}{
+    Kills=22  Deaths=15  HS=12(55%)  UD=95
+    Opening: FK=9 FD=0  TradeKills=0
+    Multikills: 2k=6 3k=2 4k=0 5k=0
+    Clutches: 1v1=0 1v2=0 1v3=0 1v4=0 1v5=0
+    Flash: 15 enemies flashed  38.4s total blind time
+    Path samples: 591 positions logged
+    Approx. distance traveled: 147490 units
+
+  [T] Chelka25
+    Kills=22  Deaths=12  HS=7(32%)  UD=39
+    Opening: FK=1 FD=0  TradeKills=0
+    Multikills: 2k=4 3k=0 4k=0 5k=1
+    Clutches: 1v1=0 1v2=0 1v3=0 1v4=0 1v5=0
+    Flash: 29 enemies flashed  61.2s total blind time
+    Path samples: 768 positions logged
+    Approx. distance traveled: 168970 units
+
+  [CT] _Dream_
+    Kills=14  Deaths=19  HS=7(50%)  UD=0
+    Opening: FK=4 FD=0  TradeKills=0
+    Multikills: 2k=1 3k=1 4k=0 5k=0
+    Clutches: 1v1=0 1v2=0 1v3=0 1v4=0 1v5=0
+    Flash: 1 enemies flashed  3.8s total blind time
+    Path samples: 596 positions logged
+    Approx. distance traveled: 135547 units
+
+  [CT] vanalpisyn
+    Kills=4  Deaths=18  HS=1(25%)  UD=18
+    Opening: FK=0 FD=0  TradeKills=0
+    Multikills: 2k=1 3k=0 4k=0 5k=0
+    Clutches: 1v1=0 1v2=0 1v3=0 1v4=0 1v5=0
+    Flash: 5 enemies flashed  7.7s total blind time
+    Path samples: 633 positions logged
+    Approx. distance traveled: 136079 units
+
+  [T] frosya4
+    Kills=20  Deaths=13  HS=11(55%)  UD=72
+    Opening: FK=1 FD=0  TradeKills=0
+    Multikills: 2k=5 3k=1 4k=1 5k=0
+    Clutches: 1v1=0 1v2=0 1v3=0 1v4=0 1v5=0
+    Flash: 32 enemies flashed  81.1s total blind time
+    Path samples: 718 positions logged
+    Approx. distance traveled: 143691 units
+
+--- ROUND-BY-ROUND EVENTS ---
+
+ROUND  1 | Winner=T   (ct_surrender) | Score CT 0 - 0 T
+  Economy -> T: $4000 (Eco, eq=$0)  CT: $4000 (Eco, eq=$0)
+  KILL  tick=  2204  EBAL_MATVEYA[CT] -> frosya4[T]  via Knife yaw=25.2 kpos=(-407,-836,32) vpos=(-374,-818,32)
+  KILL  tick=  2235  YaB0G_A_Tb)_Lo}{[T] -> cheattopchik[CT]  via Knife yaw=74.7 kpos=(-792,-717,38) vpos=(-760,-651,38)
+  KILL  tick=  2472  myshulka[T] -> EBAL_MATVEYA[CT]  via Knife yaw=-153.3 kpos=(-701,-777,32) vpos=(-733,-775,33)
+  KILL  tick=  2500  MC MLADEN[T] -> danektraher[CT]  via Knife yaw=-139.2 kpos=(-836,-690,39) vpos=(-887,-720,36)
+  KILL  tick=  2533  _Dream_[CT] -> YaB0G_A_Tb)_Lo}{[T]  via Knife yaw=-179.4 kpos=(-1013,-853,36) vpos=(-1046,-853,35)
+  KILL  tick=  2619  MC MLADEN[T] -> _Dream_[CT]  via Knife yaw=-143.6 kpos=(-1154,-843,37) vpos=(-1188,-847,42)
+  KILL  tick=  2656  vanalpisyn[CT] -> myshulka[T]  via Knife yaw=-146.7 kpos=(-1019,-801,35) vpos=(-1086,-848,35)
+  KILL  tick=  2849  Chelka25[T] -> vanalpisyn[CT]  via Knife yaw=5.2 kpos=(-1036,-802,36) vpos=(-1004,-799,33)
+
+ROUND  2 | Winner=CT  (t_surrender) | Score CT 1 - 0 T
+  Economy -> T: $4000 (Eco, eq=$3250)  CT: $4000 (Eco, eq=$3250)
+  GRENADE  tick=  5107  YaB0G_A_Tb)_Lo}{[CT]  type=Flashbang  pos=(-515,-179,145)
+  GRENADE  tick=  5130  YaB0G_A_Tb)_Lo}{[CT]  type=HE Grenade  pos=(-918,-700,107)
+  KILL  tick=  5249  YaB0G_A_Tb)_Lo}{[CT] -> danektraher[T]  via USP-S [HS] yaw=-18.3 kpos=(-1203,-65,104) vpos=(-542,-272,56)
+  GRENADE  tick=  5448  vanalpisyn[T]  type=Flashbang  pos=(-702,-848,392)
+  KILL  tick=  5459  frosya4[CT] -> vanalpisyn[T]  via USP-S [HS] yaw=63.0 kpos=(-1184,-896,37) vpos=(-1133,-807,38)
+  KILL  tick=  5469  YaB0G_A_Tb)_Lo}{[CT] -> EBAL_MATVEYA[T]  via USP-S [HS] yaw=-26.2 kpos=(-1401,59,106) vpos=(-333,-476,38)
+  KILL  tick=  5528  frosya4[CT] -> cheattopchik[T]  via USP-S [HS] yaw=27.2 kpos=(-988,-841,34) vpos=(-692,-678,32)
+  KILL  tick=  5754  MC MLADEN[CT] -> _Dream_[T]  via USP-S yaw=72.4 kpos=(-708,-830,32) vpos=(-449,-31,100)
+
+ROUND  3 | Winner=CT  (t_surrender) | Score CT 2 - 0 T
+  Economy -> T: $11500 (Force, eq=$2000)  CT: $20550 (Full, eq=$3450)
+  KILL  tick=  8264  YaB0G_A_Tb)_Lo}{[CT] -> EBAL_MATVEYA[T]  via MP9 yaw=-175.9 kpos=(-316,-761,115) vpos=(-1139,-826,36)
+  GRENADE  tick=  8308  YaB0G_A_Tb)_Lo}{[CT]  type=HE Grenade  pos=(-915,-729,114)
+  GRENADE  tick=  8412  Chelka25[CT]  type=Flashbang  pos=(-1586,877,54)
+  GRENADE  tick=  8414  MC MLADEN[CT]  type=Incendiary Grenade  pos=(-1821,1011,57)
+  KILL  tick=  8437  YaB0G_A_Tb)_Lo}{[CT] -> danektraher[T]  via MP9 [HS] yaw=-1.7 kpos=(-164,-804,154) vpos=(935,-836,17)
+  GRENADE  tick=  8437  frosya4[CT]  type=Incendiary Grenade  pos=(715,-785,249)
+  GRENADE  tick=  8612  frosya4[CT]  type=Flashbang  pos=(637,-354,296)
+  KILL  tick=  8792  _Dream_[T] -> Chelka25[CT]  via Desert Eagle [HS] yaw=77.0 kpos=(-2168,-363,76) vpos=(-1855,1013,52)
+  KILL  tick=  9154  MC MLADEN[CT] -> _Dream_[T]  via MP7 yaw=-152.0 kpos=(-1748,609,73) vpos=(-2061,441,75)
+  KILL  tick=  9302  vanalpisyn[T] -> MC MLADEN[CT]  via Desert Eagle yaw=47.5 kpos=(-2121,366,88) vpos=(-1805,682,52)
+  GRENADE  tick=  9830  cheattopchik[T]  type=Incendiary Grenade  pos=(-2029,124,78)
+  KILL  tick=  9867  myshulka[CT] -> vanalpisyn[T]  via MP5-SD yaw=84.8 kpos=(-1353,-54,106) vpos=(-1284,708,56)
+  GRENADE  tick= 10062  YaB0G_A_Tb)_Lo}{[CT]  type=Flashbang  pos=(-1688,301,1060)
+  KILL  tick= 10282  myshulka[CT] -> cheattopchik[T]  via MP5-SD yaw=107.9 kpos=(-1381,374,91) vpos=(-1633,1156,52)
+
+ROUND  4 | Winner=CT  (defuse) | Score CT 3 - 0 T
+  Economy -> T: $20700 (Full, eq=$2900)  CT: $27600 (Full, eq=$13800)
+  GRENADE  tick= 12574  YaB0G_A_Tb)_Lo}{[CT]  type=Incendiary Grenade  pos=(-880,-688,40)
+  GRENADE  tick= 12619  Chelka25[CT]  type=Incendiary Grenade  pos=(1382,-641,17)
+  KILL  tick= 12718  YaB0G_A_Tb)_Lo}{[CT] -> EBAL_MATVEYA[T]  via MP9 yaw=-145.3 kpos=(-550,-481,38) vpos=(-1168,-958,36)
+  GRENADE  tick= 12732  frosya4[CT]  type=Incendiary Grenade  pos=(-778,-856,41)
+  GRENADE  tick= 12815  YaB0G_A_Tb)_Lo}{[CT]  type=HE Grenade  pos=(-894,-763,142)
+  GRENADE  tick= 12903  frosya4[CT]  type=Flashbang  pos=(-869,-770,179)
+  GRENADE  tick= 13098  frosya4[CT]  type=Flashbang  pos=(-846,-732,218)
+  KILL  tick= 13366  YaB0G_A_Tb)_Lo}{[CT] -> vanalpisyn[T]  via MP9 [HS] yaw=-153.1 kpos=(-604,-555,35) vpos=(-1111,-820,35)
+  KILL  tick= 13727  myshulka[CT] -> danektraher[T]  via MP5-SD yaw=-121.5 kpos=(1347,-512,39) vpos=(948,-1154,12)
+  KILL  tick= 13940  cheattopchik[T] -> YaB0G_A_Tb)_Lo}{[CT]  via AK-47 [HS] yaw=45.3 kpos=(-1312,-1128,-11) vpos=(-1129,-937,35)
+  GRENADE  tick= 14504  Chelka25[CT]  type=Flashbang  pos=(-1101,-1051,72)
+  GRENADE  tick= 14540  Chelka25[CT]  type=HE Grenade  pos=(-1087,-897,54)
+  GRENADE  tick= 14855  MC MLADEN[CT]  type=Smoke Grenade  pos=(-1998,403,75)
+  GRENADE  tick= 15007  frosya4[CT]  type=Smoke Grenade  pos=(-964,-685,36)
+  KILL  tick= 15066  _Dream_[T] -> myshulka[CT]  via AK-47 yaw=-26.4 kpos=(-880,-1537,-78) vpos=(-225,-1841,-168)
+  GRENADE  tick= 16049  Chelka25[CT]  type=Smoke Grenade  pos=(-1116,-968,36)
+  KILL  tick= 16773  MC MLADEN[CT] -> cheattopchik[T]  via M4A1 yaw=-39.6 kpos=(-1383,-1053,2) vpos=(-1163,-1246,-21)
+  KILL  tick= 17274  _Dream_[T] -> MC MLADEN[CT]  via AK-47 yaw=124.9 kpos=(-1447,-1153,-11) vpos=(-1774,-692,72)
+  KILL  tick= 18304  _Dream_[T] -> frosya4[CT]  via AK-47 yaw=-91.2 kpos=(-1285,696,56) vpos=(-1296,20,103)
+  BOMB_PLANTED  tick= 18606  player=_Dream_[T]  site=A
+  KILL  tick= 18895  Chelka25[CT] -> _Dream_[T]  via M4A1 [HS] yaw=87.0 kpos=(-1343,-12,105) vpos=(-1324,451,88)
+  BOMB_DEFUSED  tick= 20305  player=Chelka25[CT]
+
+ROUND  5 | Winner=CT  (t_surrender) | Score CT 4 - 0 T
+  Economy -> T: $27300 (Full, eq=$13000)  CT: $37700 (Full, eq=$22150)
+  GRENADE  tick= 22606  danektraher[T]  type=Flashbang  pos=(1503,-628,389)
+  GRENADE  tick= 22623  frosya4[CT]  type=Incendiary Grenade  pos=(-785,-747,37)
+  GRENADE  tick= 22624  Chelka25[CT]  type=Incendiary Grenade  pos=(1346,-532,36)
+  GRENADE  tick= 22638  YaB0G_A_Tb)_Lo}{[CT]  type=Incendiary Grenade  pos=(-999,-653,100)
+  GRENADE  tick= 22830  YaB0G_A_Tb)_Lo}{[CT]  type=HE Grenade  pos=(-892,-778,138)
+  GRENADE  tick= 23023  frosya4[CT]  type=HE Grenade  pos=(-735,-673,47)
+  GRENADE  tick= 23257  vanalpisyn[T]  type=Flashbang  pos=(1458,-51,782)
+  GRENADE  tick= 23284  danektraher[T]  type=HE Grenade  pos=(744,-216,318)
+  KILL  tick= 23364  danektraher[T] -> YaB0G_A_Tb)_Lo}{[CT]  via AK-47 [HS] yaw=-179.2 kpos=(343,-777,186) vpos=(-285,-788,115)
+  GRENADE  tick= 23527  vanalpisyn[T]  type=Molotov  pos=(343,-734,189)
+  KILL  tick= 23701  EBAL_MATVEYA[T] -> MC MLADEN[CT]  via AK-47 [HS] yaw=50.8 kpos=(-2201,60,72) vpos=(-1852,507,168)
+  KILL  tick= 23851  Chelka25[CT] -> vanalpisyn[T]  via M4A1 yaw=6.4 kpos=(131,-817,153) vpos=(1045,-717,22)
+  GRENADE  tick= 23855  frosya4[CT]  type=Smoke Grenade  pos=(-1024,-760,37)
+  KILL  tick= 23942  _Dream_[T] -> myshulka[CT]  via AK-47 yaw=-175.3 kpos=(1299,-245,115) vpos=(736,-293,139)
+  KILL  tick= 24263  Chelka25[CT] -> _Dream_[T]  via M4A1 yaw=12.1 kpos=(461,192,153) vpos=(1006,308,124)
+  KILL  tick= 24497  danektraher[T] -> frosya4[CT]  via AK-47 [HS] yaw=99.6 kpos=(712,26,130) vpos=(611,666,116)
+  KILL  tick= 24669  Chelka25[CT] -> danektraher[T]  via M4A1 [HS+Wallbang] yaw=30.2 kpos=(356,-5,154) vpos=(644,161,134)
+  KILL  tick= 25366  Chelka25[CT] -> cheattopchik[T]  via M4A1 yaw=-116.4 kpos=(278,-537,172) vpos=(102,-891,154)
+  GRENADE  tick= 25512  danektraher[T]  type=Smoke Grenade  pos=(1157,157,132)
+  KILL  tick= 26286  Chelka25[CT] -> EBAL_MATVEYA[T]  via M4A1 yaw=91.4 kpos=(523,-66,153) vpos=(503,209,153)
+
+ROUND  6 | Winner=T   (ct_surrender) | Score CT 4 - 1 T
+  Economy -> T: $23150 (Full, eq=$23150)  CT: $32800 (Full, eq=$24400)
+  KILL  tick= 28623  _Dream_[T] -> YaB0G_A_Tb)_Lo}{[CT]  via AK-47 [HS] yaw=58.0 kpos=(-843,-836,37) vpos=(-445,-197,56)
+  GRENADE  tick= 28632  YaB0G_A_Tb)_Lo}{[CT]  type=Incendiary Grenade  pos=(-933,-658,44)
+  GRENADE  tick= 28653  Chelka25[CT]  type=Incendiary Grenade  pos=(1375,-590,38)
+  GRENADE  tick= 28772  MC MLADEN[CT]  type=Incendiary Grenade  pos=(-2190,-389,81)
+  GRENADE  tick= 28863  YaB0G_A_Tb)_Lo}{[CT]  type=HE Grenade  pos=(-898,-778,144)
+  KILL  tick= 29135  danektraher[T] -> MC MLADEN[CT]  via AK-47 [HS] yaw=76.5 kpos=(-2056,88,74) vpos=(-1844,979,53)
+  KILL  tick= 29455  frosya4[CT] -> EBAL_MATVEYA[T]  via Desert Eagle [HS] yaw=-94.1 kpos=(-462,384,161) vpos=(-512,-348,58)
+  KILL  tick= 29496  Chelka25[CT] -> _Dream_[T]  via AK-47 yaw=173.9 kpos=(133,-800,153) vpos=(3,-777,153)
+  GRENADE  tick= 29558  MC MLADEN[CT]  type=HE Grenade  pos=(-1905,100,144)
+  GRENADE  tick= 29712  vanalpisyn[T]  type=Flashbang  pos=(-980,1138,188)
+  GRENADE  tick= 29968  frosya4[CT]  type=Flashbang  pos=(-1268,-60,100)
+  KILL  tick= 30225  cheattopchik[T] -> frosya4[CT]  via MAC-10 yaw=0.7 kpos=(-1507,-28,106) vpos=(-1171,-35,141)
+  GRENADE  tick= 30453  vanalpisyn[T]  type=Smoke Grenade  pos=(-1804,215,79)
+  KILL  tick= 30517  cheattopchik[T] -> Chelka25[CT]  via MAC-10 [HS] yaw=172.8 kpos=(-1294,-32,106) vpos=(-1551,2,105)
+  KILL  tick= 30838  myshulka[CT] -> cheattopchik[T]  via M4A1 yaw=-172.9 kpos=(-499,-89,70) vpos=(-1182,-150,103)
+  KILL  tick= 30921  danektraher[T] -> myshulka[CT]  via AK-47 [HS] yaw=-89.9 kpos=(-520,607,162) vpos=(-516,-11,110)
+
+ROUND  7 | Winner=T   (ct_surrender) | Score CT 4 - 2 T
+  Economy -> T: $24150 (Full, eq=$14650)  CT: $23550 (Full, eq=$22350)
+  GRENADE  tick= 33206  danektraher[T]  type=Flashbang  pos=(-1806,-736,524)
+  GRENADE  tick= 33257  Chelka25[CT]  type=Incendiary Grenade  pos=(1363,-573,32)
+  GRENADE  tick= 33456  YaB0G_A_Tb)_Lo}{[CT]  type=HE Grenade  pos=(-862,-738,102)
+  KILL  tick= 33520  frosya4[CT] -> vanalpisyn[T]  via Desert Eagle [HS] yaw=-79.0 kpos=(-1894,214,74) vpos=(-1579,-1349,-20)
+  GRENADE  tick= 33539  danektraher[T]  type=Molotov  pos=(-1860,216,77)
+  KILL  tick= 33594  danektraher[T] -> MC MLADEN[CT]  via AK-47 yaw=82.1 kpos=(-2133,-340,72) vpos=(-2048,332,88)
+  KILL  tick= 33667  danektraher[T] -> frosya4[CT]  via AK-47 [HS] yaw=88.5 kpos=(-2098,-343,72) vpos=(-2082,325,88)
+  KILL  tick= 33801  Chelka25[CT] -> _Dream_[T]  via M4A1 [HS] yaw=-18.5 kpos=(181,-794,153) vpos=(504,-903,131)
+  GRENADE  tick= 34104  YaB0G_A_Tb)_Lo}{[CT]  type=Flashbang  pos=(-2045,1017,61)
+  KILL  tick= 34347  EBAL_MATVEYA[T] -> Chelka25[CT]  via AK-47 [HS] yaw=6.8 kpos=(-1205,-799,48) vpos=(-181,-679,160)
+  GRENADE  tick= 34566  danektraher[T]  type=Smoke Grenade  pos=(-551,-714,34)
+  GRENADE  tick= 34572  _Dream_[T]  type=Smoke Grenade  pos=(3,-696,157)
+  KILL  tick= 34905  myshulka[CT] -> danektraher[T]  via M4A1 yaw=149.9 kpos=(-45,-767,153) vpos=(-674,-392,61)
+  GRENADE  tick= 34963  danektraher[T]  type=Molotov  pos=(-440,848,106)
+  GRENADE  tick= 35065  vanalpisyn[T]  type=Smoke Grenade  pos=(-1725,-1174,-20)
+  KILL  tick= 35163  cheattopchik[T] -> myshulka[CT]  via AK-47 [HS] yaw=5.8 kpos=(-1117,-837,34) vpos=(-223,-755,164)
+  GRENADE  tick= 35807  YaB0G_A_Tb)_Lo}{[CT]  type=Smoke Grenade  pos=(-1934,367,81)
+  KILL  tick= 38118  EBAL_MATVEYA[T] -> YaB0G_A_Tb)_Lo}{[CT]  via AK-47 yaw=14.6 kpos=(-1850,804,52) vpos=(-661,1115,70)
+
+ROUND  8 | Winner=T   (ct_surrender) | Score CT 4 - 3 T
+  Economy -> T: $28800 (Full, eq=$19800)  CT: $19350 (Force, eq=$16650)
+  GRENADE  tick= 40442  EBAL_MATVEYA[T]  type=Flashbang  pos=(-878,-741,1050)
+  GRENADE  tick= 40454  danektraher[T]  type=Flashbang  pos=(1484,49,552)
+  GRENADE  tick= 40460  Chelka25[CT]  type=Flashbang  pos=(1366,-629,143)
+  GRENADE  tick= 40568  Chelka25[CT]  type=Flashbang  pos=(1275,-769,149)
+  GRENADE  tick= 40708  YaB0G_A_Tb)_Lo}{[CT]  type=HE Grenade  pos=(-922,-682,136)
+  GRENADE  tick= 41139  cheattopchik[T]  type=HE Grenade  pos=(1290,-107,179)
+  KILL  tick= 41159  danektraher[T] -> myshulka[CT]  via AK-47 yaw=30.3 kpos=(154,-563,172) vpos=(463,-381,189)
+  GRENADE  tick= 41247  EBAL_MATVEYA[T]  type=HE Grenade  pos=(-812,-658,42)
+  GRENADE  tick= 41302  EBAL_MATVEYA[T]  type=Molotov  pos=(-522,178,163)
+  KILL  tick= 41335  _Dream_[T] -> YaB0G_A_Tb)_Lo}{[CT]  via AK-47 [HS] yaw=129.2 kpos=(-1724,-68,78) vpos=(-2080,361,88)
+  GRENADE  tick= 41468  EBAL_MATVEYA[T]  type=Smoke Grenade  pos=(-378,-1179,318)
+  KILL  tick= 41478  danektraher[T] -> Chelka25[CT]  via AK-47 [HS+Wallbang] yaw=59.8 kpos=(429,-91,153) vpos=(704,393,126)
+  GRENADE  tick= 41971  danektraher[T]  type=Molotov  pos=(95,782,79)
+  GRENADE  tick= 42070  vanalpisyn[T]  type=Smoke Grenade  pos=(1222,-200,116)
+  GRENADE  tick= 42106  cheattopchik[T]  type=Flashbang  pos=(361,-840,156)
+  GRENADE  tick= 43058  frosya4[CT]  type=Smoke Grenade  pos=(-1374,135,92)
+  GRENADE  tick= 44139  cheattopchik[T]  type=Smoke Grenade  pos=(-1216,-829,46)
+  GRENADE  tick= 44278  danektraher[T]  type=HE Grenade  pos=(-1295,1262,112)
+  BOMB_PLANTED  tick= 44435  player=EBAL_MATVEYA[T]  site=A
+  KILL  tick= 44601  frosya4[CT] -> vanalpisyn[T]  via XM1014 yaw=103.0 kpos=(-1824,-64,81) vpos=(-1855,75,76)
+  GRENADE  tick= 45025  vanalpisyn[T]  type=HE Grenade  pos=(-1747,-29,85)
+  GRENADE  tick= 45052  frosya4[CT]  type=Flashbang  pos=(-1896,166,79)
+  KILL  tick= 45402  _Dream_[T] -> MC MLADEN[CT]  via AK-47 yaw=-88.8 kpos=(-693,-274,57) vpos=(-679,-705,32)
+  KILL  tick= 45711  danektraher[T] -> frosya4[CT]  via AK-47 [HS] yaw=-87.5 kpos=(-2110,1119,116) vpos=(-2037,-316,75)
+
+ROUND  9 | Winner=T   (bomb_exploded) | Score CT 4 - 4 T
+  Economy -> T: $32300 (Full, eq=$20900)  CT: $14550 (Force, eq=$18750)
+  GRENADE  tick= 48031  danektraher[T]  type=Molotov  pos=(-1909,188,75)
+  GRENADE  tick= 48080  _Dream_[T]  type=Flashbang  pos=(-514,-707,34)
+  GRENADE  tick= 48295  frosya4[CT]  type=HE Grenade  pos=(-873,-744,109)
+  GRENADE  tick= 48672  _Dream_[T]  type=Molotov  pos=(144,-774,156)
+  GRENADE  tick= 48852  EBAL_MATVEYA[T]  type=HE Grenade  pos=(-598,638,161)
+  GRENADE  tick= 49062  cheattopchik[T]  type=HE Grenade  pos=(-544,570,166)
+  GRENADE  tick= 49117  danektraher[T]  type=Flashbang  pos=(-1894,704,374)
+  GRENADE  tick= 49130  cheattopchik[T]  type=Molotov  pos=(-470,647,142)
+  GRENADE  tick= 49146  EBAL_MATVEYA[T]  type=Flashbang  pos=(-1188,655,56)
+  KILL  tick= 49248  _Dream_[T] -> myshulka[CT]  via AK-47 [HS] yaw=56.9 kpos=(68,-858,153) vpos=(205,-651,154)
+  GRENADE  tick= 49253  _Dream_[T]  type=Smoke Grenade  pos=(-476,262,162)
+  GRENADE  tick= 49261  EBAL_MATVEYA[T]  type=Smoke Grenade  pos=(-343,-140,63)
+  GRENADE  tick= 49282  danektraher[T]  type=HE Grenade  pos=(-1754,1212,76)
+  KILL  tick= 49331  danektraher[T] -> MC MLADEN[CT]  via AK-47 [HS] yaw=32.7 kpos=(-2081,847,54) vpos=(-1709,1085,52)
+  GRENADE  tick= 49544  EBAL_MATVEYA[T]  type=Molotov  pos=(-766,1037,73)
+  BOMB_PLANTED  tick= 49739  player=EBAL_MATVEYA[T]  site=A
+  GRENADE  tick= 50098  vanalpisyn[T]  type=Smoke Grenade  pos=(-2000,474,75)
+  KILL  tick= 50701  frosya4[CT] -> EBAL_MATVEYA[T]  via Desert Eagle [HS] yaw=29.8 kpos=(-653,308,175) vpos=(-414,438,175)
+  KILL  tick= 50785  frosya4[CT] -> _Dream_[T]  via Desert Eagle yaw=-66.3 kpos=(-602,326,166) vpos=(-448,21,111)
+  GRENADE  tick= 51116  danektraher[T]  type=Smoke Grenade  pos=(-981,1446,75)
+  KILL  tick= 51391  frosya4[CT] -> vanalpisyn[T]  via AK-47 yaw=-161.2 kpos=(-299,1167,64) vpos=(-670,1066,106)
+  GRENADE  tick= 51675  cheattopchik[T]  type=Smoke Grenade  pos=(-951,1139,70)
+  KILL  tick= 51784  frosya4[CT] -> cheattopchik[T]  via Desert Eagle yaw=-178.8 kpos=(-292,1059,63) vpos=(-1172,1024,53)
+  GRENADE  tick= 51815  vanalpisyn[T]  type=HE Grenade  pos=(-519,1094,78)
+  KILL  tick= 51832  YaB0G_A_Tb)_Lo}{[CT] -> danektraher[T]  via Desert Eagle [HS] yaw=-147.2 kpos=(-1146,1423,76) vpos=(-1922,930,52)
+  KILL  tick= 52363  World[] -> YaB0G_A_Tb)_Lo}{[CT]  via C4 vpos=(-1312,791,54)
+  BOMB_EXPLODE  tick= 52363
+
+ROUND 10 | Winner=CT  (t_surrender) | Score CT 5 - 4 T
+  Economy -> T: $45300 (Full, eq=$22200)  CT: $26050 (Full, eq=$6150)
+  GRENADE  tick= 54610  YaB0G_A_Tb)_Lo}{[CT]  type=Incendiary Grenade  pos=(-788,-863,41)
+  GRENADE  tick= 54729  Chelka25[CT]  type=Incendiary Grenade  pos=(1324,-666,16)
+  GRENADE  tick= 54875  YaB0G_A_Tb)_Lo}{[CT]  type=HE Grenade  pos=(-861,-782,149)
+  GRENADE  tick= 54947  MC MLADEN[CT]  type=Incendiary Grenade  pos=(-2107,-95,83)
+  GRENADE  tick= 54978  YaB0G_A_Tb)_Lo}{[CT]  type=Flashbang  pos=(-628,-223,149)
+  KILL  tick= 55037  YaB0G_A_Tb)_Lo}{[CT] -> vanalpisyn[T]  via XM1014 [HS+Smoke] yaw=-67.9 kpos=(-682,-241,57) vpos=(-535,-530,36)
+  KILL  tick= 55107  _Dream_[T] -> YaB0G_A_Tb)_Lo}{[CT]  via AK-47 [Smoke] yaw=118.8 kpos=(-341,-847,33) vpos=(-654,-196,56)
+  GRENADE  tick= 55120  frosya4[CT]  type=Flashbang  pos=(-497,-129,84)
+  GRENADE  tick= 55247  danektraher[T]  type=Molotov  pos=(635,-742,144)
+  GRENADE  tick= 55305  danektraher[T]  type=HE Grenade  pos=(1238,75,213)
+  KILL  tick= 55458  frosya4[CT] -> _Dream_[T]  via AK-47 [Smoke] yaw=-42.1 kpos=(-964,-77,99) vpos=(-260,-722,164)
+  GRENADE  tick= 55461  vanalpisyn[T]  type=HE Grenade  pos=(-419,-379,50)
+  GRENADE  tick= 55583  MC MLADEN[CT]  type=HE Grenade  pos=(-2027,368,89)
+  GRENADE  tick= 55913  frosya4[CT]  type=Smoke Grenade  pos=(-913,-753,35)
+  KILL  tick= 55930  frosya4[CT] -> danektraher[T]  via AK-47 [Wallbang+Smoke] yaw=-37.6 kpos=(-983,-94,99) vpos=(-69,-770,153)
+  GRENADE  tick= 55952  EBAL_MATVEYA[T]  type=Smoke Grenade  pos=(-461,-291,58)
+  GRENADE  tick= 55962  EBAL_MATVEYA[T]  type=HE Grenade  pos=(-676,-142,80)
+  GRENADE  tick= 56142  EBAL_MATVEYA[T]  type=Flashbang  pos=(-774,-253,77)
+  GRENADE  tick= 56150  MC MLADEN[CT]  type=Smoke Grenade  pos=(-2140,749,54)
+  KILL  tick= 56166  Chelka25[CT] -> cheattopchik[T]  via AK-47 [HS] yaw=-107.6 kpos=(215,-566,172) vpos=(117,-839,153)
+  GRENADE  tick= 56238  frosya4[CT]  type=Incendiary Grenade  pos=(-376,-388,49)
+  KILL  tick= 56378  EBAL_MATVEYA[T] -> Chelka25[CT]  via AWP yaw=-4.9 kpos=(-961,-697,36) vpos=(126,-805,153)
+  GRENADE  tick= 56392  vanalpisyn[T]  type=Smoke Grenade  pos=(-672,-174,59)
+  GRENADE  tick= 56639  frosya4[CT]  type=Flashbang  pos=(-584,-443,107)
+  KILL  tick= 56803  frosya4[CT] -> EBAL_MATVEYA[T]  via Desert Eagle [HS] yaw=-176.3 kpos=(-592,-633,32) vpos=(-1030,-665,45)
+
+ROUND 11 | Winner=CT  (t_surrender) | Score CT 6 - 4 T
+  Economy -> T: $29450 (Full, eq=$20700)  CT: $30800 (Full, eq=$22400)
+  GRENADE  tick= 59190  Chelka25[CT]  type=Incendiary Grenade  pos=(1367,-671,14)
+  GRENADE  tick= 59342  YaB0G_A_Tb)_Lo}{[CT]  type=HE Grenade  pos=(-882,-747,100)
+  GRENADE  tick= 59736  vanalpisyn[T]  type=Molotov  pos=(1182,-219,117)
+  GRENADE  tick= 59995  frosya4[CT]  type=Incendiary Grenade  pos=(570,396,129)
+  KILL  tick= 60030  YaB0G_A_Tb)_Lo}{[CT] -> danektraher[T]  via Dual Berettas [HS] yaw=-3.6 kpos=(-63,-784,153) vpos=(398,-803,135)
+  GRENADE  tick= 60355  frosya4[CT]  type=Smoke Grenade  pos=(-935,-762,34)
+  GRENADE  tick= 60409  frosya4[CT]  type=HE Grenade  pos=(1113,-272,118)
+  GRENADE  tick= 60503  YaB0G_A_Tb)_Lo}{[CT]  type=Flashbang  pos=(27,-758,175)
+  GRENADE  tick= 60526  MC MLADEN[CT]  type=HE Grenade  pos=(-1919,365,95)
+  GRENADE  tick= 60573  YaB0G_A_Tb)_Lo}{[CT]  type=Smoke Grenade  pos=(-922,-704,36)
+  KILL  tick= 60642  YaB0G_A_Tb)_Lo}{[CT] -> cheattopchik[T]  via Dual Berettas yaw=-1.7 kpos=(41,-785,153) vpos=(767,-808,71)
+  KILL  tick= 60659  Chelka25[CT] -> _Dream_[T]  via M4A1 [Smoke] yaw=11.3 kpos=(694,-242,137) vpos=(1246,-123,131)
+  GRENADE  tick= 60679  vanalpisyn[T]  type=Smoke Grenade  pos=(1207,-236,114)
+  GRENADE  tick= 60720  MC MLADEN[CT]  type=Smoke Grenade  pos=(-2082,432,75)
+  GRENADE  tick= 61023  danektraher[T]  type=Smoke Grenade  pos=(892,-31,132)
+  KILL  tick= 61092  MC MLADEN[CT] -> vanalpisyn[T]  via AK-47 yaw=-90.0 kpos=(659,632,119) vpos=(648,253,145)
+  GRENADE  tick= 61516  vanalpisyn[T]  type=HE Grenade  pos=(630,136,156)
+  GRENADE  tick= 61595  cheattopchik[T]  type=Smoke Grenade  pos=(864,180,132)
+  KILL  tick= 62171  YaB0G_A_Tb)_Lo}{[CT] -> EBAL_MATVEYA[T]  via AK-47 [HS] yaw=172.7 kpos=(538,-858,119) vpos=(-363,-746,115)
+
+ROUND 12 | Winner=CT  (defuse) | Score CT 7 - 4 T
+  Economy -> T: $15900 (Force, eq=$17900)  CT: $40400 (Full, eq=$28000)
+  GRENADE  tick= 64414  YaB0G_A_Tb)_Lo}{[CT]  type=Incendiary Grenade  pos=(-681,-732,37)
+  GRENADE  tick= 64505  EBAL_MATVEYA[T]  type=Flashbang  pos=(1240,3,761)
+  KILL  tick= 64513  danektraher[T] -> YaB0G_A_Tb)_Lo}{[CT]  via AK-47 [HS+Smoke] yaw=37.7 kpos=(-1190,-948,35) vpos=(-434,-390,59)
+  GRENADE  tick= 64572  Chelka25[CT]  type=Incendiary Grenade  pos=(1315,-702,10)
+  GRENADE  tick= 64703  YaB0G_A_Tb)_Lo}{[CT]  type=HE Grenade  pos=(-872,-746,108)
+  GRENADE  tick= 64705  EBAL_MATVEYA[T]  type=Flashbang  pos=(1003,261,127)
+  GRENADE  tick= 64813  frosya4[CT]  type=HE Grenade  pos=(-708,-900,72)
+  KILL  tick= 64830  Chelka25[CT] -> EBAL_MATVEYA[T]  via M4A1 [HS] yaw=28.6 kpos=(693,-121,133) vpos=(1015,70,131)
+  KILL  tick= 65004  _Dream_[T] -> MC MLADEN[CT]  via Desert Eagle [HS+Smoke] yaw=57.5 kpos=(-2202,118,72) vpos=(-1511,1185,100)
+  GRENADE  tick= 65014  frosya4[CT]  type=Incendiary Grenade  pos=(-744,-817,36)
+  GRENADE  tick= 65134  vanalpisyn[T]  type=Molotov  pos=(-1622,1104,54)
+  GRENADE  tick= 65254  frosya4[CT]  type=Flashbang  pos=(-1330,525,88)
+  KILL  tick= 65323  frosya4[CT] -> cheattopchik[T]  via AK-47 yaw=172.8 kpos=(-1385,589,73) vpos=(-2014,650,52)
+  GRENADE  tick= 65399  danektraher[T]  type=Decoy Grenade  pos=(-602,-420,44)
+  GRENADE  tick= 65521  Chelka25[CT]  type=HE Grenade  pos=(1197,-566,44)
+  GRENADE  tick= 65551  myshulka[CT]  type=Molotov  pos=(-114,-725,157)
+  GRENADE  tick= 65699  frosya4[CT]  type=Smoke Grenade  pos=(-992,-722,35)
+  KILL  tick= 66207  frosya4[CT] -> vanalpisyn[T]  via AK-47 yaw=73.0 kpos=(-1545,-245,103) vpos=(-1503,-55,158)
+  GRENADE  tick= 66351  vanalpisyn[T]  type=Smoke Grenade  pos=(-1810,815,54)
+  GRENADE  tick= 66631  vanalpisyn[T]  type=HE Grenade  pos=(-1598,-267,107)
+  GRENADE  tick= 66768  Chelka25[CT]  type=Smoke Grenade  pos=(1166,-470,47)
+  BOMB_PLANTED  tick= 66935  player=danektraher[T]  site=A
+  GRENADE  tick= 67381  frosya4[CT]  type=Flashbang  pos=(-1399,324,103)
+  KILL  tick= 67453  Chelka25[CT] -> _Dream_[T]  via M4A1 yaw=-173.1 kpos=(-650,1395,37) vpos=(-1427,1275,102)
+  KILL  tick= 68074  danektraher[T] -> frosya4[CT]  via AK-47 yaw=12.4 kpos=(-2104,480,75) vpos=(-1692,556,224)
+  GRENADE  tick= 68192  Chelka25[CT]  type=Flashbang  pos=(-2090,380,118)
+  KILL  tick= 68292  myshulka[CT] -> danektraher[T]  via HE Grenade yaw=-162.0 kpos=(-1564,629,73) vpos=(-2002,337,88)
+  GRENADE  tick= 68612  myshulka[CT]  type=HE Grenade  pos=(-2059,316,92)
+  BOMB_DEFUSED  tick= 69263  player=myshulka[CT]
+
+ROUND 13 | Winner=T   (ct_surrender) | Score CT 7 - 5 T
+  Economy -> T: $20550 (Full, eq=$8450)  CT: $56850 (Full, eq=$29100)
+  GRENADE  tick= 71527  _Dream_[T]  type=Flashbang  pos=(-607,-890,47)
+  KILL  tick= 71608  YaB0G_A_Tb)_Lo}{[CT] -> _Dream_[T]  via AWP yaw=-98.4 kpos=(-488,629,159) vpos=(-685,-673,32)
+  GRENADE  tick= 71875  vanalpisyn[T]  type=Molotov  pos=(1184,138,163)
+  GRENADE  tick= 72513  Chelka25[CT]  type=Incendiary Grenade  pos=(1193,-849,5)
+  GRENADE  tick= 72627  Chelka25[CT]  type=Flashbang  pos=(1202,-650,13)
+  GRENADE  tick= 72664  Chelka25[CT]  type=HE Grenade  pos=(1194,-754,14)
+  KILL  tick= 72742  danektraher[T] -> myshulka[CT]  via AK-47 [HS] yaw=89.4 kpos=(432,-439,183) vpos=(430,205,153)
+  GRENADE  tick= 72763  frosya4[CT]  type=Flashbang  pos=(-877,-237,102)
+  GRENADE  tick= 72942  YaB0G_A_Tb)_Lo}{[CT]  type=Flashbang  pos=(-557,233,171)
+  KILL  tick= 73105  Chelka25[CT] -> vanalpisyn[T]  via AWP yaw=-128.6 kpos=(1336,636,128) vpos=(924,125,151)
+  KILL  tick= 73129  YaB0G_A_Tb)_Lo}{[CT] -> EBAL_MATVEYA[T]  via AWP yaw=-104.5 kpos=(-425,436,175) vpos=(-756,-861,36)
+  GRENADE  tick= 73219  vanalpisyn[T]  type=Smoke Grenade  pos=(1254,-132,132)
+  KILL  tick= 73296  danektraher[T] -> Chelka25[CT]  via AWP yaw=25.1 kpos=(389,57,153) vpos=(1386,516,134)
+  GRENADE  tick= 73412  frosya4[CT]  type=Incendiary Grenade  pos=(128,-796,156)
+  GRENADE  tick= 73529  vanalpisyn[T]  type=HE Grenade  pos=(898,366,225)
+  KILL  tick= 73969  danektraher[T] -> frosya4[CT]  via AWP yaw=-88.0 kpos=(131,-582,172) vpos=(131,-837,153)
+  GRENADE  tick= 74183  danektraher[T]  type=HE Grenade  pos=(-132,-703,171)
+  KILL  tick= 74600  YaB0G_A_Tb)_Lo}{[CT] -> cheattopchik[T]  via AWP [NoScope] yaw=7.4 kpos=(367,840,108) vpos=(489,875,144)
+  BOMB_PLANTED  tick= 74911  player=danektraher[T]  site=A
+  GRENADE  tick= 75362  danektraher[T]  type=Smoke Grenade  pos=(96,-820,155)
+  KILL  tick= 75663  danektraher[T] -> YaB0G_A_Tb)_Lo}{[CT]  via Glock-18 yaw=105.8 kpos=(1306,510,130) vpos=(1238,804,118)
+  GRENADE  tick= 75946  YaB0G_A_Tb)_Lo}{[CT]  type=HE Grenade  pos=(1185,421,272)
+  KILL  tick= 76094  danektraher[T] -> MC MLADEN[CT]  via AWP yaw=-156.9 kpos=(1395,519,134) vpos=(866,274,130)
+
+ROUND 14 | Winner=T   (ct_surrender) | Score CT 5 - 8 T
+  Economy -> T: $4000 (Eco, eq=$34700)  CT: $4000 (Eco, eq=$14450)
+  GRENADE  tick= 78753  Chelka25[T]  type=Flashbang  pos=(-718,-1042,449)
+  GRENADE  tick= 78848  Chelka25[T]  type=Flashbang  pos=(-718,-1037,437)
+  KILL  tick= 78987  EBAL_MATVEYA[CT] -> frosya4[T]  via Desert Eagle yaw=-99.3 kpos=(-474,96,138) vpos=(-623,-740,53)
+  KILL  tick= 79036  MC MLADEN[T] -> EBAL_MATVEYA[CT]  via Glock-18 yaw=75.6 kpos=(-715,-789,32) vpos=(-499,100,140)
+  KILL  tick= 79190  MC MLADEN[T] -> vanalpisyn[CT]  via Glock-18 [HS] yaw=80.7 kpos=(-733,-785,32) vpos=(-602,81,135)
+  GRENADE  tick= 79365  cheattopchik[CT]  type=HE Grenade  pos=(1354,-693,43)
+  GRENADE  tick= 79486  YaB0G_A_Tb)_Lo}{[T]  type=HE Grenade  pos=(-377,70,175)
+  KILL  tick= 80029  YaB0G_A_Tb)_Lo}{[T] -> cheattopchik[CT]  via Glock-18 yaw=17.3 kpos=(-1320,940,54) vpos=(-427,1221,50)
+  GRENADE  tick= 80131  YaB0G_A_Tb)_Lo}{[T]  type=Smoke Grenade  pos=(-577,292,162)
+  KILL  tick= 80219  danektraher[CT] -> myshulka[T]  via USP-S [HS] yaw=177.8 kpos=(-207,1071,60) vpos=(-923,1098,67)
+  GRENADE  tick= 80245  Chelka25[T]  type=Smoke Grenade  pos=(-1,-696,157)
+  BOMB_PLANTED  tick= 80355  player=YaB0G_A_Tb)_Lo}{[T]  site=A
+  KILL  tick= 80451  danektraher[CT] -> Chelka25[T]  via USP-S [HS] yaw=179.2 kpos=(-323,1364,24) vpos=(-811,1368,72)
+  KILL  tick= 80585  YaB0G_A_Tb)_Lo}{[T] -> _Dream_[CT]  via Glock-18 yaw=-161.1 kpos=(-1298,755,54) vpos=(-2080,473,75)
+  KILL  tick= 80759  MC MLADEN[T] -> danektraher[CT]  via Glock-18 yaw=57.2 kpos=(-1162,785,54) vpos=(-935,1127,70)
+
+ROUND 15 | Winner=T   (ct_surrender) | Score CT 5 - 9 T
+  Economy -> T: $18550 (Force, eq=$4300)  CT: $13500 (Force, eq=$2450)
+  GRENADE  tick= 83986  danektraher[CT]  type=Flashbang  pos=(942,200,507)
+  KILL  tick= 84002  YaB0G_A_Tb)_Lo}{[T] -> cheattopchik[CT]  via MAC-10 [HS] yaw=68.9 kpos=(635,490,123) vpos=(789,850,110)
+  GRENADE  tick= 84178  Chelka25[T]  type=Flashbang  pos=(-1067,-1607,72)
+  KILL  tick= 84289  myshulka[T] -> danektraher[CT]  via MP5-SD yaw=80.3 kpos=(1089,-141,131) vpos=(1224,669,123)
+  KILL  tick= 84298  YaB0G_A_Tb)_Lo}{[T] -> vanalpisyn[CT]  via MAC-10 yaw=-161.5 kpos=(375,909,106) vpos=(-123,734,78)
+  GRENADE  tick= 84315  Chelka25[T]  type=Smoke Grenade  pos=(-601,168,163)
+  GRENADE  tick= 84384  Chelka25[T]  type=Flashbang  pos=(-937,-1483,-10)
+  GRENADE  tick= 84413  YaB0G_A_Tb)_Lo}{[T]  type=Smoke Grenade  pos=(5,-697,157)
+  BOMB_PLANTED  tick= 84419  player=MC MLADEN[T]  site=A
+  GRENADE  tick= 84422  vanalpisyn[CT]  type=Smoke Grenade  pos=(-600,-295,58)
+  KILL  tick= 85165  EBAL_MATVEYA[CT] -> YaB0G_A_Tb)_Lo}{[T]  via Desert Eagle [HS] yaw=99.7 kpos=(553,-88,156) vpos=(517,111,153)
+  KILL  tick= 85411  MC MLADEN[T] -> _Dream_[CT]  via R8 Revolver yaw=171.1 kpos=(1254,733,121) vpos=(354,877,105)
+  KILL  tick= 85954  Chelka25[T] -> EBAL_MATVEYA[CT]  via Desert Eagle yaw=-173.3 kpos=(1189,-163,123) vpos=(650,-234,136)
+
+ROUND 16 | Winner=CT  (defuse) | Score CT 6 - 9 T
+  Economy -> T: $24200 (Full, eq=$11800)  CT: $18900 (Force, eq=$7550)
+  GRENADE  tick= 88087  Chelka25[T]  type=Flashbang  pos=(-718,-1038,438)
+  GRENADE  tick= 88302  YaB0G_A_Tb)_Lo}{[T]  type=Flashbang  pos=(-632,-882,41)
+  GRENADE  tick= 88325  frosya4[T]  type=Flashbang  pos=(1482,-543,423)
+  GRENADE  tick= 88604  frosya4[T]  type=Flashbang  pos=(-235,-840,383)
+  GRENADE  tick= 88630  MC MLADEN[T]  type=Flashbang  pos=(77,-923,164)
+  KILL  tick= 89028  YaB0G_A_Tb)_Lo}{[T] -> EBAL_MATVEYA[CT]  via XM1014 [HS] yaw=87.4 kpos=(-658,-478,44) vpos=(-630,153,171)
+  GRENADE  tick= 89398  myshulka[T]  type=HE Grenade  pos=(1189,609,142)
+  KILL  tick= 89469  danektraher[CT] -> myshulka[T]  via M4A1 [HS] yaw=-46.4 kpos=(754,278,128) vpos=(1264,-257,111)
+  GRENADE  tick= 89509  YaB0G_A_Tb)_Lo}{[T]  type=Smoke Grenade  pos=(-515,263,162)
+  GRENADE  tick= 89573  frosya4[T]  type=Smoke Grenade  pos=(272,-791,155)
+  GRENADE  tick= 89603  Chelka25[T]  type=HE Grenade  pos=(-501,587,163)
+  KILL  tick= 89761  danektraher[CT] -> MC MLADEN[T]  via M4A1 yaw=-109.1 kpos=(555,189,156) vpos=(435,-162,156)
+  KILL  tick= 89937  vanalpisyn[CT] -> frosya4[T]  via MP5-SD yaw=0.8 kpos=(-1166,-824,40) vpos=(-129,-800,153)
+  GRENADE  tick= 90025  frosya4[T]  type=Molotov  pos=(-1154,-815,40)
+  KILL  tick= 91118  YaB0G_A_Tb)_Lo}{[T] -> danektraher[CT]  via XM1014 [HS] yaw=-169.6 kpos=(475,-408,189) vpos=(30,-471,182)
+  KILL  tick= 91348  cheattopchik[CT] -> YaB0G_A_Tb)_Lo}{[T]  via MP7 [HS] yaw=-163.9 kpos=(554,174,156) vpos=(521,173,153)
+  GRENADE  tick= 91596  danektraher[CT]  type=Smoke Grenade  pos=(671,688,120)
+  GRENADE  tick= 91709  YaB0G_A_Tb)_Lo}{[T]  type=HE Grenade  pos=(799,-195,154)
+  KILL  tick= 92573  Chelka25[T] -> _Dream_[CT]  via M4A4 yaw=-54.2 kpos=(685,446,127) vpos=(1172,-216,116)
+  KILL  tick= 92909  Chelka25[T] -> cheattopchik[CT]  via M4A4 yaw=15.5 kpos=(136,860,86) vpos=(281,899,102)
+  GRENADE  tick= 93448  vanalpisyn[CT]  type=HE Grenade  pos=(-353,764,88)
+  GRENADE  tick= 94697  Chelka25[T]  type=Smoke Grenade  pos=(-261,977,72)
+  BOMB_PLANTED  tick= 94748  player=Chelka25[T]  site=A
+  GRENADE  tick= 95041  Chelka25[T]  type=Molotov  pos=(445,841,116)
+  KILL  tick= 95143  vanalpisyn[CT] -> Chelka25[T]  via MP5-SD [HS] yaw=-56.2 kpos=(611,594,118) vpos=(1256,-394,67)
+  BOMB_DEFUSED  tick= 96786  player=vanalpisyn[CT]
+
+ROUND 17 | Winner=T   (bomb_exploded) | Score CT 6 - 10 T
+  Economy -> T: $28050 (Full, eq=$18600)  CT: $21000 (Full, eq=$11300)
+  GRENADE  tick= 98922  Chelka25[T]  type=Flashbang  pos=(-724,-1037,428)
+  GRENADE  tick= 99029  Chelka25[T]  type=Flashbang  pos=(-720,-1042,439)
+  GRENADE  tick= 99364  YaB0G_A_Tb)_Lo}{[T]  type=Flashbang  pos=(58,-919,159)
+  GRENADE  tick= 99373  frosya4[T]  type=Flashbang  pos=(-291,-872,307)
+  GRENADE  tick= 99448  cheattopchik[CT]  type=Incendiary Grenade  pos=(1092,-659,136)
+  KILL  tick= 99470  _Dream_[CT] -> YaB0G_A_Tb)_Lo}{[T]  via XM1014 [HS] yaw=-177.7 kpos=(385,-546,182) vpos=(122,-557,172)
+  GRENADE  tick= 99513  vanalpisyn[CT]  type=HE Grenade  pos=(-669,-763,68)
+  GRENADE  tick= 99560  cheattopchik[CT]  type=HE Grenade  pos=(1363,-632,90)
+  GRENADE  tick= 99572  vanalpisyn[CT]  type=Incendiary Grenade  pos=(-576,704,124)
+  KILL  tick= 99617  cheattopchik[CT] -> myshulka[T]  via MP5-SD [HS] yaw=-73.8 kpos=(1213,-243,112) vpos=(1384,-841,1)
+  GRENADE  tick= 99859  myshulka[T]  type=HE Grenade  pos=(1417,93,288)
+  KILL  tick=100100  danektraher[CT] -> MC MLADEN[T]  via M4A1 yaw=-18.1 kpos=(-1408,2,103) vpos=(-880,-177,82)
+  GRENADE  tick=100335  Chelka25[T]  type=Smoke Grenade  pos=(-630,190,172)
+  GRENADE  tick=100405  frosya4[T]  type=Smoke Grenade  pos=(168,-772,155)
+  GRENADE  tick=100414  _Dream_[CT]  type=Flashbang  pos=(162,-722,174)
+  KILL  tick=100510  frosya4[T] -> _Dream_[CT]  via AK-47 [HS+Wallbang] yaw=-29.9 kpos=(-62,-685,158) vpos=(195,-827,153)
+  GRENADE  tick=100794  danektraher[CT]  type=Flashbang  pos=(-950,-181,94)
+  GRENADE  tick=100820  danektraher[CT]  type=Smoke Grenade  pos=(-2072,728,54)
+  KILL  tick=101344  Chelka25[T] -> danektraher[CT]  via Knife yaw=-40.7 kpos=(-1075,-130,106) vpos=(-1043,-144,106)
+  GRENADE  tick=101515  cheattopchik[CT]  type=Smoke Grenade  pos=(1045,-460,296)
+  GRENADE  tick=101822  Chelka25[T]  type=Molotov  pos=(-696,1029,69)
+  GRENADE  tick=101940  frosya4[T]  type=Molotov  pos=(-1601,994,55)
+  BOMB_PLANTED  tick=102008  player=Chelka25[T]  site=A
+  GRENADE  tick=103225  frosya4[T]  type=Smoke Grenade  pos=(-1147,-193,105)
+  GRENADE  tick=104162  frosya4[T]  type=Flashbang  pos=(-1445,524,78)
+  KILL  tick=104224  frosya4[T] -> cheattopchik[CT]  via Glock-18 [HS] yaw=69.8 kpos=(-1436,36,104) vpos=(-1185,701,52)
+  GRENADE  tick=104398  frosya4[T]  type=HE Grenade  pos=(-1416,614,88)
+  KILL  tick=104632  World[] -> vanalpisyn[CT]  via C4 vpos=(-1395,1386,154)
+  KILL  tick=104632  World[] -> Chelka25[T]  via C4 vpos=(-1101,-143,104)
+  KILL  tick=104632  World[] -> frosya4[T]  via C4 vpos=(-969,-206,107)
+  BOMB_EXPLODE  tick=104632
+
+ROUND 18 | Winner=T   (bomb_exploded) | Score CT 6 - 11 T
+  Economy -> T: $25450 (Full, eq=$22500)  CT: $15000 (Force, eq=$18200)
+  GRENADE  tick=106820  Chelka25[T]  type=Flashbang  pos=(-715,-1040,440)
+  GRENADE  tick=106908  Chelka25[T]  type=Flashbang  pos=(-717,-1039,435)
+  GRENADE  tick=106928  frosya4[T]  type=Flashbang  pos=(-746,-880,37)
+  GRENADE  tick=106996  vanalpisyn[CT]  type=Incendiary Grenade  pos=(-627,-669,37)
+  GRENADE  tick=107195  YaB0G_A_Tb)_Lo}{[T]  type=Flashbang  pos=(92,-931,161)
+  GRENADE  tick=107276  YaB0G_A_Tb)_Lo}{[T]  type=Flashbang  pos=(125,-669,170)
+  GRENADE  tick=107288  myshulka[T]  type=Flashbang  pos=(1248,-99,198)
+  GRENADE  tick=107428  myshulka[T]  type=HE Grenade  pos=(1319,-215,164)
+  GRENADE  tick=107708  Chelka25[T]  type=Molotov  pos=(653,770,118)
+  BOMB_PLANTED  tick=108035  player=Chelka25[T]  site=A
+  GRENADE  tick=108135  Chelka25[T]  type=Smoke Grenade  pos=(-577,-56,79)
+  KILL  tick=108765  _Dream_[CT] -> YaB0G_A_Tb)_Lo}{[T]  via Negev [HS] yaw=-38.0 kpos=(355,930,104) vpos=(664,691,119)
+  GRENADE  tick=109000  Chelka25[T]  type=HE Grenade  pos=(507,1047,280)
+  KILL  tick=109055  danektraher[CT] -> myshulka[T]  via Negev yaw=-2.4 kpos=(529,821,116) vpos=(1283,790,120)
+  KILL  tick=109107  Chelka25[T] -> _Dream_[CT]  via AK-47 yaw=108.6 kpos=(636,592,119) vpos=(539,905,113)
+  KILL  tick=109120  Chelka25[T] -> danektraher[CT]  via AK-47 [HS] yaw=108.2 kpos=(636,592,119) vpos=(564,819,115)
+  GRENADE  tick=109172  vanalpisyn[CT]  type=HE Grenade  pos=(1112,755,194)
+  KILL  tick=109220  cheattopchik[CT] -> Chelka25[T]  via Negev yaw=-59.5 kpos=(569,860,114) vpos=(688,654,120)
+  GRENADE  tick=109312  frosya4[T]  type=Smoke Grenade  pos=(-482,310,162)
+  KILL  tick=110110  MC MLADEN[T] -> vanalpisyn[CT]  via AK-47 [HS] yaw=-45.3 kpos=(492,925,111) vpos=(735,690,126)
+  KILL  tick=110286  cheattopchik[CT] -> MC MLADEN[T]  via Negev yaw=107.1 kpos=(806,170,131) vpos=(565,849,114)
+  KILL  tick=110659  World[] -> cheattopchik[CT]  via C4 vpos=(1145,-30,148)
+  KILL  tick=110659  World[] -> frosya4[T]  via C4 vpos=(1242,-703,64)
+  BOMB_EXPLODE  tick=110659
+
+ROUND 19 | Winner=T   (ct_surrender) | Score CT 6 - 12 T
+  Economy -> T: $23550 (Full, eq=$21400)  CT: $15800 (Force, eq=$11200)
+  GRENADE  tick=113110  frosya4[T]  type=Flashbang  pos=(1445,-517,630)
+  GRENADE  tick=113493  myshulka[T]  type=HE Grenade  pos=(1050,-1062,33)
+  KILL  tick=114091  Chelka25[T] -> cheattopchik[CT]  via AK-47 [HS] yaw=18.8 kpos=(404,-227,162) vpos=(540,-183,153)
+  GRENADE  tick=114198  frosya4[T]  type=Smoke Grenade  pos=(-435,200,163)
+  KILL  tick=114211  Chelka25[T] -> _Dream_[CT]  via AK-47 yaw=133.2 kpos=(466,-228,162) vpos=(340,-116,166)
+  GRENADE  tick=114307  Chelka25[T]  type=Smoke Grenade  pos=(-0,-696,157)
+  GRENADE  tick=114520  danektraher[CT]  type=Smoke Grenade  pos=(1036,-87,131)
+  KILL  tick=114642  frosya4[T] -> vanalpisyn[CT]  via MAC-10 yaw=-114.0 kpos=(1130,33,142) vpos=(1001,-248,177)
+  KILL  tick=114686  frosya4[T] -> danektraher[CT]  via MAC-10 [HS] yaw=-118.3 kpos=(1130,33,142) vpos=(1002,-247,123)
+
+ROUND 20 | Winner=T   (ct_surrender) | Score CT 6 - 13 T
+  Economy -> T: $20950 (Full, eq=$21350)  CT: $18100 (Force, eq=$12700)
+  GRENADE  tick=116905  cheattopchik[CT]  type=Flashbang  pos=(-517,510,162)
+  GRENADE  tick=116944  YaB0G_A_Tb)_Lo}{[T]  type=Flashbang  pos=(-517,-901,38)
+  GRENADE  tick=117019  Chelka25[T]  type=Flashbang  pos=(-520,-906,47)
+  KILL  tick=117024  YaB0G_A_Tb)_Lo}{[T] -> _Dream_[CT]  via AK-47 [HS] yaw=79.2 kpos=(-652,-707,32) vpos=(-436,394,167)
+  GRENADE  tick=117044  myshulka[T]  type=Flashbang  pos=(74,-14,446)
+  GRENADE  tick=117417  MC MLADEN[T]  type=Molotov  pos=(1180,382,140)
+  GRENADE  tick=117448  Chelka25[T]  type=Molotov  pos=(-469,889,108)
+  GRENADE  tick=117459  frosya4[T]  type=Flashbang  pos=(1441,-739,721)
+  GRENADE  tick=117756  MC MLADEN[T]  type=Decoy Grenade  pos=(608,-1827,-161)
+  GRENADE  tick=117804  myshulka[T]  type=HE Grenade  pos=(-103,-793,220)
+  GRENADE  tick=118120  myshulka[T]  type=Flashbang  pos=(-1495,715,121)
+  GRENADE  tick=118297  vanalpisyn[CT]  type=HE Grenade  pos=(-105,-746,161)
+  KILL  tick=118328  frosya4[T] -> vanalpisyn[CT]  via MAC-10 [HS+Wallbang] yaw=136.5 kpos=(902,105,130) vpos=(677,302,123)
+  GRENADE  tick=118345  MC MLADEN[T]  type=Smoke Grenade  pos=(-5,-696,157)
+  GRENADE  tick=118570  YaB0G_A_Tb)_Lo}{[T]  type=Incendiary Grenade  pos=(451,-197,163)
+  GRENADE  tick=118607  frosya4[T]  type=HE Grenade  pos=(636,190,142)
+  GRENADE  tick=118624  frosya4[T]  type=Smoke Grenade  pos=(1228,-1306,6)
+  GRENADE  tick=118636  danektraher[CT]  type=Smoke Grenade  pos=(1176,-861,5)
+  GRENADE  tick=118663  YaB0G_A_Tb)_Lo}{[T]  type=HE Grenade  pos=(372,-172,157)
+  GRENADE  tick=118667  MC MLADEN[T]  type=HE Grenade  pos=(992,355,150)
+  KILL  tick=118676  cheattopchik[CT] -> YaB0G_A_Tb)_Lo}{[T]  via XM1014 [Smoke] yaw=79.0 kpos=(724,86,130) vpos=(774,332,125)
+  GRENADE  tick=118825  frosya4[T]  type=Molotov  pos=(1028,-908,8)
+  KILL  tick=118867  frosya4[T] -> danektraher[CT]  via MAC-10 [HS] yaw=-49.7 kpos=(1129,-226,118) vpos=(1282,-406,66)
+  GRENADE  tick=118870  vanalpisyn[CT]  type=Smoke Grenade  pos=(562,145,157)
+  KILL  tick=119019  cheattopchik[CT] -> frosya4[T]  via XM1014 [HS] yaw=3.2 kpos=(733,-180,130) vpos=(1051,-166,125)
+  GRENADE  tick=119036  cheattopchik[CT]  type=Smoke Grenade  pos=(700,-144,128)
+  KILL  tick=119170  MC MLADEN[T] -> cheattopchik[CT]  via AK-47 [HS] yaw=-120.3 kpos=(1238,370,122) vpos=(912,-196,126)
+
+--- PLAYER PATHS (sampled every 128 ticks, ~1s) ---
+
+  [T] frosya4: 718 samples
+    tick=    128  (-392, -2224)
+    tick=    256  (-392, -2224)
+    tick=    384  (-392, -2224)
+    tick=    512  (-392, -2224)
+    tick=    640  (-392, -2224)
+    tick=    768  (-392, -2224)
+    tick=    896  (-392, -2224)
+    tick=   1024  (-392, -2224)
+    tick=   1152  (-392, -2224)
+    tick=   1280  (-392, -2224)
+    tick=   1408  (-551, -1859)
+    tick=   1536  (-881, -1538)
+    tick=   1664  (-1114, -1239)
+    tick=   1792  (-1041, -832)
+    tick=   1920  (-599, -736)
+    tick=   2048  (-565, -770)
+    tick=   2176  (-378, -824)
+    tick=   3072  (-512, 1696)
+    tick=   3200  (-512, 1696)
+    tick=   3328  (-512, 1696)
+    ... (698 more)
+
+  [T] MC MLADEN: 639 samples
+    tick=    128  (-456, -2288)
+    tick=    256  (-456, -2288)
+    tick=    384  (-456, -2288)
+    tick=    512  (-456, -2288)
+    tick=    640  (-456, -2288)
+    tick=    768  (-456, -2288)
+    tick=    896  (-456, -2288)
+    tick=   1024  (-456, -2288)
+    tick=   1152  (-456, -2288)
+    tick=   1280  (-456, -2288)
+    tick=   1408  (-649, -1989)
+    tick=   1536  (-896, -1698)
+    tick=   1664  (-1189, -1421)
+    tick=   1792  (-1109, -949)
+    tick=   1920  (-778, -856)
+    tick=   2048  (-453, -736)
+    tick=   2176  (-837, -748)
+    tick=   2304  (-885, -793)
+    tick=   2432  (-779, -692)
+    tick=   2560  (-933, -814)
+    ... (619 more)
+
+  [T] myshulka: 668 samples
+    tick=    128  (-328, -2288)
+    tick=    256  (-328, -2288)
+    tick=    384  (-328, -2288)
+    tick=    512  (-328, -2288)
+    tick=    640  (-328, -2288)
+    tick=    768  (-328, -2288)
+    tick=    896  (-328, -2288)
+    tick=   1024  (-328, -2288)
+    tick=   1152  (-328, -2288)
+    tick=   1280  (-328, -2288)
+    tick=   1408  (-255, -1928)
+    tick=   1536  (190, -1837)
+    tick=   1664  (618, -1676)
+    tick=   1792  (929, -1288)
+    tick=   1920  (1074, -939)
+    tick=   2048  (662, -816)
+    tick=   2176  (162, -821)
+    tick=   2304  (-330, -750)
+    tick=   2432  (-701, -799)
+    tick=   2560  (-876, -789)
+    ... (648 more)
+
+  [CT] danektraher: 630 samples
+    tick=    128  (-512, 1696)
+    tick=    256  (-512, 1696)
+    tick=    384  (-512, 1696)
+    tick=    512  (-512, 1696)
+    tick=    640  (-512, 1696)
+    tick=    768  (-512, 1696)
+    tick=    896  (-512, 1696)
+    tick=   1024  (-512, 1696)
+    tick=   1152  (-512, 1696)
+    tick=   1280  (-512, 1696)
+    tick=   1408  (-391, 1253)
+    tick=   1536  (-279, 989)
+    tick=   1664  (-527, 668)
+    tick=   1792  (-542, 173)
+    tick=   1920  (-565, -260)
+    tick=   2048  (-568, -281)
+    tick=   2176  (-725, -657)
+    tick=   2304  (-685, -704)
+    tick=   2432  (-813, -705)
+    tick=   3072  (-392, -2224)
+    ... (610 more)
+
+  [CT] cheattopchik: 705 samples
+    tick=    128  (-256, 1728)
+    tick=    256  (-256, 1728)
+    tick=    384  (-256, 1728)
+    tick=    512  (-256, 1728)
+    tick=    640  (-256, 1728)
+    tick=    768  (-256, 1728)
+    tick=    896  (-256, 1728)
+    tick=   1024  (-256, 1728)
+    tick=   1152  (-256, 1728)
+    tick=   1280  (-256, 1728)
+    tick=   1408  (-182, 1347)
+    tick=   1536  (-249, 948)
+    tick=   1664  (-528, 579)
+    tick=   1792  (-598, 96)
+    tick=   1920  (-633, -136)
+    tick=   2048  (-649, -530)
+    tick=   2176  (-768, -698)
+    tick=   3072  (-328, -2288)
+    tick=   3200  (-328, -2288)
+    tick=   3328  (-328, -2288)
+    ... (685 more)
+
+  [CT] EBAL_MATVEYA: 472 samples
+    tick=    128  (-352, 1728)
+    tick=    256  (-352, 1728)
+    tick=    384  (-352, 1728)
+    tick=    512  (-352, 1728)
+    tick=    640  (-352, 1728)
+    tick=    768  (-352, 1728)
+    tick=    896  (-352, 1728)
+    tick=   1024  (-352, 1728)
+    tick=   1152  (-352, 1728)
+    tick=   1280  (-352, 1728)
+    tick=   1408  (-292, 1269)
+    tick=   1536  (-386, 824)
+    tick=   1664  (-505, 394)
+    tick=   1792  (-460, -85)
+    tick=   1920  (-463, -559)
+    tick=   2048  (-542, -618)
+    tick=   2176  (-444, -795)
+    tick=   2304  (-363, -861)
+    tick=   2432  (-733, -803)
+    tick=   3072  (-584, -2288)
+    ... (452 more)
+
+  [T] YaB0G_A_Tb)_Lo}{: 591 samples
+    tick=    128  (-584, -2288)
+    tick=    256  (-584, -2288)
+    tick=    384  (-584, -2288)
+    tick=    512  (-584, -2288)
+    tick=    640  (-584, -2288)
+    tick=    768  (-584, -2288)
+    tick=    896  (-584, -2288)
+    tick=   1024  (-584, -2288)
+    tick=   1152  (-584, -2288)
+    tick=   1280  (-584, -2288)
+    tick=   1408  (-727, -1876)
+    tick=   1536  (-1034, -1504)
+    tick=   1664  (-1142, -1092)
+    tick=   1792  (-907, -731)
+    tick=   1920  (-573, -791)
+    tick=   2048  (-688, -856)
+    tick=   2176  (-831, -836)
+    tick=   2304  (-954, -730)
+    tick=   2432  (-910, -856)
+    tick=   3072  (-352, 1728)
+    ... (571 more)
+
+  [T] Chelka25: 768 samples
+    tick=    128  (-520, -2224)
+    tick=    256  (-520, -2224)
+    tick=    384  (-520, -2224)
+    tick=    512  (-520, -2224)
+    tick=    640  (-520, -2224)
+    tick=    768  (-520, -2224)
+    tick=    896  (-520, -2224)
+    tick=   1024  (-520, -2224)
+    tick=   1152  (-520, -2224)
+    tick=   1280  (-520, -2224)
+    tick=   1408  (-701, -1915)
+    tick=   1536  (-801, -1697)
+    tick=   1664  (-801, -1697)
+    tick=   1792  (-970, -1575)
+    tick=   1920  (-1142, -1323)
+    tick=   2048  (-1142, -1323)
+    tick=   2176  (-1142, -1323)
+    tick=   2304  (-1142, -1323)
+    tick=   2432  (-1142, -1323)
+    tick=   2560  (-1142, -1323)
+    ... (748 more)
+
+  [CT] _Dream_: 596 samples
+    tick=    128  (-448, 1728)
+    tick=    256  (-448, 1728)
+    tick=    384  (-448, 1728)
+    tick=    512  (-448, 1728)
+    tick=    640  (-448, 1728)
+    tick=    768  (-448, 1728)
+    tick=    896  (-448, 1728)
+    tick=   1024  (-448, 1728)
+    tick=   1152  (-448, 1728)
+    tick=   1280  (-448, 1728)
+    tick=   1408  (-333, 1279)
+    tick=   1536  (-312, 888)
+    tick=   1664  (-501, 511)
+    tick=   1792  (-390, 97)
+    tick=   1920  (-377, -367)
+    tick=   2048  (-461, -617)
+    tick=   2176  (-424, -631)
+    tick=   2304  (-512, -857)
+    tick=   2432  (-860, -817)
+    tick=   2560  (-1077, -853)
+    ... (576 more)
+
+  [CT] vanalpisyn: 633 samples
+    tick=    128  (-192, 1696)
+    tick=    256  (-192, 1696)
+    tick=    384  (-192, 1696)
+    tick=    512  (-192, 1696)
+    tick=    640  (-192, 1696)
+    tick=    768  (-192, 1696)
+    tick=    896  (-192, 1696)
+    tick=   1024  (-192, 1696)
+    tick=   1152  (-192, 1696)
+    tick=   1280  (-192, 1696)
+    tick=   1408  (-214, 1315)
+    tick=   1536  (-214, 1315)
+    tick=   1664  (-214, 1315)
+    tick=   1792  (-244, 969)
+    tick=   1920  (-517, 606)
+    tick=   2048  (-434, 143)
+    tick=   2176  (-478, -301)
+    tick=   2304  (-711, -654)
+    tick=   2432  (-591, -557)
+    tick=   2560  (-703, -807)
+    ... (613 more)
+

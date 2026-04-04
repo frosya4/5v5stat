@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+*.dem
+*.exe
+backend/main
+backend/cs2-parser
+serviceAccountKey.json

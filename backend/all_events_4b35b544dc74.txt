@@ -1,0 +1,892 @@
+╔══════════════════════════════════════════════════════════╗
+║  МАТЧ: DE_ANCIENT                                        ║
+║  СЧЁТ: CT 6  : 13 T    (19 раундов)                     ║
+║  ДАТА: 2026-04-03T20:38:00Z                              ║
+║  ФАЙЛ: 23371609_22010831_2604032038-de_ancient.dem       ║
+╚══════════════════════════════════════════════════════════╝
+
+══════════ СОСТАВЫ И ПОЛНАЯ СТАТИСТИКА ══════════════════════
+
+  ── CT ─────────────────────────────────────────────────────
+  danektraher
+    Счёт:   23K / 16D / 2A
+    Рейтинг: 1.67 (3.0: 1.69)  ADR: 155  KAST: 68%  Impact: 2.21
+    Открытия: 3FK / 2FD  |  Хедшоты: 13 (68%)
+    Клатчи: 1v1=0 1v2=0 1v3=1 1v4=0 1v5=0 (всего 1)
+    Бомба: 2 планта, 0 дефуза
+    Утилита: 48 урона от грений, 0 флешек брошено, %! (float64=1e+01)1fс слепоты врагов
+    Попадания: голова=13 грудь=32 живот=5 руки=4 ноги=2
+    Обмены: 3 трейд-кил, 0 трейд-смерть
+    Оружие: AK-47 → 13к (hs: 10)  M4A1 → 3к (hs: 1)  AWP → 3к (hs: 0)  USP-S → 2к (hs: 2)  Negev → 1к (hs: 0)  
+
+  _Dream_
+    Счёт:   13K / 18D / 3A
+    Рейтинг: 0.94 (3.0: 0.93)  ADR: 99  KAST: 63%  Impact: 1.11
+    Открытия: 4FK / 2FD  |  Хедшоты: 7 (63%)
+    Бомба: 1 планта, 0 дефуза
+    Попадания: голова=10 грудь=23 живот=9 руки=10 ноги=2
+    Обмены: 1 трейд-кил, 0 трейд-смерть
+    Оружие: AK-47 → 9к (hs: 3)  Desert Eagle → 2к (hs: 2)  XM1014 → 1к (hs: 1)  Negev → 1к (hs: 1)  
+
+  EBAL_MATVEYA
+    Счёт:   6K / 12D / 4A
+    Рейтинг: 0.75 (3.0: 0.72)  ADR: 86  KAST: 64%  Impact: 0.62
+    Открытия: 1FK / 2FD  |  Хедшоты: 3 (64%)
+    Бомба: 2 планта, 0 дефуза
+    Попадания: голова=3 грудь=8 живот=6 руки=5 ноги=2
+    Обмены: 1 трейд-кил, 0 трейд-смерть
+    Оружие: AK-47 → 3к (hs: 2)  Desert Eagle → 2к (hs: 1)  AWP → 1к (hs: 0)  
+
+  cheattopchik
+    Счёт:   10K / 17D / 5A
+    Рейтинг: 0.70 (3.0: 0.68)  ADR: 77  KAST: 53%  Impact: 0.82
+    Открытия: 0FK / 2FD  |  Хедшоты: 6 (53%)
+    Утилита: 47 урона от грений, 0 флешек брошено, %! (float64=0)1fс слепоты врагов
+    Попадания: голова=10 грудь=14 живот=5 руки=6 ноги=2
+    Обмены: 5 трейд-кил, 0 трейд-смерть
+    Оружие: AK-47 → 2к (hs: 2)  MAC-10 → 2к (hs: 1)  Negev → 2к (hs: 0)  XM1014 → 2к (hs: 1)  MP7 → 1к (hs: 1)  
+
+  vanalpisyn
+    Счёт:   3K / 17D / 3A
+    Рейтинг: 0.04 (3.0: -0.00)  ADR: 22  KAST: 32%  Impact: -0.01
+    Открытия: 0FK / 2FD  |  Хедшоты: 1 (32%)
+    Клатчи: 1v1=1 1v2=0 1v3=0 1v4=0 1v5=0 (всего 1)
+    Бомба: 0 планта, 1 дефуза
+    Утилита: 18 урона от грений, 0 флешек брошено, %! (float64=1)1fс слепоты врагов
+    Попадания: голова=1 грудь=11 живот=3 руки=3 ноги=3
+    Обмены: 1 трейд-кил, 0 трейд-смерть
+    Оружие: MP5-SD → 2к (hs: 1)  Desert Eagle → 1к (hs: 0)  
+
+  ── T ─────────────────────────────────────────────────────
+  Chelka25
+    Счёт:   21K / 10D / 5A
+    Рейтинг: 1.92 (3.0: 1.94)  ADR: 146  KAST: 95%  Impact: 2.05
+    Открытия: 1FK / 0FD  |  Хедшоты: 7 (95%)
+    Клатчи: 1v1=1 1v2=0 1v3=1 1v4=0 1v5=0 (всего 2)
+    Бомба: 3 планта, 1 дефуза
+    Утилита: 39 урона от грений, 0 флешек брошено, %! (float64=5e+01)1fс слепоты врагов
+    Попадания: голова=7 грудь=28 живот=22 руки=8 ноги=5
+    Обмены: 2 трейд-кил, 0 трейд-смерть
+    Оружие: M4A1 → 10к (hs: 4)  AK-47 → 6к (hs: 3)  M4A4 → 2к (hs: 0)  AWP → 1к (hs: 0)  Desert Eagle → 1к (hs: 0)  
+
+  YaB0G_A_Tb)_Lo}{
+    Счёт:   21K / 14D / 3A
+    Рейтинг: 1.64 (3.0: 1.67)  ADR: 157  KAST: 68%  Impact: 2.01
+    Открытия: 9FK / 5FD  |  Хедшоты: 12 (68%)
+    Бомба: 1 планта, 0 дефуза
+    Утилита: 95 урона от грений, 0 флешек брошено, %! (float64=3e+01)1fс слепоты врагов
+    Попадания: голова=23 грудь=27 живот=11 руки=5 ноги=2
+    Оружие: MP9 → 4к (hs: 2)  AWP → 3к (hs: 0)  XM1014 → 3к (hs: 3)  MAC-10 → 2к (hs: 1)  AK-47 → 2к (hs: 2)  
+
+  frosya4
+    Счёт:   20K / 12D / 3A
+    Рейтинг: 1.62 (3.0: 1.63)  ADR: 134  KAST: 74%  Impact: 1.90
+    Открытия: 1FK / 1FD  |  Хедшоты: 11 (74%)
+    Утилита: 75 урона от грений, 0 флешек брошено, %! (float64=5e+01)1fс слепоты врагов
+    Попадания: голова=14 грудь=41 живот=7 руки=6 ноги=1
+    Оружие: Desert Eagle → 6к (hs: 4)  AK-47 → 6к (hs: 1)  MAC-10 → 4к (hs: 3)  USP-S → 2к (hs: 2)  Glock-18 → 1к (hs: 1)  
+
+  MC MLADEN
+    Счёт:   10K / 12D / 4A
+    Рейтинг: 0.88 (3.0: 0.86)  ADR: 79  KAST: 58%  Impact: 0.80
+    Открытия: 0FK / 0FD  |  Хедшоты: 3 (58%)
+    Бомба: 1 планта, 0 дефуза
+    Утилита: 142 урона от грений, 0 флешек брошено, %! (float64=0)1fс слепоты врагов
+    Попадания: голова=3 грудь=19 живот=12 руки=4 ноги=2
+    Обмены: 3 трейд-кил, 0 трейд-смерть
+    Оружие: AK-47 → 3к (hs: 2)  Glock-18 → 3к (hs: 1)  MP7 → 1к (hs: 0)  M4A1 → 1к (hs: 0)  R8 Revolver → 1к (hs: 0)  
+
+  myshulka
+    Счёт:   7K / 11D / 3A
+    Рейтинг: 0.71 (3.0: 0.67)  ADR: 39  KAST: 68%  Impact: 0.44
+    Открытия: 0FK / 2FD  |  Хедшоты: 0 (68%)
+    Бомба: 0 планта, 1 дефуза
+    Утилита: 68 урона от грений, 0 флешек брошено, %! (float64=0)1fс слепоты врагов
+    Попадания: голова=1 грудь=8 живот=9 руки=6 ноги=1
+    Обмены: 1 трейд-кил, 0 трейд-смерть
+    Оружие: MP5-SD → 4к (hs: 0)  M4A1 → 2к (hs: 0)  HE Grenade → 1к (hs: 0)  
+
+
+══════════ СОБЫТИЯ ПО РАУНДАМ ═══════════════════════════════
+
+┌─ РАУНД  1 ─────────────────────────────────────────────────
+│  T: Eco       CT: Eco       │  Победа: CT  (elimination)  │  Счёт: 1-0
+│
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-918,-700)  @ t=0:08
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-515,-179)  @ t=0:12
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-515,-179)  @ t=0:12
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-515,-179)  @ t=0:12
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-918,-700)  @ t=0:13
+│  🔫 YaB0G_A_Tb)_Lo}{ [CT] → danektraher [T]  via USP-S [HS]  pos=(-1203,-65)  @ t=0:14
+│  🔫 YaB0G_A_Tb)_Lo}{ [CT] → EBAL_MATVEYA [T]  via USP-S [HS]  pos=(-1401,59)  @ t=0:18
+│  🔫 frosya4 [CT] → vanalpisyn [T]  via USP-S [HS]  pos=(-1184,-896)  @ t=0:18
+│  ⚡ FLASH  vanalpisyn [T]  pos=(-702,-848)  @ t=0:18
+│  ⚡ FLASH  vanalpisyn [T]  pos=(-702,-848)  @ t=0:18
+│  ⚡ FLASH  vanalpisyn [T]  pos=(-702,-848)  @ t=0:18
+│  🔫 frosya4 [CT] → cheattopchik [T]  via USP-S [HS]  pos=(-988,-841)  @ t=0:19
+│  🔫 MC MLADEN [CT] → _Dream_ [T]  via USP-S  pos=(-708,-830)  @ t=0:22
+└────────────────────────────────────────────────────────────
+
+┌─ РАУНД  2 ─────────────────────────────────────────────────
+│  T: Eco       CT: Force     │  Победа: CT  (elimination)  │  Счёт: 2-0
+│
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-915,-729)  @ t=0:07
+│  🔫 YaB0G_A_Tb)_Lo}{ [CT] → EBAL_MATVEYA [T]  via MP9  pos=(-316,-761)  @ t=0:12
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-915,-729)  @ t=0:12
+│  ⚡ FLASH  Chelka25 [CT]  pos=(-1586,877)  @ t=0:14
+│  🔫 YaB0G_A_Tb)_Lo}{ [CT] → danektraher [T]  via MP9 [HS]  pos=(-164,-804)  @ t=0:14
+│  🔥 MOLOTOV  frosya4 [CT]  pos=(715,-785)  @ t=0:14
+│  🔥 MOLOTOV  frosya4 [CT]  pos=(715,-785)  @ t=0:14
+│  🔥 MOLOTOV  MC MLADEN [CT]  pos=(-1821,1011)  @ t=0:14
+│  🔥 MOLOTOV  MC MLADEN [CT]  pos=(-1821,1011)  @ t=0:14
+│  ⚡ FLASH  Chelka25 [CT]  pos=(-1585,877)  @ t=0:14
+│  ⚡ FLASH  Chelka25 [CT]  pos=(-1586,877)  @ t=0:14
+│  ⚡ FLASH  frosya4 [CT]  pos=(637,-354)  @ t=0:17
+│  ⚡ FLASH  frosya4 [CT]  pos=(637,-354)  @ t=0:17
+│  ⚡ FLASH  frosya4 [CT]  pos=(637,-354)  @ t=0:17
+│  🔫 _Dream_ [T] → Chelka25 [CT]  via Desert Eagle [HS]  pos=(-2168,-363)  @ t=0:20
+│  🔫 MC MLADEN [CT] → _Dream_ [T]  via MP7  pos=(-1748,609)  @ t=0:26
+│  🔫 vanalpisyn [T] → MC MLADEN [CT]  via Desert Eagle [Trade]  pos=(-2121,366)  @ t=0:28
+│  🔥 MOLOTOV  cheattopchik [T]  pos=(-2029,124)  @ t=0:36
+│  🔥 MOLOTOV  cheattopchik [T]  pos=(-2029,124)  @ t=0:36
+│  🔫 myshulka [CT] → vanalpisyn [T]  via MP5-SD  pos=(-1353,-54)  @ t=0:37
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-1688,301)  @ t=0:40
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-1688,301)  @ t=0:40
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-1688,301)  @ t=0:40
+│  🔫 myshulka [CT] → cheattopchik [T]  via MP5-SD  pos=(-1381,374)  @ t=0:43
+└────────────────────────────────────────────────────────────
+
+┌─ РАУНД  3 ─────────────────────────────────────────────────
+│  T: Force     CT: Full      │  Победа: CT  (defuse)  │  Счёт: 3-0
+│
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-894,-763)  @ t=0:07
+│  🔥 MOLOTOV  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-880,-688)  @ t=0:08
+│  🔥 MOLOTOV  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-880,-688)  @ t=0:08
+│  🔥 MOLOTOV  Chelka25 [CT]  pos=(1382,-641)  @ t=0:09
+│  🔥 MOLOTOV  Chelka25 [CT]  pos=(1382,-641)  @ t=0:09
+│  🔥 MOLOTOV  frosya4 [CT]  pos=(-778,-856)  @ t=0:11
+│  🔫 YaB0G_A_Tb)_Lo}{ [CT] → EBAL_MATVEYA [T]  via MP9  pos=(-550,-481)  @ t=0:11
+│  🔥 MOLOTOV  frosya4 [CT]  pos=(-778,-856)  @ t=0:11
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-894,-763)  @ t=0:12
+│  ⚡ FLASH  frosya4 [CT]  pos=(-869,-770)  @ t=0:13
+│  ⚡ FLASH  frosya4 [CT]  pos=(-869,-770)  @ t=0:13
+│  ⚡ FLASH  frosya4 [CT]  pos=(-869,-770)  @ t=0:13
+│  ⚡ FLASH  frosya4 [CT]  pos=(-846,-732)  @ t=0:16
+│  ⚡ FLASH  frosya4 [CT]  pos=(-846,-732)  @ t=0:16
+│  ⚡ FLASH  frosya4 [CT]  pos=(-846,-732)  @ t=0:16
+│  🔫 YaB0G_A_Tb)_Lo}{ [CT] → vanalpisyn [T]  via MP9 [HS]  pos=(-604,-555)  @ t=0:21
+│  💨 SMOKE  MC MLADEN [CT]  pos=(-1998,403)  @ t=0:22
+│  💨 SMOKE  frosya4 [CT]  pos=(-964,-685)  @ t=0:24
+│  🔫 myshulka [CT] → danektraher [T]  via MP5-SD  pos=(1347,-512)  @ t=0:26
+│  🔫 cheattopchik [T] → YaB0G_A_Tb)_Lo}{ [CT]  via AK-47 [HS]  pos=(-1312,-1128)  @ t=0:30
+│  💥 HE  Chelka25 [CT]  pos=(-1087,-897)  @ t=0:34
+│  ⚡ FLASH  Chelka25 [CT]  pos=(-1101,-1051)  @ t=0:38
+│  ⚡ FLASH  Chelka25 [CT]  pos=(-1101,-1051)  @ t=0:38
+│  ⚡ FLASH  Chelka25 [CT]  pos=(-1101,-1051)  @ t=0:38
+│  💥 HE  Chelka25 [CT]  pos=(-1087,-897)  @ t=0:39
+│  💨 SMOKE  Chelka25 [CT]  pos=(-1116,-968)  @ t=0:41
+│  💨 SMOKE  MC MLADEN [CT]  pos=(-1998,403)  @ t=0:44
+│  💨 SMOKE  frosya4 [CT]  pos=(-964,-685)  @ t=0:46
+│  🔫 _Dream_ [T] → myshulka [CT]  via AK-47  pos=(-880,-1537)  @ t=0:47
+│  💨 SMOKE  Chelka25 [CT]  pos=(-1116,-968)  @ t=1:03
+│  🔫 MC MLADEN [CT] → cheattopchik [T]  via M4A1  pos=(-1383,-1053)  @ t=1:14
+│  🔫 _Dream_ [T] → MC MLADEN [CT]  via AK-47  pos=(-1447,-1153)  @ t=1:22
+│  🔫 _Dream_ [T] → frosya4 [CT]  via AK-47  pos=(-1285,696)  @ t=1:38
+│  💣 БОМБА ЗАЛОЖЕНА  _Dream_ [T]  @ t=1:43
+│  🔫 Chelka25 [CT] → _Dream_ [T]  via M4A1 [HS]  pos=(-1343,-12)  @ t=1:47
+└────────────────────────────────────────────────────────────
+
+┌─ РАУНД  4 ─────────────────────────────────────────────────
+│  T: Full      CT: Full      │  Победа: CT  (elimination)  │  Счёт: 4-0
+│
+│  💨 SMOKE  frosya4 [CT]  pos=(-1024,-760)  @ t=0:06
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-892,-778)  @ t=0:07
+│  ⚡ FLASH  danektraher [T]  pos=(1503,-628)  @ t=0:08
+│  ⚡ FLASH  danektraher [T]  pos=(1503,-628)  @ t=0:08
+│  ⚡ FLASH  danektraher [T]  pos=(1503,-628)  @ t=0:08
+│  🔥 MOLOTOV  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-999,-653)  @ t=0:09
+│  🔥 MOLOTOV  frosya4 [CT]  pos=(-785,-747)  @ t=0:09
+│  🔥 MOLOTOV  Chelka25 [CT]  pos=(1346,-532)  @ t=0:09
+│  🔥 MOLOTOV  Chelka25 [CT]  pos=(1346,-532)  @ t=0:09
+│  🔥 MOLOTOV  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-999,-653)  @ t=0:09
+│  🔥 MOLOTOV  frosya4 [CT]  pos=(-785,-747)  @ t=0:09
+│  💥 HE  frosya4 [CT]  pos=(-735,-673)  @ t=0:10
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-892,-778)  @ t=0:12
+│  💥 HE  danektraher [T]  pos=(744,-216)  @ t=0:14
+│  💥 HE  frosya4 [CT]  pos=(-735,-673)  @ t=0:15
+│  ⚡ FLASH  vanalpisyn [T]  pos=(1458,-51)  @ t=0:19
+│  💥 HE  danektraher [T]  pos=(744,-216)  @ t=0:19
+│  ⚡ FLASH  vanalpisyn [T]  pos=(1458,-51)  @ t=0:19
+│  ⚡ FLASH  vanalpisyn [T]  pos=(1458,-51)  @ t=0:19
+│  🔫 danektraher [T] → YaB0G_A_Tb)_Lo}{ [CT]  via AK-47 [HS]  pos=(343,-777)  @ t=0:20
+│  🔥 MOLOTOV  vanalpisyn [T]  pos=(343,-734)  @ t=0:23
+│  🔥 MOLOTOV  vanalpisyn [T]  pos=(343,-734)  @ t=0:23
+│  🔫 EBAL_MATVEYA [T] → MC MLADEN [CT]  via AK-47 [HS]  pos=(-2201,60)  @ t=0:26
+│  🔫 Chelka25 [CT] → vanalpisyn [T]  via M4A1  pos=(131,-817)  @ t=0:28
+│  💨 SMOKE  frosya4 [CT]  pos=(-1024,-760)  @ t=0:28
+│  🔫 _Dream_ [T] → myshulka [CT]  via AK-47  pos=(1299,-245)  @ t=0:29
+│  💨 SMOKE  danektraher [T]  pos=(1157,157)  @ t=0:32
+│  🔫 Chelka25 [CT] → _Dream_ [T]  via M4A1  pos=(461,192)  @ t=0:34
+│  🔫 danektraher [T] → frosya4 [CT]  via AK-47 [HS]  pos=(712,26)  @ t=0:38
+│  🔫 Chelka25 [CT] → danektraher [T]  via M4A1 [HS+Wallbang+Trade]  pos=(356,-5)  @ t=0:41
+│  🔫 Chelka25 [CT] → cheattopchik [T]  via M4A1  pos=(278,-537)  @ t=0:52
+│  💨 SMOKE  danektraher [T]  pos=(1157,157)  @ t=0:54
+│  🔫 Chelka25 [CT] → EBAL_MATVEYA [T]  via M4A1  pos=(523,-66)  @ t=1:06
+└────────────────────────────────────────────────────────────
+
+┌─ РАУНД  5 ─────────────────────────────────────────────────
+│  T: Force     CT: Full      │  Победа: T   (elimination)  │  Счёт: 4-1
+│
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-898,-778)  @ t=0:08
+│  🔥 MOLOTOV  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-933,-658)  @ t=0:09
+│  🔥 MOLOTOV  Chelka25 [CT]  pos=(1375,-590)  @ t=0:09
+│  🔥 MOLOTOV  Chelka25 [CT]  pos=(1375,-590)  @ t=0:09
+│  🔫 _Dream_ [T] → YaB0G_A_Tb)_Lo}{ [CT]  via AK-47 [HS]  pos=(-843,-836)  @ t=0:09
+│  🔥 MOLOTOV  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-933,-658)  @ t=0:09
+│  🔥 MOLOTOV  MC MLADEN [CT]  pos=(-2190,-389)  @ t=0:11
+│  🔥 MOLOTOV  MC MLADEN [CT]  pos=(-2190,-389)  @ t=0:11
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-898,-778)  @ t=0:13
+│  💨 SMOKE  vanalpisyn [T]  pos=(-1804,215)  @ t=0:16
+│  🔫 danektraher [T] → MC MLADEN [CT]  via AK-47 [HS]  pos=(-2056,88)  @ t=0:17
+│  💥 HE  MC MLADEN [CT]  pos=(-1905,100)  @ t=0:19
+│  🔫 frosya4 [CT] → EBAL_MATVEYA [T]  via Desert Eagle [HS]  pos=(-462,384)  @ t=0:22
+│  🔫 Chelka25 [CT] → _Dream_ [T]  via AK-47  pos=(133,-800)  @ t=0:23
+│  💥 HE  MC MLADEN [CT]  pos=(-1905,100)  @ t=0:24
+│  ⚡ FLASH  vanalpisyn [T]  pos=(-980,1138)  @ t=0:26
+│  ⚡ FLASH  vanalpisyn [T]  pos=(-980,1138)  @ t=0:26
+│  ⚡ FLASH  vanalpisyn [T]  pos=(-980,1138)  @ t=0:26
+│  ⚡ FLASH  frosya4 [CT]  pos=(-1268,-60)  @ t=0:30
+│  ⚡ FLASH  frosya4 [CT]  pos=(-1268,-60)  @ t=0:30
+│  ⚡ FLASH  frosya4 [CT]  pos=(-1268,-60)  @ t=0:30
+│  🔫 cheattopchik [T] → frosya4 [CT]  via MAC-10  pos=(-1507,-28)  @ t=0:34
+│  💨 SMOKE  vanalpisyn [T]  pos=(-1804,215)  @ t=0:38
+│  🔫 cheattopchik [T] → Chelka25 [CT]  via MAC-10 [HS]  pos=(-1294,-32)  @ t=0:39
+│  🔫 myshulka [CT] → cheattopchik [T]  via M4A1  pos=(-499,-89)  @ t=0:44
+│  🔫 danektraher [T] → myshulka [CT]  via AK-47 [HS+Trade]  pos=(-520,607)  @ t=0:45
+└────────────────────────────────────────────────────────────
+
+┌─ РАУНД  6 ─────────────────────────────────────────────────
+│  T: Force     CT: Force     │  Победа: T   (elimination)  │  Счёт: 4-2
+│
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-862,-738)  @ t=0:07
+│  💨 SMOKE  _Dream_ [T]  pos=(3,-696)  @ t=0:07
+│  💨 SMOKE  danektraher [T]  pos=(-551,-714)  @ t=0:07
+│  ⚡ FLASH  danektraher [T]  pos=(-1806,-736)  @ t=0:08
+│  ⚡ FLASH  danektraher [T]  pos=(-1806,-736)  @ t=0:08
+│  ⚡ FLASH  danektraher [T]  pos=(-1806,-736)  @ t=0:08
+│  🔥 MOLOTOV  Chelka25 [CT]  pos=(1363,-573)  @ t=0:09
+│  🔥 MOLOTOV  Chelka25 [CT]  pos=(1363,-573)  @ t=0:09
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-862,-738)  @ t=0:12
+│  🔫 frosya4 [CT] → vanalpisyn [T]  via Desert Eagle [HS]  pos=(-1894,214)  @ t=0:13
+│  🔥 MOLOTOV  danektraher [T]  pos=(-1860,216)  @ t=0:13
+│  🔥 MOLOTOV  danektraher [T]  pos=(-1860,216)  @ t=0:13
+│  🔫 danektraher [T] → MC MLADEN [CT]  via AK-47  pos=(-2133,-340)  @ t=0:14
+│  💨 SMOKE  vanalpisyn [T]  pos=(-1725,-1174)  @ t=0:15
+│  🔫 danektraher [T] → frosya4 [CT]  via AK-47 [HS+Trade]  pos=(-2098,-343)  @ t=0:15
+│  🔫 Chelka25 [CT] → _Dream_ [T]  via M4A1 [HS]  pos=(181,-794)  @ t=0:18
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-2045,1017)  @ t=0:22
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-2045,1017)  @ t=0:22
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-2045,1017)  @ t=0:22
+│  🔫 EBAL_MATVEYA [T] → Chelka25 [CT]  via AK-47 [HS]  pos=(-1205,-799)  @ t=0:26
+│  💨 SMOKE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-1934,367)  @ t=0:27
+│  💨 SMOKE  danektraher [T]  pos=(-551,-714)  @ t=0:29
+│  💨 SMOKE  _Dream_ [T]  pos=(3,-696)  @ t=0:30
+│  🔫 myshulka [CT] → danektraher [T]  via M4A1  pos=(-45,-767)  @ t=0:35
+│  🔥 MOLOTOV  danektraher [T]  pos=(-440,848)  @ t=0:36
+│  🔥 MOLOTOV  danektraher [T]  pos=(-440,848)  @ t=0:36
+│  💨 SMOKE  vanalpisyn [T]  pos=(-1725,-1174)  @ t=0:37
+│  🔫 cheattopchik [T] → myshulka [CT]  via AK-47 [HS+Trade]  pos=(-1117,-837)  @ t=0:39
+│  💨 SMOKE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-1934,367)  @ t=0:49
+│  💨 SMOKE  EBAL_MATVEYA [T]  pos=(-1375,368)  @ t=1:19
+│  🔫 EBAL_MATVEYA [T] → YaB0G_A_Tb)_Lo}{ [CT]  via AK-47  pos=(-1850,804)  @ t=1:25
+└────────────────────────────────────────────────────────────
+
+┌─ РАУНД  7 ─────────────────────────────────────────────────
+│  T: Full      CT: Force     │  Победа: T   (elimination)  │  Счёт: 4-3
+│
+│  💨 SMOKE  EBAL_MATVEYA [T]  pos=(-378,-1179)  @ t=0:03
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-922,-682)  @ t=0:08
+│  ⚡ FLASH  EBAL_MATVEYA [T]  pos=(-878,-741)  @ t=0:09
+│  ⚡ FLASH  Chelka25 [CT]  pos=(1366,-629)  @ t=0:09
+│  ⚡ FLASH  Chelka25 [CT]  pos=(1366,-629)  @ t=0:09
+│  ⚡ FLASH  Chelka25 [CT]  pos=(1366,-629)  @ t=0:09
+│  ⚡ FLASH  EBAL_MATVEYA [T]  pos=(-878,-741)  @ t=0:09
+│  ⚡ FLASH  EBAL_MATVEYA [T]  pos=(-878,-741)  @ t=0:09
+│  ⚡ FLASH  danektraher [T]  pos=(1484,49)  @ t=0:09
+│  ⚡ FLASH  danektraher [T]  pos=(1484,49)  @ t=0:09
+│  ⚡ FLASH  danektraher [T]  pos=(1484,49)  @ t=0:09
+│  ⚡ FLASH  Chelka25 [CT]  pos=(1275,-769)  @ t=0:11
+│  ⚡ FLASH  Chelka25 [CT]  pos=(1275,-769)  @ t=0:11
+│  ⚡ FLASH  Chelka25 [CT]  pos=(1275,-769)  @ t=0:11
+│  💨 SMOKE  vanalpisyn [T]  pos=(1222,-200)  @ t=0:12
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-922,-682)  @ t=0:13
+│  💥 HE  cheattopchik [T]  pos=(1290,-107)  @ t=0:15
+│  💥 HE  EBAL_MATVEYA [T]  pos=(-812,-658)  @ t=0:16
+│  🔫 danektraher [T] → myshulka [CT]  via AK-47  pos=(154,-563)  @ t=0:20
+│  💥 HE  cheattopchik [T]  pos=(1290,-107)  @ t=0:20
+│  💥 HE  EBAL_MATVEYA [T]  pos=(-812,-658)  @ t=0:21
+│  🔥 MOLOTOV  EBAL_MATVEYA [T]  pos=(-522,178)  @ t=0:22
+│  🔥 MOLOTOV  EBAL_MATVEYA [T]  pos=(-522,178)  @ t=0:22
+│  🔫 _Dream_ [T] → YaB0G_A_Tb)_Lo}{ [CT]  via AK-47 [HS]  pos=(-1724,-68)  @ t=0:23
+│  💨 SMOKE  EBAL_MATVEYA [T]  pos=(-378,-1179)  @ t=0:25
+│  🔫 danektraher [T] → Chelka25 [CT]  via AK-47 [HS+Wallbang]  pos=(429,-91)  @ t=0:25
+│  💨 SMOKE  frosya4 [CT]  pos=(-1374,135)  @ t=0:28
+│  🔥 MOLOTOV  danektraher [T]  pos=(95,782)  @ t=0:33
+│  🔥 MOLOTOV  danektraher [T]  pos=(95,782)  @ t=0:33
+│  💨 SMOKE  vanalpisyn [T]  pos=(1222,-200)  @ t=0:34
+│  ⚡ FLASH  cheattopchik [T]  pos=(361,-840)  @ t=0:35
+│  ⚡ FLASH  cheattopchik [T]  pos=(361,-840)  @ t=0:35
+│  ⚡ FLASH  cheattopchik [T]  pos=(361,-840)  @ t=0:35
+│  💨 SMOKE  cheattopchik [T]  pos=(-1216,-829)  @ t=0:45
+│  💨 SMOKE  frosya4 [CT]  pos=(-1374,135)  @ t=0:50
+│  💥 HE  danektraher [T]  pos=(-1295,1262)  @ t=1:04
+│  💨 SMOKE  cheattopchik [T]  pos=(-1216,-829)  @ t=1:07
+│  💥 HE  danektraher [T]  pos=(-1295,1262)  @ t=1:09
+│  💣 БОМБА ЗАЛОЖЕНА  EBAL_MATVEYA [T]  @ t=1:11
+│  🔫 frosya4 [CT] → vanalpisyn [T]  via XM1014  pos=(-1824,-64)  @ t=1:14
+│  💥 HE  vanalpisyn [T]  pos=(-1747,-29)  @ t=1:15
+│  💥 HE  vanalpisyn [T]  pos=(-1747,-29)  @ t=1:20
+│  ⚡ FLASH  frosya4 [CT]  pos=(-1896,166)  @ t=1:21
+│  ⚡ FLASH  frosya4 [CT]  pos=(-1896,166)  @ t=1:21
+│  ⚡ FLASH  frosya4 [CT]  pos=(-1896,166)  @ t=1:21
+│  🔫 _Dream_ [T] → MC MLADEN [CT]  via AK-47  pos=(-693,-274)  @ t=1:26
+│  🔫 danektraher [T] → frosya4 [CT]  via AK-47 [HS]  pos=(-2110,1119)  @ t=1:31
+└────────────────────────────────────────────────────────────
+
+┌─ РАУНД  8 ─────────────────────────────────────────────────
+│  T: Full      CT: Force     │  Победа: T   (bomb)  │  Счёт: 4-4
+│
+│  💨 SMOKE  EBAL_MATVEYA [T]  pos=(-343,-140)  @ t=0:06
+│  💨 SMOKE  _Dream_ [T]  pos=(-476,262)  @ t=0:06
+│  💥 HE  frosya4 [CT]  pos=(-873,-744)  @ t=0:08
+│  🔥 MOLOTOV  danektraher [T]  pos=(-1909,188)  @ t=0:09
+│  🔥 MOLOTOV  danektraher [T]  pos=(-1909,188)  @ t=0:09
+│  ⚡ FLASH  _Dream_ [T]  pos=(-514,-707)  @ t=0:10
+│  ⚡ FLASH  _Dream_ [T]  pos=(-514,-707)  @ t=0:10
+│  ⚡ FLASH  _Dream_ [T]  pos=(-514,-707)  @ t=0:10
+│  💥 HE  frosya4 [CT]  pos=(-873,-744)  @ t=0:13
+│  💥 HE  EBAL_MATVEYA [T]  pos=(-598,638)  @ t=0:17
+│  🔥 MOLOTOV  _Dream_ [T]  pos=(144,-774)  @ t=0:19
+│  🔥 MOLOTOV  _Dream_ [T]  pos=(144,-774)  @ t=0:19
+│  💨 SMOKE  vanalpisyn [T]  pos=(-2000,474)  @ t=0:19
+│  💥 HE  cheattopchik [T]  pos=(-544,570)  @ t=0:20
+│  💥 HE  EBAL_MATVEYA [T]  pos=(-598,638)  @ t=0:22
+│  💥 HE  danektraher [T]  pos=(-1754,1212)  @ t=0:23
+│  💥 HE  cheattopchik [T]  pos=(-544,570)  @ t=0:25
+│  ⚡ FLASH  EBAL_MATVEYA [T]  pos=(-1188,655)  @ t=0:26
+│  ⚡ FLASH  EBAL_MATVEYA [T]  pos=(-1188,655)  @ t=0:26
+│  ⚡ FLASH  EBAL_MATVEYA [T]  pos=(-1188,655)  @ t=0:26
+│  🔥 MOLOTOV  cheattopchik [T]  pos=(-470,647)  @ t=0:26
+│  🔥 MOLOTOV  cheattopchik [T]  pos=(-470,647)  @ t=0:26
+│  ⚡ FLASH  danektraher [T]  pos=(-1894,704)  @ t=0:26
+│  ⚡ FLASH  danektraher [T]  pos=(-1894,704)  @ t=0:26
+│  ⚡ FLASH  danektraher [T]  pos=(-1894,704)  @ t=0:26
+│  🔫 _Dream_ [T] → myshulka [CT]  via AK-47 [HS]  pos=(68,-858)  @ t=0:28
+│  💨 SMOKE  EBAL_MATVEYA [T]  pos=(-343,-140)  @ t=0:28
+│  💥 HE  danektraher [T]  pos=(-1754,1212)  @ t=0:28
+│  💨 SMOKE  _Dream_ [T]  pos=(-476,262)  @ t=0:28
+│  🔫 danektraher [T] → MC MLADEN [CT]  via AK-47 [HS]  pos=(-2081,847)  @ t=0:29
+│  🔥 MOLOTOV  EBAL_MATVEYA [T]  pos=(-766,1037)  @ t=0:32
+│  🔥 MOLOTOV  EBAL_MATVEYA [T]  pos=(-766,1037)  @ t=0:32
+│  💣 БОМБА ЗАЛОЖЕНА  EBAL_MATVEYA [T]  @ t=0:35
+│  💨 SMOKE  danektraher [T]  pos=(-981,1446)  @ t=0:35
+│  💨 SMOKE  vanalpisyn [T]  pos=(-2000,474)  @ t=0:41
+│  💨 SMOKE  cheattopchik [T]  pos=(-951,1139)  @ t=0:44
+│  🔫 frosya4 [CT] → EBAL_MATVEYA [T]  via Desert Eagle [HS]  pos=(-653,308)  @ t=0:50
+│  🔫 frosya4 [CT] → _Dream_ [T]  via Desert Eagle  pos=(-602,326)  @ t=0:52
+│  💨 SMOKE  danektraher [T]  pos=(-981,1446)  @ t=0:57
+│  🔫 frosya4 [CT] → vanalpisyn [T]  via AK-47  pos=(-299,1167)  @ t=1:01
+│  💥 HE  vanalpisyn [T]  pos=(-519,1094)  @ t=1:03
+│  💨 SMOKE  cheattopchik [T]  pos=(-951,1139)  @ t=1:06
+│  🔫 frosya4 [CT] → cheattopchik [T]  via Desert Eagle  pos=(-292,1059)  @ t=1:07
+│  🔫 YaB0G_A_Tb)_Lo}{ [CT] → danektraher [T]  via Desert Eagle [HS]  pos=(-1146,1423)  @ t=1:08
+│  💥 HE  vanalpisyn [T]  pos=(-519,1094)  @ t=1:08
+│  🔫 World [NONE] → YaB0G_A_Tb)_Lo}{ [CT]  via C4  @ t=1:16
+└────────────────────────────────────────────────────────────
+
+┌─ РАУНД  9 ─────────────────────────────────────────────────
+│  T: Full      CT: Full      │  Победа: CT  (elimination)  │  Счёт: 5-4
+│
+│  💨 SMOKE  frosya4 [CT]  pos=(-913,-753)  @ t=0:06
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-861,-782)  @ t=0:07
+│  💨 SMOKE  EBAL_MATVEYA [T]  pos=(-461,-291)  @ t=0:07
+│  🔥 MOLOTOV  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-788,-863)  @ t=0:08
+│  🔥 MOLOTOV  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-788,-863)  @ t=0:08
+│  🔥 MOLOTOV  Chelka25 [CT]  pos=(1324,-666)  @ t=0:09
+│  🔥 MOLOTOV  Chelka25 [CT]  pos=(1324,-666)  @ t=0:09
+│  💨 SMOKE  MC MLADEN [CT]  pos=(-2140,749)  @ t=0:10
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-861,-782)  @ t=0:12
+│  💥 HE  danektraher [T]  pos=(1238,75)  @ t=0:13
+│  🔥 MOLOTOV  MC MLADEN [CT]  pos=(-2107,-95)  @ t=0:13
+│  🔥 MOLOTOV  MC MLADEN [CT]  pos=(-2107,-95)  @ t=0:13
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-628,-223)  @ t=0:13
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-628,-223)  @ t=0:13
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-628,-223)  @ t=0:13
+│  💨 SMOKE  vanalpisyn [T]  pos=(-672,-174)  @ t=0:13
+│  🔫 YaB0G_A_Tb)_Lo}{ [CT] → vanalpisyn [T]  via XM1014 [HS+Blind]  pos=(-682,-241)  @ t=0:14
+│  🔫 _Dream_ [T] → YaB0G_A_Tb)_Lo}{ [CT]  via AK-47 [Trade]  pos=(-341,-847)  @ t=0:15
+│  💥 HE  vanalpisyn [T]  pos=(-419,-379)  @ t=0:16
+│  ⚡ FLASH  frosya4 [CT]  pos=(-497,-129)  @ t=0:16
+│  ⚡ FLASH  frosya4 [CT]  pos=(-497,-129)  @ t=0:16
+│  ⚡ FLASH  frosya4 [CT]  pos=(-497,-129)  @ t=0:16
+│  🔥 MOLOTOV  danektraher [T]  pos=(635,-742)  @ t=0:18
+│  🔥 MOLOTOV  danektraher [T]  pos=(635,-742)  @ t=0:18
+│  💥 HE  MC MLADEN [CT]  pos=(-2027,368)  @ t=0:18
+│  💥 HE  danektraher [T]  pos=(1238,75)  @ t=0:18
+│  🔫 frosya4 [CT] → _Dream_ [T]  via AK-47  pos=(-964,-77)  @ t=0:21
+│  💥 HE  vanalpisyn [T]  pos=(-419,-379)  @ t=0:21
+│  💥 HE  MC MLADEN [CT]  pos=(-2027,368)  @ t=0:23
+│  💥 HE  EBAL_MATVEYA [T]  pos=(-676,-142)  @ t=0:24
+│  🔫 frosya4 [CT] → danektraher [T]  via AK-47 [Wallbang]  pos=(-983,-94)  @ t=0:28
+│  💨 SMOKE  frosya4 [CT]  pos=(-913,-753)  @ t=0:28
+│  💨 SMOKE  EBAL_MATVEYA [T]  pos=(-461,-291)  @ t=0:29
+│  💥 HE  EBAL_MATVEYA [T]  pos=(-676,-142)  @ t=0:29
+│  ⚡ FLASH  EBAL_MATVEYA [T]  pos=(-774,-253)  @ t=0:32
+│  🔫 Chelka25 [CT] → cheattopchik [T]  via AK-47 [HS]  pos=(215,-566)  @ t=0:32
+│  ⚡ FLASH  EBAL_MATVEYA [T]  pos=(-774,-253)  @ t=0:32
+│  ⚡ FLASH  EBAL_MATVEYA [T]  pos=(-774,-253)  @ t=0:32
+│  💨 SMOKE  MC MLADEN [CT]  pos=(-2140,749)  @ t=0:32
+│  🔥 MOLOTOV  frosya4 [CT]  pos=(-376,-388)  @ t=0:33
+│  🔥 MOLOTOV  frosya4 [CT]  pos=(-376,-388)  @ t=0:33
+│  🔫 EBAL_MATVEYA [T] → Chelka25 [CT]  via AWP [Trade]  pos=(-961,-697)  @ t=0:35
+│  💨 SMOKE  vanalpisyn [T]  pos=(-672,-174)  @ t=0:35
+│  ⚡ FLASH  frosya4 [CT]  pos=(-584,-443)  @ t=0:39
+│  ⚡ FLASH  frosya4 [CT]  pos=(-584,-443)  @ t=0:39
+│  ⚡ FLASH  frosya4 [CT]  pos=(-584,-443)  @ t=0:39
+│  🔫 frosya4 [CT] → EBAL_MATVEYA [T]  via Desert Eagle [HS]  pos=(-592,-633)  @ t=0:42
+└────────────────────────────────────────────────────────────
+
+┌─ РАУНД 10 ─────────────────────────────────────────────────
+│  T: Force     CT: Full      │  Победа: CT  (elimination)  │  Счёт: 6-4
+│
+│  💨 SMOKE  frosya4 [CT]  pos=(-935,-762)  @ t=0:06
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-882,-747)  @ t=0:07
+│  💨 SMOKE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-922,-704)  @ t=0:09
+│  🔥 MOLOTOV  Chelka25 [CT]  pos=(1367,-671)  @ t=0:10
+│  🔥 MOLOTOV  Chelka25 [CT]  pos=(1367,-671)  @ t=0:10
+│  💨 SMOKE  vanalpisyn [T]  pos=(1207,-236)  @ t=0:11
+│  💨 SMOKE  MC MLADEN [CT]  pos=(-2082,432)  @ t=0:12
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-882,-747)  @ t=0:12
+│  💨 SMOKE  danektraher [T]  pos=(892,-31)  @ t=0:16
+│  🔥 MOLOTOV  vanalpisyn [T]  pos=(1182,-219)  @ t=0:18
+│  🔥 MOLOTOV  vanalpisyn [T]  pos=(1182,-219)  @ t=0:18
+│  🔥 MOLOTOV  frosya4 [CT]  pos=(570,396)  @ t=0:22
+│  🔥 MOLOTOV  frosya4 [CT]  pos=(570,396)  @ t=0:22
+│  🔫 YaB0G_A_Tb)_Lo}{ [CT] → danektraher [T]  via Dual Berettas [HS]  pos=(-63,-784)  @ t=0:23
+│  💥 HE  frosya4 [CT]  pos=(1113,-272)  @ t=0:24
+│  💨 SMOKE  cheattopchik [T]  pos=(864,180)  @ t=0:25
+│  💥 HE  MC MLADEN [CT]  pos=(-1919,365)  @ t=0:26
+│  💨 SMOKE  frosya4 [CT]  pos=(-935,-762)  @ t=0:28
+│  💥 HE  frosya4 [CT]  pos=(1113,-272)  @ t=0:29
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [CT]  pos=(27,-758)  @ t=0:30
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [CT]  pos=(27,-758)  @ t=0:30
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [CT]  pos=(27,-758)  @ t=0:30
+│  💨 SMOKE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-922,-704)  @ t=0:31
+│  💥 HE  MC MLADEN [CT]  pos=(-1919,365)  @ t=0:31
+│  🔫 YaB0G_A_Tb)_Lo}{ [CT] → cheattopchik [T]  via Dual Berettas  pos=(41,-785)  @ t=0:32
+│  💨 SMOKE  vanalpisyn [T]  pos=(1207,-236)  @ t=0:33
+│  🔫 Chelka25 [CT] → _Dream_ [T]  via M4A1  pos=(694,-242)  @ t=0:33
+│  💨 SMOKE  MC MLADEN [CT]  pos=(-2082,432)  @ t=0:34
+│  💨 SMOKE  danektraher [T]  pos=(892,-31)  @ t=0:38
+│  🔫 MC MLADEN [CT] → vanalpisyn [T]  via AK-47  pos=(659,632)  @ t=0:40
+│  💥 HE  vanalpisyn [T]  pos=(630,136)  @ t=0:41
+│  💥 HE  vanalpisyn [T]  pos=(630,136)  @ t=0:46
+│  💨 SMOKE  cheattopchik [T]  pos=(864,180)  @ t=0:47
+│  🔫 YaB0G_A_Tb)_Lo}{ [CT] → EBAL_MATVEYA [T]  via AK-47 [HS]  pos=(538,-858)  @ t=0:56
+└────────────────────────────────────────────────────────────
+
+┌─ РАУНД 11 ─────────────────────────────────────────────────
+│  T: Force     CT: Full      │  Победа: CT  (defuse)  │  Счёт: 7-4
+│
+│  💨 SMOKE  frosya4 [CT]  pos=(-992,-722)  @ t=0:06
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-872,-746)  @ t=0:07
+│  🔥 MOLOTOV  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-681,-732)  @ t=0:08
+│  🔥 MOLOTOV  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-681,-732)  @ t=0:08
+│  ⚡ FLASH  EBAL_MATVEYA [T]  pos=(1240,3)  @ t=0:09
+│  ⚡ FLASH  EBAL_MATVEYA [T]  pos=(1240,3)  @ t=0:09
+│  💥 HE  frosya4 [CT]  pos=(-708,-900)  @ t=0:09
+│  ⚡ FLASH  EBAL_MATVEYA [T]  pos=(1240,3)  @ t=0:09
+│  🔫 danektraher [T] → YaB0G_A_Tb)_Lo}{ [CT]  via AK-47 [HS]  pos=(-1190,-948)  @ t=0:09
+│  🔥 MOLOTOV  Chelka25 [CT]  pos=(1315,-702)  @ t=0:10
+│  🔥 MOLOTOV  Chelka25 [CT]  pos=(1315,-702)  @ t=0:10
+│  ⚡ FLASH  EBAL_MATVEYA [T]  pos=(1003,261)  @ t=0:12
+│  ⚡ FLASH  EBAL_MATVEYA [T]  pos=(1003,261)  @ t=0:12
+│  ⚡ FLASH  EBAL_MATVEYA [T]  pos=(1003,261)  @ t=0:12
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-872,-746)  @ t=0:12
+│  🔫 Chelka25 [CT] → EBAL_MATVEYA [T]  via M4A1 [HS]  pos=(693,-121)  @ t=0:14
+│  💥 HE  frosya4 [CT]  pos=(-708,-900)  @ t=0:14
+│  💨 SMOKE  vanalpisyn [T]  pos=(-1810,815)  @ t=0:16
+│  🔫 _Dream_ [T] → MC MLADEN [CT]  via Desert Eagle [HS]  pos=(-2202,118)  @ t=0:17
+│  🔥 MOLOTOV  frosya4 [CT]  pos=(-744,-817)  @ t=0:17
+│  🔥 MOLOTOV  frosya4 [CT]  pos=(-744,-817)  @ t=0:17
+│  🔥 MOLOTOV  vanalpisyn [T]  pos=(-1622,1104)  @ t=0:19
+│  🔥 MOLOTOV  vanalpisyn [T]  pos=(-1622,1104)  @ t=0:19
+│  💥 HE  Chelka25 [CT]  pos=(1197,-566)  @ t=0:20
+│  ⚡ FLASH  frosya4 [CT]  pos=(-1330,525)  @ t=0:21
+│  ⚡ FLASH  frosya4 [CT]  pos=(-1330,525)  @ t=0:21
+│  ⚡ FLASH  frosya4 [CT]  pos=(-1330,525)  @ t=0:21
+│  🔫 frosya4 [CT] → cheattopchik [T]  via AK-47  pos=(-1385,589)  @ t=0:22
+│  💨 SMOKE  Chelka25 [CT]  pos=(1166,-470)  @ t=0:22
+│  🟡 decoy  danektraher [T]  pos=(-602,-420)  @ t=0:23
+│  💥 HE  Chelka25 [CT]  pos=(1197,-566)  @ t=0:25
+│  🔥 MOLOTOV  myshulka [CT]  pos=(-114,-725)  @ t=0:25
+│  🔥 MOLOTOV  myshulka [CT]  pos=(-114,-725)  @ t=0:25
+│  💨 SMOKE  frosya4 [CT]  pos=(-992,-722)  @ t=0:28
+│  🔫 frosya4 [CT] → vanalpisyn [T]  via AK-47  pos=(-1545,-245)  @ t=0:36
+│  💥 HE  vanalpisyn [T]  pos=(-1598,-267)  @ t=0:37
+│  💨 SMOKE  vanalpisyn [T]  pos=(-1810,815)  @ t=0:38
+│  💥 HE  vanalpisyn [T]  pos=(-1598,-267)  @ t=0:42
+│  💨 SMOKE  Chelka25 [CT]  pos=(1166,-470)  @ t=0:44
+│  💣 БОМБА ЗАЛОЖЕНА  danektraher [T]  @ t=0:47
+│  ⚡ FLASH  frosya4 [CT]  pos=(-1399,324)  @ t=0:54
+│  ⚡ FLASH  frosya4 [CT]  pos=(-1399,324)  @ t=0:54
+│  ⚡ FLASH  frosya4 [CT]  pos=(-1399,324)  @ t=0:54
+│  🔫 Chelka25 [CT] → _Dream_ [T]  via M4A1  pos=(-650,1395)  @ t=0:55
+│  🔫 danektraher [T] → frosya4 [CT]  via AK-47  pos=(-2104,480)  @ t=1:05
+│  ⚡ FLASH  Chelka25 [CT]  pos=(-2090,380)  @ t=1:07
+│  ⚡ FLASH  Chelka25 [CT]  pos=(-2090,380)  @ t=1:07
+│  ⚡ FLASH  Chelka25 [CT]  pos=(-2090,380)  @ t=1:07
+│  🔫 myshulka [CT] → danektraher [T]  via HE Grenade [Trade]  pos=(-1564,629)  @ t=1:08
+│  💥 HE  myshulka [CT]  pos=(-2059,316)  @ t=1:08
+│  💥 HE  myshulka [CT]  pos=(-2059,316)  @ t=1:13
+└────────────────────────────────────────────────────────────
+
+┌─ РАУНД 12 ─────────────────────────────────────────────────
+│  T: Force     CT: Full      │  Победа: T   (elimination)  │  Счёт: 7-5
+│
+│  ⚡ FLASH  _Dream_ [T]  pos=(-607,-890)  @ t=0:08
+│  ⚡ FLASH  _Dream_ [T]  pos=(-607,-890)  @ t=0:08
+│  ⚡ FLASH  _Dream_ [T]  pos=(-607,-890)  @ t=0:08
+│  🔫 YaB0G_A_Tb)_Lo}{ [CT] → _Dream_ [T]  via AWP  pos=(-488,629)  @ t=0:09
+│  💨 SMOKE  vanalpisyn [T]  pos=(1254,-132)  @ t=0:12
+│  🔥 MOLOTOV  vanalpisyn [T]  pos=(1184,138)  @ t=0:13
+│  🔥 MOLOTOV  vanalpisyn [T]  pos=(1184,138)  @ t=0:13
+│  💥 HE  Chelka25 [CT]  pos=(1194,-754)  @ t=0:21
+│  🔥 MOLOTOV  Chelka25 [CT]  pos=(1193,-849)  @ t=0:23
+│  🔥 MOLOTOV  Chelka25 [CT]  pos=(1193,-849)  @ t=0:23
+│  ⚡ FLASH  Chelka25 [CT]  pos=(1202,-650)  @ t=0:25
+│  ⚡ FLASH  Chelka25 [CT]  pos=(1202,-650)  @ t=0:25
+│  ⚡ FLASH  Chelka25 [CT]  pos=(1203,-650)  @ t=0:25
+│  💥 HE  Chelka25 [CT]  pos=(1194,-754)  @ t=0:26
+│  ⚡ FLASH  frosya4 [CT]  pos=(-877,-237)  @ t=0:27
+│  ⚡ FLASH  frosya4 [CT]  pos=(-877,-237)  @ t=0:27
+│  ⚡ FLASH  frosya4 [CT]  pos=(-877,-237)  @ t=0:27
+│  🔫 danektraher [T] → myshulka [CT]  via AK-47 [HS]  pos=(432,-439)  @ t=0:27
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-557,233)  @ t=0:30
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-557,233)  @ t=0:30
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [CT]  pos=(-557,233)  @ t=0:30
+│  🔫 Chelka25 [CT] → vanalpisyn [T]  via AWP  pos=(1336,636)  @ t=0:33
+│  🔫 YaB0G_A_Tb)_Lo}{ [CT] → EBAL_MATVEYA [T]  via AWP  pos=(-425,436)  @ t=0:33
+│  💥 HE  vanalpisyn [T]  pos=(898,366)  @ t=0:34
+│  💨 SMOKE  vanalpisyn [T]  pos=(1254,-132)  @ t=0:34
+│  🔫 danektraher [T] → Chelka25 [CT]  via AWP [Trade]  pos=(389,57)  @ t=0:36
+│  🔥 MOLOTOV  frosya4 [CT]  pos=(128,-796)  @ t=0:37
+│  🔥 MOLOTOV  frosya4 [CT]  pos=(128,-796)  @ t=0:37
+│  💥 HE  vanalpisyn [T]  pos=(898,366)  @ t=0:39
+│  💥 HE  danektraher [T]  pos=(-132,-703)  @ t=0:44
+│  🔫 danektraher [T] → frosya4 [CT]  via AWP  pos=(131,-582)  @ t=0:46
+│  💨 SMOKE  danektraher [T]  pos=(96,-820)  @ t=0:46
+│  💥 HE  danektraher [T]  pos=(-132,-703)  @ t=0:49
+│  🔫 YaB0G_A_Tb)_Lo}{ [CT] → cheattopchik [T]  via AWP [NoScope]  pos=(367,840)  @ t=0:56
+│  💣 БОМБА ЗАЛОЖЕНА  danektraher [T]  @ t=1:01
+│  💨 SMOKE  danektraher [T]  pos=(96,-820)  @ t=1:08
+│  🔫 danektraher [T] → YaB0G_A_Tb)_Lo}{ [CT]  via Glock-18  pos=(1306,510)  @ t=1:12
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(1185,421)  @ t=1:12
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [CT]  pos=(1185,421)  @ t=1:17
+│  🔫 danektraher [T] → MC MLADEN [CT]  via AWP  pos=(1395,519)  @ t=1:19
+└────────────────────────────────────────────────────────────
+
+┌─ РАУНД 13 ─────────────────────────────────────────────────
+│  T: Eco       CT: Eco       │  Победа: T   (elimination)  │  Счёт: 5-8
+│
+│  💨 SMOKE  YaB0G_A_Tb)_Lo}{ [T]  pos=(-577,292)  @ t=0:06
+│  ⚡ FLASH  Chelka25 [T]  pos=(-718,-1042)  @ t=0:06
+│  ⚡ FLASH  Chelka25 [T]  pos=(-718,-1042)  @ t=0:06
+│  ⚡ FLASH  Chelka25 [T]  pos=(-718,-1042)  @ t=0:06
+│  💨 SMOKE  Chelka25 [T]  pos=(-1,-696)  @ t=0:07
+│  ⚡ FLASH  Chelka25 [T]  pos=(-718,-1037)  @ t=0:08
+│  ⚡ FLASH  Chelka25 [T]  pos=(-718,-1037)  @ t=0:08
+│  ⚡ FLASH  Chelka25 [T]  pos=(-718,-1037)  @ t=0:08
+│  🔫 MC MLADEN [T] → EBAL_MATVEYA [CT]  via Glock-18 [Trade]  pos=(-715,-789)  @ t=0:10
+│  🔫 EBAL_MATVEYA [CT] → frosya4 [T]  via Desert Eagle [Blind]  pos=(-474,96)  @ t=0:10
+│  💥 HE  cheattopchik [CT]  pos=(1354,-693)  @ t=0:11
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [T]  pos=(-377,70)  @ t=0:13
+│  🔫 MC MLADEN [T] → vanalpisyn [CT]  via Glock-18 [HS]  pos=(-733,-785)  @ t=0:13
+│  💥 HE  cheattopchik [CT]  pos=(1354,-693)  @ t=0:16
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [T]  pos=(-377,70)  @ t=0:18
+│  🔫 YaB0G_A_Tb)_Lo}{ [T] → cheattopchik [CT]  via Glock-18  pos=(-1320,940)  @ t=0:26
+│  💨 SMOKE  YaB0G_A_Tb)_Lo}{ [T]  pos=(-577,292)  @ t=0:28
+│  🔫 danektraher [CT] → myshulka [T]  via USP-S [HS]  pos=(-207,1071)  @ t=0:29
+│  💨 SMOKE  Chelka25 [T]  pos=(-1,-696)  @ t=0:29
+│  💣 БОМБА ЗАЛОЖЕНА  YaB0G_A_Tb)_Lo}{ [T]  @ t=0:31
+│  🔫 danektraher [CT] → Chelka25 [T]  via USP-S [HS]  pos=(-323,1364)  @ t=0:33
+│  🔫 YaB0G_A_Tb)_Lo}{ [T] → _Dream_ [CT]  via Glock-18  pos=(-1298,755)  @ t=0:35
+│  🔫 MC MLADEN [T] → danektraher [CT]  via Glock-18 [Trade]  pos=(-1162,785)  @ t=0:37
+└────────────────────────────────────────────────────────────
+
+┌─ РАУНД 14 ─────────────────────────────────────────────────
+│  T: Force     CT: Force     │  Победа: T   (elimination)  │  Счёт: 5-9
+│
+│  💨 SMOKE  Chelka25 [T]  pos=(-601,168)  @ t=0:06
+│  💨 SMOKE  vanalpisyn [CT]  pos=(-600,-295)  @ t=0:08
+│  💨 SMOKE  YaB0G_A_Tb)_Lo}{ [T]  pos=(5,-697)  @ t=0:08
+│  🔫 YaB0G_A_Tb)_Lo}{ [T] → cheattopchik [CT]  via MAC-10 [HS+Blind]  pos=(635,490)  @ t=0:23
+│  ⚡ FLASH  danektraher [CT]  pos=(942,200)  @ t=0:23
+│  ⚡ FLASH  danektraher [CT]  pos=(942,200)  @ t=0:23
+│  ⚡ FLASH  danektraher [CT]  pos=(942,200)  @ t=0:23
+│  ⚡ FLASH  Chelka25 [T]  pos=(-1067,-1607)  @ t=0:26
+│  ⚡ FLASH  Chelka25 [T]  pos=(-1067,-1607)  @ t=0:26
+│  ⚡ FLASH  Chelka25 [T]  pos=(-1067,-1607)  @ t=0:26
+│  💨 SMOKE  Chelka25 [T]  pos=(-601,168)  @ t=0:28
+│  🔫 myshulka [T] → danektraher [CT]  via MP5-SD  pos=(1089,-141)  @ t=0:28
+│  🔫 YaB0G_A_Tb)_Lo}{ [T] → vanalpisyn [CT]  via MAC-10  pos=(375,909)  @ t=0:28
+│  ⚡ FLASH  Chelka25 [T]  pos=(-937,-1483)  @ t=0:29
+│  ⚡ FLASH  Chelka25 [T]  pos=(-937,-1483)  @ t=0:29
+│  ⚡ FLASH  Chelka25 [T]  pos=(-937,-1483)  @ t=0:29
+│  💣 БОМБА ЗАЛОЖЕНА  MC MLADEN [T]  @ t=0:30
+│  💨 SMOKE  YaB0G_A_Tb)_Lo}{ [T]  pos=(5,-697)  @ t=0:30
+│  💨 SMOKE  vanalpisyn [CT]  pos=(-600,-295)  @ t=0:30
+│  🔫 EBAL_MATVEYA [CT] → YaB0G_A_Tb)_Lo}{ [T]  via Desert Eagle [HS]  pos=(553,-88)  @ t=0:41
+│  🔫 MC MLADEN [T] → _Dream_ [CT]  via R8 Revolver  pos=(1254,733)  @ t=0:45
+│  🔫 Chelka25 [T] → EBAL_MATVEYA [CT]  via Desert Eagle  pos=(1189,-163)  @ t=0:54
+└────────────────────────────────────────────────────────────
+
+┌─ РАУНД 15 ─────────────────────────────────────────────────
+│  T: Force     CT: Force     │  Победа: CT  (defuse)  │  Счёт: 6-9
+│
+│  ⚡ FLASH  Chelka25 [T]  pos=(-718,-1038)  @ t=0:06
+│  💨 SMOKE  YaB0G_A_Tb)_Lo}{ [T]  pos=(-515,263)  @ t=0:06
+│  ⚡ FLASH  Chelka25 [T]  pos=(-718,-1038)  @ t=0:06
+│  ⚡ FLASH  Chelka25 [T]  pos=(-718,-1038)  @ t=0:06
+│  💨 SMOKE  frosya4 [T]  pos=(272,-791)  @ t=0:07
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [T]  pos=(-632,-882)  @ t=0:09
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [T]  pos=(-632,-882)  @ t=0:09
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [T]  pos=(-632,-882)  @ t=0:09
+│  ⚡ FLASH  frosya4 [T]  pos=(1482,-543)  @ t=0:10
+│  ⚡ FLASH  frosya4 [T]  pos=(1482,-543)  @ t=0:10
+│  ⚡ FLASH  frosya4 [T]  pos=(1482,-543)  @ t=0:10
+│  ⚡ FLASH  frosya4 [T]  pos=(-235,-840)  @ t=0:14
+│  ⚡ FLASH  frosya4 [T]  pos=(-235,-840)  @ t=0:14
+│  ⚡ FLASH  MC MLADEN [T]  pos=(77,-923)  @ t=0:14
+│  ⚡ FLASH  MC MLADEN [T]  pos=(77,-923)  @ t=0:14
+│  ⚡ FLASH  MC MLADEN [T]  pos=(77,-923)  @ t=0:14
+│  ⚡ FLASH  frosya4 [T]  pos=(-235,-840)  @ t=0:14
+│  💥 HE  myshulka [T]  pos=(1189,609)  @ t=0:21
+│  🔫 YaB0G_A_Tb)_Lo}{ [T] → EBAL_MATVEYA [CT]  via XM1014 [HS]  pos=(-658,-478)  @ t=0:21
+│  💥 HE  Chelka25 [T]  pos=(-501,587)  @ t=0:25
+│  💥 HE  myshulka [T]  pos=(1189,609)  @ t=0:26
+│  🔫 danektraher [CT] → myshulka [T]  via M4A1 [HS]  pos=(754,278)  @ t=0:27
+│  💨 SMOKE  YaB0G_A_Tb)_Lo}{ [T]  pos=(-515,263)  @ t=0:28
+│  💨 SMOKE  frosya4 [T]  pos=(272,-791)  @ t=0:29
+│  💥 HE  Chelka25 [T]  pos=(-501,587)  @ t=0:30
+│  🔫 danektraher [CT] → MC MLADEN [T]  via M4A1  pos=(555,189)  @ t=0:32
+│  🔫 vanalpisyn [CT] → frosya4 [T]  via MP5-SD  pos=(-1166,-824)  @ t=0:35
+│  🔥 MOLOTOV  frosya4 [T]  pos=(-1154,-815)  @ t=0:36
+│  🔥 MOLOTOV  frosya4 [T]  pos=(-1154,-815)  @ t=0:36
+│  💨 SMOKE  danektraher [CT]  pos=(671,688)  @ t=0:39
+│  🔫 YaB0G_A_Tb)_Lo}{ [T] → danektraher [CT]  via XM1014 [HS]  pos=(475,-408)  @ t=0:53
+│  🔫 cheattopchik [CT] → YaB0G_A_Tb)_Lo}{ [T]  via MP7 [HS+Trade]  pos=(554,174)  @ t=0:57
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [T]  pos=(799,-195)  @ t=0:57
+│  💨 SMOKE  danektraher [CT]  pos=(671,688)  @ t=1:01
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [T]  pos=(799,-195)  @ t=1:02
+│  🔫 Chelka25 [T] → _Dream_ [CT]  via M4A4  pos=(685,446)  @ t=1:16
+│  🔫 Chelka25 [T] → cheattopchik [CT]  via M4A4  pos=(136,860)  @ t=1:21
+│  💥 HE  vanalpisyn [CT]  pos=(-353,764)  @ t=1:25
+│  💨 SMOKE  Chelka25 [T]  pos=(-261,977)  @ t=1:27
+│  💥 HE  vanalpisyn [CT]  pos=(-353,764)  @ t=1:30
+│  💨 SMOKE  Chelka25 [T]  pos=(-261,977)  @ t=1:49
+│  💣 БОМБА ЗАЛОЖЕНА  Chelka25 [T]  @ t=1:50
+│  🔥 MOLOTOV  Chelka25 [T]  pos=(445,841)  @ t=1:54
+│  🔥 MOLOTOV  Chelka25 [T]  pos=(445,841)  @ t=1:54
+│  🔫 vanalpisyn [CT] → Chelka25 [T]  via MP5-SD [HS]  pos=(611,594)  @ t=1:56
+└────────────────────────────────────────────────────────────
+
+┌─ РАУНД 16 ─────────────────────────────────────────────────
+│  T: Full      CT: Force     │  Победа: T   (bomb)  │  Счёт: 6-10
+│
+│  ⚡ FLASH  Chelka25 [T]  pos=(-724,-1037)  @ t=0:06
+│  ⚡ FLASH  Chelka25 [T]  pos=(-724,-1037)  @ t=0:06
+│  💨 SMOKE  Chelka25 [T]  pos=(-630,190)  @ t=0:06
+│  ⚡ FLASH  Chelka25 [T]  pos=(-724,-1037)  @ t=0:06
+│  💨 SMOKE  frosya4 [T]  pos=(168,-772)  @ t=0:07
+│  ⚡ FLASH  Chelka25 [T]  pos=(-720,-1042)  @ t=0:08
+│  ⚡ FLASH  Chelka25 [T]  pos=(-720,-1042)  @ t=0:08
+│  ⚡ FLASH  Chelka25 [T]  pos=(-720,-1042)  @ t=0:08
+│  💥 HE  vanalpisyn [CT]  pos=(-669,-763)  @ t=0:10
+│  💥 HE  cheattopchik [CT]  pos=(1363,-632)  @ t=0:11
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [T]  pos=(58,-919)  @ t=0:13
+│  💨 SMOKE  danektraher [CT]  pos=(-2072,728)  @ t=0:13
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [T]  pos=(58,-919)  @ t=0:13
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [T]  pos=(58,-919)  @ t=0:13
+│  ⚡ FLASH  frosya4 [T]  pos=(-291,-872)  @ t=0:13
+│  ⚡ FLASH  frosya4 [T]  pos=(-291,-872)  @ t=0:13
+│  ⚡ FLASH  frosya4 [T]  pos=(-291,-872)  @ t=0:13
+│  🔥 MOLOTOV  cheattopchik [CT]  pos=(1092,-659)  @ t=0:14
+│  🔥 MOLOTOV  cheattopchik [CT]  pos=(1092,-659)  @ t=0:14
+│  🔫 _Dream_ [CT] → YaB0G_A_Tb)_Lo}{ [T]  via XM1014 [HS]  pos=(385,-546)  @ t=0:14
+│  💥 HE  vanalpisyn [CT]  pos=(-669,-763)  @ t=0:15
+│  🔥 MOLOTOV  vanalpisyn [CT]  pos=(-576,704)  @ t=0:16
+│  🔥 MOLOTOV  vanalpisyn [CT]  pos=(-576,704)  @ t=0:16
+│  💥 HE  myshulka [T]  pos=(1417,93)  @ t=0:16
+│  💥 HE  cheattopchik [CT]  pos=(1363,-632)  @ t=0:16
+│  🔫 cheattopchik [CT] → myshulka [T]  via MP5-SD [HS]  pos=(1213,-243)  @ t=0:17
+│  💥 HE  myshulka [T]  pos=(1417,93)  @ t=0:21
+│  💨 SMOKE  cheattopchik [CT]  pos=(1045,-460)  @ t=0:24
+│  🔫 danektraher [CT] → MC MLADEN [T]  via M4A1  pos=(-1408,2)  @ t=0:24
+│  💨 SMOKE  Chelka25 [T]  pos=(-630,190)  @ t=0:28
+│  💨 SMOKE  frosya4 [T]  pos=(168,-772)  @ t=0:29
+│  ⚡ FLASH  _Dream_ [CT]  pos=(162,-722)  @ t=0:29
+│  ⚡ FLASH  _Dream_ [CT]  pos=(162,-722)  @ t=0:29
+│  ⚡ FLASH  _Dream_ [CT]  pos=(162,-722)  @ t=0:29
+│  🔫 frosya4 [T] → _Dream_ [CT]  via AK-47 [HS+Wallbang]  pos=(-62,-685)  @ t=0:31
+│  ⚡ FLASH  danektraher [CT]  pos=(-950,-181)  @ t=0:35
+│  ⚡ FLASH  danektraher [CT]  pos=(-950,-181)  @ t=0:35
+│  ⚡ FLASH  danektraher [CT]  pos=(-950,-181)  @ t=0:35
+│  💨 SMOKE  danektraher [CT]  pos=(-2072,728)  @ t=0:36
+│  🔫 Chelka25 [T] → danektraher [CT]  via Knife  pos=(-1075,-130)  @ t=0:44
+│  💨 SMOKE  cheattopchik [CT]  pos=(1045,-460)  @ t=0:46
+│  💨 SMOKE  frosya4 [T]  pos=(-1147,-193)  @ t=0:51
+│  🔥 MOLOTOV  Chelka25 [T]  pos=(-696,1029)  @ t=0:51
+│  🔥 MOLOTOV  Chelka25 [T]  pos=(-696,1029)  @ t=0:51
+│  🔥 MOLOTOV  frosya4 [T]  pos=(-1601,994)  @ t=0:53
+│  🔥 MOLOTOV  frosya4 [T]  pos=(-1601,994)  @ t=0:53
+│  💣 БОМБА ЗАЛОЖЕНА  Chelka25 [T]  @ t=0:54
+│  💨 SMOKE  frosya4 [T]  pos=(-1147,-193)  @ t=1:13
+│  💥 HE  frosya4 [T]  pos=(-1416,614)  @ t=1:26
+│  ⚡ FLASH  frosya4 [T]  pos=(-1445,524)  @ t=1:28
+│  ⚡ FLASH  frosya4 [T]  pos=(-1445,524)  @ t=1:28
+│  ⚡ FLASH  frosya4 [T]  pos=(-1445,524)  @ t=1:28
+│  🔫 frosya4 [T] → cheattopchik [CT]  via Glock-18 [HS]  pos=(-1436,36)  @ t=1:29
+│  💥 HE  frosya4 [T]  pos=(-1416,614)  @ t=1:31
+│  💥 HE  Chelka25 [T]  pos=(-1190,649)  @ t=1:33
+│  🔫 World [NONE] → vanalpisyn [CT]  via C4  @ t=1:35
+│  🔫 World [NONE] → Chelka25 [T]  via C4  @ t=1:35
+│  🔫 World [NONE] → frosya4 [T]  via C4  @ t=1:35
+└────────────────────────────────────────────────────────────
+
+┌─ РАУНД 17 ─────────────────────────────────────────────────
+│  T: Full      CT: Force     │  Победа: T   (bomb)  │  Счёт: 6-11
+│
+│  💨 SMOKE  Chelka25 [T]  pos=(-577,-56)  @ t=0:05
+│  ⚡ FLASH  Chelka25 [T]  pos=(-715,-1040)  @ t=0:07
+│  ⚡ FLASH  Chelka25 [T]  pos=(-715,-1040)  @ t=0:07
+│  ⚡ FLASH  Chelka25 [T]  pos=(-715,-1041)  @ t=0:07
+│  ⚡ FLASH  frosya4 [T]  pos=(-746,-880)  @ t=0:08
+│  ⚡ FLASH  frosya4 [T]  pos=(-746,-880)  @ t=0:08
+│  ⚡ FLASH  frosya4 [T]  pos=(-746,-880)  @ t=0:08
+│  ⚡ FLASH  Chelka25 [T]  pos=(-717,-1039)  @ t=0:08
+│  ⚡ FLASH  Chelka25 [T]  pos=(-717,-1039)  @ t=0:08
+│  ⚡ FLASH  Chelka25 [T]  pos=(-717,-1039)  @ t=0:08
+│  🔥 MOLOTOV  vanalpisyn [CT]  pos=(-627,-669)  @ t=0:09
+│  🔥 MOLOTOV  vanalpisyn [CT]  pos=(-627,-669)  @ t=0:09
+│  💥 HE  myshulka [T]  pos=(1319,-215)  @ t=0:11
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [T]  pos=(92,-931)  @ t=0:13
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [T]  pos=(92,-931)  @ t=0:13
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [T]  pos=(92,-931)  @ t=0:13
+│  ⚡ FLASH  myshulka [T]  pos=(1248,-99)  @ t=0:14
+│  ⚡ FLASH  myshulka [T]  pos=(1248,-99)  @ t=0:14
+│  ⚡ FLASH  myshulka [T]  pos=(1248,-99)  @ t=0:14
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [T]  pos=(125,-669)  @ t=0:14
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [T]  pos=(125,-669)  @ t=0:14
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [T]  pos=(125,-669)  @ t=0:14
+│  💥 HE  myshulka [T]  pos=(1319,-215)  @ t=0:16
+│  🔥 MOLOTOV  Chelka25 [T]  pos=(653,770)  @ t=0:21
+│  🔥 MOLOTOV  Chelka25 [T]  pos=(653,770)  @ t=0:21
+│  💨 SMOKE  frosya4 [T]  pos=(-482,310)  @ t=0:24
+│  💣 БОМБА ЗАЛОЖЕНА  Chelka25 [T]  @ t=0:26
+│  💨 SMOKE  Chelka25 [T]  pos=(-577,-56)  @ t=0:27
+│  💥 HE  Chelka25 [T]  pos=(507,1047)  @ t=0:36
+│  🔫 _Dream_ [CT] → YaB0G_A_Tb)_Lo}{ [T]  via Negev [HS]  pos=(355,930)  @ t=0:37
+│  💥 HE  vanalpisyn [CT]  pos=(1112,755)  @ t=0:38
+│  💥 HE  Chelka25 [T]  pos=(507,1047)  @ t=0:41
+│  🔫 danektraher [CT] → myshulka [T]  via Negev  pos=(529,821)  @ t=0:42
+│  🔫 Chelka25 [T] → _Dream_ [CT]  via AK-47  pos=(636,592)  @ t=0:42
+│  🔫 Chelka25 [T] → danektraher [CT]  via AK-47 [HS+Trade]  pos=(636,592)  @ t=0:43
+│  💥 HE  vanalpisyn [CT]  pos=(1112,755)  @ t=0:43
+│  🔫 cheattopchik [CT] → Chelka25 [T]  via Negev [Trade]  pos=(569,860)  @ t=0:44
+│  💨 SMOKE  frosya4 [T]  pos=(-482,310)  @ t=0:46
+│  🔫 MC MLADEN [T] → vanalpisyn [CT]  via AK-47 [HS]  pos=(492,925)  @ t=0:58
+│  🔫 cheattopchik [CT] → MC MLADEN [T]  via Negev [Trade]  pos=(806,170)  @ t=1:01
+│  🔫 World [NONE] → frosya4 [T]  via C4  @ t=1:07
+│  🔫 World [NONE] → cheattopchik [CT]  via C4  @ t=1:07
+└────────────────────────────────────────────────────────────
+
+┌─ РАУНД 18 ─────────────────────────────────────────────────
+│  T: Full      CT: Force     │  Победа: T   (elimination)  │  Счёт: 6-12
+│
+│  💨 SMOKE  frosya4 [T]  pos=(-435,200)  @ t=0:06
+│  💨 SMOKE  Chelka25 [T]  pos=(-1,-696)  @ t=0:07
+│  ⚡ FLASH  frosya4 [T]  pos=(1445,-517)  @ t=0:11
+│  ⚡ FLASH  frosya4 [T]  pos=(1445,-517)  @ t=0:11
+│  ⚡ FLASH  frosya4 [T]  pos=(1445,-517)  @ t=0:11
+│  💨 SMOKE  danektraher [CT]  pos=(1036,-87)  @ t=0:11
+│  💥 HE  myshulka [T]  pos=(1050,-1062)  @ t=0:12
+│  💨 SMOKE  vanalpisyn [CT]  pos=(1151,-245)  @ t=0:14
+│  💥 HE  myshulka [T]  pos=(1050,-1062)  @ t=0:17
+│  🔫 Chelka25 [T] → cheattopchik [CT]  via AK-47 [HS]  pos=(404,-227)  @ t=0:26
+│  🔫 Chelka25 [T] → _Dream_ [CT]  via AK-47  pos=(466,-228)  @ t=0:28
+│  💨 SMOKE  frosya4 [T]  pos=(-435,200)  @ t=0:28
+│  💨 SMOKE  Chelka25 [T]  pos=(-0,-696)  @ t=0:30
+│  💨 SMOKE  danektraher [CT]  pos=(1036,-87)  @ t=0:33
+│  🔫 frosya4 [T] → vanalpisyn [CT]  via MAC-10  pos=(1130,33)  @ t=0:35
+│  🔫 frosya4 [T] → danektraher [CT]  via MAC-10 [HS]  pos=(1130,33)  @ t=0:35
+└────────────────────────────────────────────────────────────
+
+┌─ РАУНД 19 ─────────────────────────────────────────────────
+│  T: Full      CT: Force     │  Победа: T   (elimination)  │  Счёт: 6-13
+│
+│  ⚡ FLASH  cheattopchik [CT]  pos=(-517,510)  @ t=0:07
+│  ⚡ FLASH  cheattopchik [CT]  pos=(-517,510)  @ t=0:07
+│  ⚡ FLASH  cheattopchik [CT]  pos=(-517,510)  @ t=0:07
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [T]  pos=(-517,-901)  @ t=0:08
+│  💨 SMOKE  MC MLADEN [T]  pos=(-5,-696)  @ t=0:08
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [T]  pos=(-517,-901)  @ t=0:08
+│  ⚡ FLASH  YaB0G_A_Tb)_Lo}{ [T]  pos=(-517,-901)  @ t=0:08
+│  ⚡ FLASH  myshulka [T]  pos=(74,-14)  @ t=0:09
+│  ⚡ FLASH  Chelka25 [T]  pos=(-520,-906)  @ t=0:09
+│  ⚡ FLASH  Chelka25 [T]  pos=(-520,-906)  @ t=0:09
+│  ⚡ FLASH  Chelka25 [T]  pos=(-520,-906)  @ t=0:09
+│  ⚡ FLASH  myshulka [T]  pos=(74,-14)  @ t=0:09
+│  🔫 YaB0G_A_Tb)_Lo}{ [T] → _Dream_ [CT]  via AK-47 [HS+Blind]  pos=(-652,-707)  @ t=0:09
+│  ⚡ FLASH  myshulka [T]  pos=(74,-14)  @ t=0:09
+│  💨 SMOKE  frosya4 [T]  pos=(1228,-1306)  @ t=0:12
+│  💨 SMOKE  danektraher [CT]  pos=(1176,-861)  @ t=0:12
+│  🔥 MOLOTOV  MC MLADEN [T]  pos=(1180,382)  @ t=0:15
+│  🔥 MOLOTOV  MC MLADEN [T]  pos=(1180,382)  @ t=0:15
+│  🔥 MOLOTOV  Chelka25 [T]  pos=(-469,889)  @ t=0:16
+│  🔥 MOLOTOV  Chelka25 [T]  pos=(-469,889)  @ t=0:16
+│  💨 SMOKE  vanalpisyn [CT]  pos=(562,145)  @ t=0:16
+│  ⚡ FLASH  frosya4 [T]  pos=(1441,-739)  @ t=0:16
+│  ⚡ FLASH  frosya4 [T]  pos=(1441,-739)  @ t=0:16
+│  ⚡ FLASH  frosya4 [T]  pos=(1441,-739)  @ t=0:16
+│  💥 HE  myshulka [T]  pos=(-103,-793)  @ t=0:16
+│  💨 SMOKE  cheattopchik [CT]  pos=(700,-144)  @ t=0:18
+│  🟡 decoy  MC MLADEN [T]  pos=(608,-1827)  @ t=0:20
+│  💥 HE  myshulka [T]  pos=(-103,-793)  @ t=0:21
+│  💥 HE  vanalpisyn [CT]  pos=(-105,-746)  @ t=0:24
+│  ⚡ FLASH  myshulka [T]  pos=(-1495,715)  @ t=0:26
+│  ⚡ FLASH  myshulka [T]  pos=(-1495,715)  @ t=0:26
+│  ⚡ FLASH  myshulka [T]  pos=(-1495,715)  @ t=0:26
+│  🔫 frosya4 [T] → vanalpisyn [CT]  via MAC-10 [HS+Wallbang]  pos=(902,105)  @ t=0:29
+│  💥 HE  frosya4 [T]  pos=(636,190)  @ t=0:29
+│  💥 HE  vanalpisyn [CT]  pos=(-105,-746)  @ t=0:29
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [T]  pos=(372,-172)  @ t=0:30
+│  💨 SMOKE  MC MLADEN [T]  pos=(-5,-696)  @ t=0:30
+│  💥 HE  MC MLADEN [T]  pos=(992,355)  @ t=0:30
+│  🔥 MOLOTOV  YaB0G_A_Tb)_Lo}{ [T]  pos=(451,-197)  @ t=0:33
+│  🔥 MOLOTOV  YaB0G_A_Tb)_Lo}{ [T]  pos=(451,-197)  @ t=0:33
+│  💥 HE  frosya4 [T]  pos=(636,190)  @ t=0:34
+│  💨 SMOKE  frosya4 [T]  pos=(1228,-1306)  @ t=0:34
+│  💨 SMOKE  danektraher [CT]  pos=(1176,-861)  @ t=0:34
+│  🔫 cheattopchik [CT] → YaB0G_A_Tb)_Lo}{ [T]  via XM1014  pos=(724,86)  @ t=0:35
+│  💥 HE  YaB0G_A_Tb)_Lo}{ [T]  pos=(372,-172)  @ t=0:35
+│  💥 HE  MC MLADEN [T]  pos=(992,355)  @ t=0:35
+│  🔥 MOLOTOV  frosya4 [T]  pos=(1028,-908)  @ t=0:37
+│  🔥 MOLOTOV  frosya4 [T]  pos=(1028,-908)  @ t=0:37
+│  🔫 frosya4 [T] → danektraher [CT]  via MAC-10 [HS]  pos=(1129,-226)  @ t=0:38
+│  💨 SMOKE  vanalpisyn [CT]  pos=(562,145)  @ t=0:38
+│  🔫 cheattopchik [CT] → frosya4 [T]  via XM1014 [HS+Trade]  pos=(733,-180)  @ t=0:40
+│  💨 SMOKE  cheattopchik [CT]  pos=(700,-144)  @ t=0:40
+│  🔫 MC MLADEN [T] → cheattopchik [CT]  via AK-47 [HS+Trade]  pos=(1238,370)  @ t=0:43
+└────────────────────────────────────────────────────────────
+

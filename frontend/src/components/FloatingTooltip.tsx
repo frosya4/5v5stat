@@ -1,0 +1,16 @@
+import type { KillEvent } from "../types";
+import { themeColors, formatWeapon } from '../utils';
+
+export const FloatingTooltip = ({ data, pos }: { data: KillEvent[], pos: { x: number, y: number } }) => {
+    if (!data || !data.length) return null;
+    const safeY = pos.y + 400 > window.innerHeight ? pos.y - (data.length * 30) - 50 : pos.y + 20;
+    return (
+        <div className="glass" style={{ position: 'fixed', top: safeY, left: pos.x + 20, padding: '16px', width: '300px', zIndex: 9999, borderRadius: '12px', pointerEvents: 'none', background: 'rgba(11, 12, 16, 0.95)', border: `1px solid ${themeColors.border}`, boxShadow: '0 20px 50px rgba(0,0,0,0.5)' }}>
+            <div style={{ fontSize: '11px', fontWeight: '800', color: themeColors.textMuted, borderBottom: `1px solid ${themeColors.border}`, paddingBottom: '8px', marginBottom: '8px', letterSpacing: '1px', textTransform: 'uppercase', display: 'flex', justifyContent: 'space-between' }}><span>Kill Feed</span><span>{data.length} Events</span></div>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '6px' }}>{data.map((k, i) => {
+                if (k.is_bomb) return (<div key={i} style={{ display: 'grid', gridTemplateColumns: '40px 1fr 20px 1fr', alignItems: 'center', gap: '8px', fontSize: '12px', height: '24px', background: 'rgba(234, 179, 8, 0.1)', borderRadius: '4px', padding: '0 4px', borderLeft: `2px solid ${themeColors.t}` }}><span style={{ fontFamily: 'monospace', color: '#555', fontSize: '10px' }}>{k.time}</span><div style={{ textAlign: 'right', fontWeight: '700', color: themeColors.t }}>{k.killer}</div><div style={{ textAlign: 'center' }}>💣</div><div style={{ textAlign: 'left', fontStyle: 'italic', color: themeColors.textMuted, fontSize: '10px' }}>PLANTED</div></div>);
+                return (<div key={i} style={{ display: 'grid', gridTemplateColumns: '40px 1fr 70px 1fr', alignItems: 'center', gap: '8px', fontSize: '12px', height: '24px', background: 'linear-gradient(90deg, rgba(255,255,255,0.02) 0%, transparent 100%)', borderRadius: '4px', padding: '0 4px' }}><span style={{ fontFamily: 'monospace', color: '#555', fontSize: '10px' }}>{k.time}</span><div style={{ textAlign: 'right', fontWeight: '700', color: k.killer_team === 'T' ? themeColors.t : themeColors.ct, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{k.killer}</div><div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '4px' }}>{k.hs && <span style={{ color: themeColors.loss, fontSize: '14px', lineHeight: 0, textShadow: `0 0 5px ${themeColors.loss}` }}>⌖</span>}<span style={{ fontSize: '10px', color: '#ccc', opacity: 0.8, textTransform: 'uppercase', fontWeight: '600' }}>{formatWeapon(k.weapon)}</span></div><div style={{ textAlign: 'left', fontWeight: '500', color: k.victim_team === 'T' ? themeColors.t : themeColors.ct, opacity: 0.8, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{k.victim}</div></div>);
+            })}</div>
+        </div>
+    );
+};

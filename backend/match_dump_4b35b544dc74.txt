@@ -1,0 +1,218 @@
+=============================================================
+  МАТЧ: DE_ANCIENT
+  СЧЁТ: CT 6 : 13 T   (19 раундов)
+  Дата: 2026-04-03T20:38:00Z
+  Файл: 23371609_22010831_2604032038-de_ancient.dem
+=============================================================
+
+━━━ СТАТИСТИКА ИГРОКОВ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  [CT КОМАНДА]
+  Игрок                  K   D   A   ADR   RTG  KAST   IMP   FK   FD | Оружие
+  -----------------------------------------------------------------------------------------------
+  danektraher           23  16   2   155  1.67   68%  2.21    3    2 | AK-47:13 M4A1:3 AWP:3  | Клатчи: 0v1 0v2 1v3 0v4 0v5 | Бомба: 2 плант 0 дефуз
+  _Dream_               13  18   3    99  0.94   63%  1.11    4    2 | AK-47:9 Desert Eagle:2 XM1014:1  | Бомба: 1 плант 0 дефуз
+  EBAL_MATVEYA           6  12   4    86  0.75   64%  0.62    1    2 | AK-47:3 Desert Eagle:2 AWP:1  | Бомба: 2 плант 0 дефуз
+  cheattopchik          10  17   5    77  0.70   53%  0.82    0    2 | AK-47:2 MAC-10:2 Negev:2 
+  vanalpisyn             3  17   3    22  0.04   32% -0.01    0    2 | MP5-SD:2 Desert Eagle:1  | Клатчи: 1v1 0v2 0v3 0v4 0v5 | Бомба: 0 плант 1 дефуз
+
+  [T КОМАНДА]
+  Игрок                  K   D   A   ADR   RTG  KAST   IMP   FK   FD | Оружие
+  -----------------------------------------------------------------------------------------------
+  Chelka25              21  10   5   146  1.92   95%  2.05    1    0 | M4A1:10 AK-47:6 M4A4:2  | Клатчи: 1v1 0v2 1v3 0v4 0v5 | Бомба: 3 плант 1 дефуз
+  YaB0G_A_Tb)_Lo}{      21  14   3   157  1.64   68%  2.01    9    5 | MP9:4 AWP:3 XM1014:3  | Бомба: 1 плант 0 дефуз
+  frosya4               20  12   3   134  1.62   74%  1.90    1    1 | Desert Eagle:6 AK-47:6 MAC-10:4 
+  MC MLADEN             10  12   4    79  0.88   58%  0.80    0    0 | AK-47:3 Glock-18:3 MP7:1  | Бомба: 1 плант 0 дефуз
+  myshulka               7  11   3    39  0.71   68%  0.44    0    2 | MP5-SD:4 M4A1:2 HE Grenade:1  | Бомба: 0 плант 1 дефуз
+
+
+━━━ РАУНДЫ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Раунд  1 | T-Buy: Eco    CT-Buy: Eco    | Победа: CT (elimination) | Счёт: 1-0
+          YaB0G_A_Tb)_Lo}{ [CT] → danektraher [T] via USP-S [HS]  @ t=0:14
+          frosya4 [CT] → vanalpisyn [T] via USP-S [HS]  @ t=0:18
+          YaB0G_A_Tb)_Lo}{ [CT] → EBAL_MATVEYA [T] via USP-S [HS]  @ t=0:18
+          frosya4 [CT] → cheattopchik [T] via USP-S [HS]  @ t=0:19
+          MC MLADEN [CT] → _Dream_ [T] via USP-S  @ t=0:22
+
+Раунд  2 | T-Buy: Eco    CT-Buy: Force  | Победа: CT (elimination) | Счёт: 2-0
+          YaB0G_A_Tb)_Lo}{ [CT] → EBAL_MATVEYA [T] via MP9  @ t=0:12
+          YaB0G_A_Tb)_Lo}{ [CT] → danektraher [T] via MP9 [HS]  @ t=0:14
+          _Dream_ [T] → Chelka25 [CT] via Desert Eagle [HS]  @ t=0:20
+          MC MLADEN [CT] → _Dream_ [T] via MP7  @ t=0:26
+          vanalpisyn [T] → MC MLADEN [CT] via Desert Eagle  @ t=0:28
+          myshulka [CT] → vanalpisyn [T] via MP5-SD  @ t=0:37
+          myshulka [CT] → cheattopchik [T] via MP5-SD  @ t=0:43
+
+Раунд  3 | T-Buy: Force  CT-Buy: Full   | Победа: CT (defuse) | Счёт: 3-0
+          YaB0G_A_Tb)_Lo}{ [CT] → EBAL_MATVEYA [T] via MP9  @ t=0:11
+          YaB0G_A_Tb)_Lo}{ [CT] → vanalpisyn [T] via MP9 [HS]  @ t=0:21
+          myshulka [CT] → danektraher [T] via MP5-SD  @ t=0:26
+          cheattopchik [T] → YaB0G_A_Tb)_Lo}{ [CT] via AK-47 [HS]  @ t=0:30
+          _Dream_ [T] → myshulka [CT] via AK-47  @ t=0:47
+          MC MLADEN [CT] → cheattopchik [T] via M4A1  @ t=1:14
+          _Dream_ [T] → MC MLADEN [CT] via AK-47  @ t=1:22
+          _Dream_ [T] → frosya4 [CT] via AK-47  @ t=1:38
+          _Dream_ [T] →  [] via c4_planted  @ t=1:43
+          Chelka25 [CT] → _Dream_ [T] via M4A1 [HS]  @ t=1:47
+
+Раунд  4 | T-Buy: Full   CT-Buy: Full   | Победа: CT (elimination) | Счёт: 4-0
+          danektraher [T] → YaB0G_A_Tb)_Lo}{ [CT] via AK-47 [HS]  @ t=0:20
+          EBAL_MATVEYA [T] → MC MLADEN [CT] via AK-47 [HS]  @ t=0:26
+          Chelka25 [CT] → vanalpisyn [T] via M4A1  @ t=0:28
+          _Dream_ [T] → myshulka [CT] via AK-47  @ t=0:29
+          Chelka25 [CT] → _Dream_ [T] via M4A1  @ t=0:34
+          danektraher [T] → frosya4 [CT] via AK-47 [HS]  @ t=0:38
+          Chelka25 [CT] → danektraher [T] via M4A1 [HS] [WB]  @ t=0:41
+          Chelka25 [CT] → cheattopchik [T] via M4A1  @ t=0:52
+          Chelka25 [CT] → EBAL_MATVEYA [T] via M4A1  @ t=1:06
+
+Раунд  5 | T-Buy: Force  CT-Buy: Full   | Победа: T  (elimination) | Счёт: 4-1
+          _Dream_ [T] → YaB0G_A_Tb)_Lo}{ [CT] via AK-47 [HS]  @ t=0:09
+          danektraher [T] → MC MLADEN [CT] via AK-47 [HS]  @ t=0:17
+          frosya4 [CT] → EBAL_MATVEYA [T] via Desert Eagle [HS]  @ t=0:22
+          Chelka25 [CT] → _Dream_ [T] via AK-47  @ t=0:23
+          cheattopchik [T] → frosya4 [CT] via MAC-10  @ t=0:34
+          cheattopchik [T] → Chelka25 [CT] via MAC-10 [HS]  @ t=0:39
+          myshulka [CT] → cheattopchik [T] via M4A1  @ t=0:44
+          danektraher [T] → myshulka [CT] via AK-47 [HS]  @ t=0:45
+
+Раунд  6 | T-Buy: Force  CT-Buy: Force  | Победа: T  (elimination) | Счёт: 4-2
+          frosya4 [CT] → vanalpisyn [T] via Desert Eagle [HS]  @ t=0:13
+          danektraher [T] → MC MLADEN [CT] via AK-47  @ t=0:14
+          danektraher [T] → frosya4 [CT] via AK-47 [HS]  @ t=0:15
+          Chelka25 [CT] → _Dream_ [T] via M4A1 [HS]  @ t=0:18
+          EBAL_MATVEYA [T] → Chelka25 [CT] via AK-47 [HS]  @ t=0:26
+          myshulka [CT] → danektraher [T] via M4A1  @ t=0:35
+          cheattopchik [T] → myshulka [CT] via AK-47 [HS]  @ t=0:39
+          EBAL_MATVEYA [T] → YaB0G_A_Tb)_Lo}{ [CT] via AK-47  @ t=1:25
+
+Раунд  7 | T-Buy: Full   CT-Buy: Force  | Победа: T  (elimination) | Счёт: 4-3
+          danektraher [T] → myshulka [CT] via AK-47  @ t=0:20
+          _Dream_ [T] → YaB0G_A_Tb)_Lo}{ [CT] via AK-47 [HS]  @ t=0:23
+          danektraher [T] → Chelka25 [CT] via AK-47 [HS] [WB]  @ t=0:25
+          EBAL_MATVEYA [T] →  [] via c4_planted  @ t=1:11
+          frosya4 [CT] → vanalpisyn [T] via XM1014  @ t=1:14
+          _Dream_ [T] → MC MLADEN [CT] via AK-47  @ t=1:26
+          danektraher [T] → frosya4 [CT] via AK-47 [HS]  @ t=1:31
+
+Раунд  8 | T-Buy: Full   CT-Buy: Force  | Победа: T  (bomb) | Счёт: 4-4
+          _Dream_ [T] → myshulka [CT] via AK-47 [HS]  @ t=0:28
+          danektraher [T] → MC MLADEN [CT] via AK-47 [HS]  @ t=0:29
+          EBAL_MATVEYA [T] →  [] via c4_planted  @ t=0:35
+          frosya4 [CT] → EBAL_MATVEYA [T] via Desert Eagle [HS]  @ t=0:50
+          frosya4 [CT] → _Dream_ [T] via Desert Eagle  @ t=0:52
+          frosya4 [CT] → vanalpisyn [T] via AK-47  @ t=1:01
+          frosya4 [CT] → cheattopchik [T] via Desert Eagle  @ t=1:07
+          YaB0G_A_Tb)_Lo}{ [CT] → danektraher [T] via Desert Eagle [HS]  @ t=1:08
+          World [NONE] → YaB0G_A_Tb)_Lo}{ [CT] via C4  @ t=1:16
+
+Раунд  9 | T-Buy: Full   CT-Buy: Full   | Победа: CT (elimination) | Счёт: 5-4
+          YaB0G_A_Tb)_Lo}{ [CT] → vanalpisyn [T] via XM1014 [HS] [Blind]  @ t=0:14
+          _Dream_ [T] → YaB0G_A_Tb)_Lo}{ [CT] via AK-47  @ t=0:15
+          frosya4 [CT] → _Dream_ [T] via AK-47  @ t=0:21
+          frosya4 [CT] → danektraher [T] via AK-47 [WB]  @ t=0:28
+          Chelka25 [CT] → cheattopchik [T] via AK-47 [HS]  @ t=0:32
+          EBAL_MATVEYA [T] → Chelka25 [CT] via AWP  @ t=0:35
+          frosya4 [CT] → EBAL_MATVEYA [T] via Desert Eagle [HS]  @ t=0:42
+
+Раунд 10 | T-Buy: Force  CT-Buy: Full   | Победа: CT (elimination) | Счёт: 6-4
+          YaB0G_A_Tb)_Lo}{ [CT] → danektraher [T] via Dual Berettas [HS]  @ t=0:23
+          YaB0G_A_Tb)_Lo}{ [CT] → cheattopchik [T] via Dual Berettas  @ t=0:32
+          Chelka25 [CT] → _Dream_ [T] via M4A1  @ t=0:33
+          MC MLADEN [CT] → vanalpisyn [T] via AK-47  @ t=0:40
+          YaB0G_A_Tb)_Lo}{ [CT] → EBAL_MATVEYA [T] via AK-47 [HS]  @ t=0:56
+
+Раунд 11 | T-Buy: Force  CT-Buy: Full   | Победа: CT (defuse) | Счёт: 7-4
+          danektraher [T] → YaB0G_A_Tb)_Lo}{ [CT] via AK-47 [HS]  @ t=0:09
+          Chelka25 [CT] → EBAL_MATVEYA [T] via M4A1 [HS]  @ t=0:14
+          _Dream_ [T] → MC MLADEN [CT] via Desert Eagle [HS]  @ t=0:17
+          frosya4 [CT] → cheattopchik [T] via AK-47  @ t=0:22
+          frosya4 [CT] → vanalpisyn [T] via AK-47  @ t=0:36
+          danektraher [T] →  [] via c4_planted  @ t=0:47
+          Chelka25 [CT] → _Dream_ [T] via M4A1  @ t=0:55
+          danektraher [T] → frosya4 [CT] via AK-47  @ t=1:05
+          myshulka [CT] → danektraher [T] via HE Grenade  @ t=1:08
+
+Раунд 12 | T-Buy: Force  CT-Buy: Full   | Победа: T  (elimination) | Счёт: 7-5
+          YaB0G_A_Tb)_Lo}{ [CT] → _Dream_ [T] via AWP  @ t=0:09
+          danektraher [T] → myshulka [CT] via AK-47 [HS]  @ t=0:27
+          Chelka25 [CT] → vanalpisyn [T] via AWP  @ t=0:33
+          YaB0G_A_Tb)_Lo}{ [CT] → EBAL_MATVEYA [T] via AWP  @ t=0:33
+          danektraher [T] → Chelka25 [CT] via AWP  @ t=0:36
+          danektraher [T] → frosya4 [CT] via AWP  @ t=0:46
+          YaB0G_A_Tb)_Lo}{ [CT] → cheattopchik [T] via AWP [NoScope]  @ t=0:56
+          danektraher [T] →  [] via c4_planted  @ t=1:01
+          danektraher [T] → YaB0G_A_Tb)_Lo}{ [CT] via Glock-18  @ t=1:12
+          danektraher [T] → MC MLADEN [CT] via AWP  @ t=1:19
+
+Раунд 13 | T-Buy: Eco    CT-Buy: Eco    | Победа: T  (elimination) | Счёт: 5-8
+          EBAL_MATVEYA [CT] → frosya4 [T] via Desert Eagle [Blind]  @ t=0:10
+          MC MLADEN [T] → EBAL_MATVEYA [CT] via Glock-18  @ t=0:10
+          MC MLADEN [T] → vanalpisyn [CT] via Glock-18 [HS]  @ t=0:13
+          YaB0G_A_Tb)_Lo}{ [T] → cheattopchik [CT] via Glock-18  @ t=0:26
+          danektraher [CT] → myshulka [T] via USP-S [HS]  @ t=0:29
+          YaB0G_A_Tb)_Lo}{ [T] →  [] via c4_planted  @ t=0:31
+          danektraher [CT] → Chelka25 [T] via USP-S [HS]  @ t=0:33
+          YaB0G_A_Tb)_Lo}{ [T] → _Dream_ [CT] via Glock-18  @ t=0:35
+          MC MLADEN [T] → danektraher [CT] via Glock-18  @ t=0:37
+
+Раунд 14 | T-Buy: Force  CT-Buy: Force  | Победа: T  (elimination) | Счёт: 5-9
+          YaB0G_A_Tb)_Lo}{ [T] → cheattopchik [CT] via MAC-10 [HS] [Blind]  @ t=0:23
+          myshulka [T] → danektraher [CT] via MP5-SD  @ t=0:28
+          YaB0G_A_Tb)_Lo}{ [T] → vanalpisyn [CT] via MAC-10  @ t=0:28
+          MC MLADEN [T] →  [] via c4_planted  @ t=0:30
+          EBAL_MATVEYA [CT] → YaB0G_A_Tb)_Lo}{ [T] via Desert Eagle [HS]  @ t=0:41
+          MC MLADEN [T] → _Dream_ [CT] via R8 Revolver  @ t=0:45
+          Chelka25 [T] → EBAL_MATVEYA [CT] via Desert Eagle  @ t=0:54
+
+Раунд 15 | T-Buy: Force  CT-Buy: Force  | Победа: CT (defuse) | Счёт: 6-9
+          YaB0G_A_Tb)_Lo}{ [T] → EBAL_MATVEYA [CT] via XM1014 [HS]  @ t=0:21
+          danektraher [CT] → myshulka [T] via M4A1 [HS]  @ t=0:27
+          danektraher [CT] → MC MLADEN [T] via M4A1  @ t=0:32
+          vanalpisyn [CT] → frosya4 [T] via MP5-SD  @ t=0:35
+          YaB0G_A_Tb)_Lo}{ [T] → danektraher [CT] via XM1014 [HS]  @ t=0:53
+          cheattopchik [CT] → YaB0G_A_Tb)_Lo}{ [T] via MP7 [HS]  @ t=0:57
+          Chelka25 [T] → _Dream_ [CT] via M4A4  @ t=1:16
+          Chelka25 [T] → cheattopchik [CT] via M4A4  @ t=1:21
+          Chelka25 [T] →  [] via c4_planted  @ t=1:50
+          vanalpisyn [CT] → Chelka25 [T] via MP5-SD [HS]  @ t=1:56
+
+Раунд 16 | T-Buy: Full   CT-Buy: Force  | Победа: T  (bomb) | Счёт: 6-10
+          _Dream_ [CT] → YaB0G_A_Tb)_Lo}{ [T] via XM1014 [HS]  @ t=0:14
+          cheattopchik [CT] → myshulka [T] via MP5-SD [HS]  @ t=0:17
+          danektraher [CT] → MC MLADEN [T] via M4A1  @ t=0:24
+          frosya4 [T] → _Dream_ [CT] via AK-47 [HS] [WB]  @ t=0:31
+          Chelka25 [T] → danektraher [CT] via Knife  @ t=0:44
+          Chelka25 [T] →  [] via c4_planted  @ t=0:54
+          frosya4 [T] → cheattopchik [CT] via Glock-18 [HS]  @ t=1:29
+          World [NONE] → vanalpisyn [CT] via C4  @ t=1:35
+          World [NONE] → Chelka25 [T] via C4  @ t=1:35
+          World [NONE] → frosya4 [T] via C4  @ t=1:35
+
+Раунд 17 | T-Buy: Full   CT-Buy: Force  | Победа: T  (bomb) | Счёт: 6-11
+          Chelka25 [T] →  [] via c4_planted  @ t=0:26
+          _Dream_ [CT] → YaB0G_A_Tb)_Lo}{ [T] via Negev [HS]  @ t=0:37
+          danektraher [CT] → myshulka [T] via Negev  @ t=0:42
+          Chelka25 [T] → _Dream_ [CT] via AK-47  @ t=0:42
+          Chelka25 [T] → danektraher [CT] via AK-47 [HS]  @ t=0:43
+          cheattopchik [CT] → Chelka25 [T] via Negev  @ t=0:44
+          MC MLADEN [T] → vanalpisyn [CT] via AK-47 [HS]  @ t=0:58
+          cheattopchik [CT] → MC MLADEN [T] via Negev  @ t=1:01
+          World [NONE] → cheattopchik [CT] via C4  @ t=1:07
+          World [NONE] → frosya4 [T] via C4  @ t=1:07
+
+Раунд 18 | T-Buy: Full   CT-Buy: Force  | Победа: T  (elimination) | Счёт: 6-12
+          Chelka25 [T] → cheattopchik [CT] via AK-47 [HS]  @ t=0:26
+          Chelka25 [T] → _Dream_ [CT] via AK-47  @ t=0:28
+          frosya4 [T] → vanalpisyn [CT] via MAC-10  @ t=0:35
+          frosya4 [T] → danektraher [CT] via MAC-10 [HS]  @ t=0:35
+
+Раунд 19 | T-Buy: Full   CT-Buy: Force  | Победа: T  (elimination) | Счёт: 6-13
+          YaB0G_A_Tb)_Lo}{ [T] → _Dream_ [CT] via AK-47 [HS] [Blind]  @ t=0:09
+          frosya4 [T] → vanalpisyn [CT] via MAC-10 [HS] [WB]  @ t=0:29
+          cheattopchik [CT] → YaB0G_A_Tb)_Lo}{ [T] via XM1014  @ t=0:35
+          frosya4 [T] → danektraher [CT] via MAC-10 [HS]  @ t=0:38
+          cheattopchik [CT] → frosya4 [T] via XM1014 [HS]  @ t=0:40
+          MC MLADEN [T] → cheattopchik [CT] via AK-47 [HS]  @ t=0:43
+

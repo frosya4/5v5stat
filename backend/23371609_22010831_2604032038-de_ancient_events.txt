@@ -1,0 +1,474 @@
+
+┌─ РАУНД  1 ─── T-Buy: Eco    CT-Buy: Eco    ──────────────────
+│  🔫 Тик   2204  EBAL_MATVEYA [CT] → frosya4 [T]  via Knife
+│  🔫 Тик   2235  YaB0G_A_Tb)_Lo}{ [T] → cheattopchik [CT]  via Knife
+│  🔫 Тик   2472  myshulka [T] → EBAL_MATVEYA [CT]  via Knife
+│  🔫 Тик   2500  MC MLADEN [T] → danektraher [CT]  via Knife
+│  🔫 Тик   2533  _Dream_ [CT] → YaB0G_A_Tb)_Lo}{ [T]  via Knife
+│  🔫 Тик   2619  MC MLADEN [T] → _Dream_ [CT]  via Knife
+│  🔫 Тик   2656  vanalpisyn [CT] → myshulka [T]  via Knife
+│  🔫 Тик   2849  Chelka25 [T] → vanalpisyn [CT]  via Knife
+└─ Итог: T победили (ct_surrender)  Счёт CT 0 – 0 T ─────────────────────
+
+┌─ РАУНД  2 ─── T-Buy: Eco    CT-Buy: Eco    ──────────────────
+│  ⚡ Тик   5107  YaB0G_A_Tb)_Lo}{ [CT]  Flashbang → (-515, -179)
+│  💥 Тик   5130  YaB0G_A_Tb)_Lo}{ [CT]  HE Grenade → (-918, -700)
+│  🔫 Тик   5249  YaB0G_A_Tb)_Lo}{ [CT] → danektraher [T]  via USP-S [HS]
+│  ⚡ Тик   5448  vanalpisyn [T]  Flashbang → (-702, -848)
+│  🔫 Тик   5459  frosya4 [CT] → vanalpisyn [T]  via USP-S [HS]
+│  🔫 Тик   5469  YaB0G_A_Tb)_Lo}{ [CT] → EBAL_MATVEYA [T]  via USP-S [HS]
+│  🔫 Тик   5528  frosya4 [CT] → cheattopchik [T]  via USP-S [HS]
+│  🔫 Тик   5754  MC MLADEN [CT] → _Dream_ [T]  via USP-S
+└─ Итог: CT победили (t_surrender)  Счёт CT 1 – 0 T ─────────────────────
+
+┌─ РАУНД  3 ─── T-Buy: Force  CT-Buy: Full   ──────────────────
+│  🔫 Тик   8264  YaB0G_A_Tb)_Lo}{ [CT] → EBAL_MATVEYA [T]  via MP9
+│  💥 Тик   8308  YaB0G_A_Tb)_Lo}{ [CT]  HE Grenade → (-915, -729)
+│  ⚡ Тик   8412  Chelka25 [CT]  Flashbang → (-1586, 877)
+│  🔥 Тик   8414  MC MLADEN [CT]  Incendiary Grenade → (-1821, 1011)
+│  🔫 Тик   8437  YaB0G_A_Tb)_Lo}{ [CT] → danektraher [T]  via MP9 [HS]
+│  🔥 Тик   8437  frosya4 [CT]  Incendiary Grenade → (715, -785)
+│  ⚡ Тик   8612  frosya4 [CT]  Flashbang → (637, -354)
+│  🔫 Тик   8792  _Dream_ [T] → Chelka25 [CT]  via Desert Eagle [HS]
+│  🔫 Тик   9154  MC MLADEN [CT] → _Dream_ [T]  via MP7
+│  🔫 Тик   9302  vanalpisyn [T] → MC MLADEN [CT]  via Desert Eagle
+│  🔥 Тик   9830  cheattopchik [T]  Incendiary Grenade → (-2029, 124)
+│  🔫 Тик   9867  myshulka [CT] → vanalpisyn [T]  via MP5-SD
+│  ⚡ Тик  10062  YaB0G_A_Tb)_Lo}{ [CT]  Flashbang → (-1688, 301)
+│  🔫 Тик  10282  myshulka [CT] → cheattopchik [T]  via MP5-SD
+└─ Итог: CT победили (t_surrender)  Счёт CT 2 – 0 T ─────────────────────
+
+┌─ РАУНД  4 ─── T-Buy: Full   CT-Buy: Full   ──────────────────
+│  🔥 Тик  12574  YaB0G_A_Tb)_Lo}{ [CT]  Incendiary Grenade → (-880, -688)
+│  🔥 Тик  12619  Chelka25 [CT]  Incendiary Grenade → (1382, -641)
+│  🔫 Тик  12718  YaB0G_A_Tb)_Lo}{ [CT] → EBAL_MATVEYA [T]  via MP9
+│  🔥 Тик  12732  frosya4 [CT]  Incendiary Grenade → (-778, -856)
+│  💥 Тик  12815  YaB0G_A_Tb)_Lo}{ [CT]  HE Grenade → (-894, -763)
+│  ⚡ Тик  12903  frosya4 [CT]  Flashbang → (-869, -770)
+│  ⚡ Тик  13098  frosya4 [CT]  Flashbang → (-846, -732)
+│  🔫 Тик  13366  YaB0G_A_Tb)_Lo}{ [CT] → vanalpisyn [T]  via MP9 [HS]
+│  🔫 Тик  13727  myshulka [CT] → danektraher [T]  via MP5-SD
+│  🔫 Тик  13940  cheattopchik [T] → YaB0G_A_Tb)_Lo}{ [CT]  via AK-47 [HS]
+│  ⚡ Тик  14504  Chelka25 [CT]  Flashbang → (-1101, -1051)
+│  💥 Тик  14540  Chelka25 [CT]  HE Grenade → (-1087, -897)
+│  💨 Тик  14855  MC MLADEN [CT]  Smoke Grenade → (-1998, 403)
+│  💨 Тик  15007  frosya4 [CT]  Smoke Grenade → (-964, -685)
+│  🔫 Тик  15066  _Dream_ [T] → myshulka [CT]  via AK-47
+│  💨 Тик  16049  Chelka25 [CT]  Smoke Grenade → (-1116, -968)
+│  🔫 Тик  16773  MC MLADEN [CT] → cheattopchik [T]  via M4A1
+│  🔫 Тик  17274  _Dream_ [T] → MC MLADEN [CT]  via AK-47
+│  🔫 Тик  18304  _Dream_ [T] → frosya4 [CT]  via AK-47
+│  💣 Тик  18606  БОМБА ЗАЛОЖЕНА  _Dream_ [T]
+│  🔫 Тик  18895  Chelka25 [CT] → _Dream_ [T]  via M4A1 [HS]
+│  ✂️  Тик  20305  БОМБА ОБЕЗВРЕЖЕНА  Chelka25 [CT]
+└─ Итог: CT победили (defuse)  Счёт CT 3 – 0 T ─────────────────────
+│  🔥 Тик  20414  Chelka25 [CT]  Molotov → (-1404, 780)
+│  🔫 Тик  20518  Chelka25 [CT] → Chelka25 [CT]  via Molotov
+
+┌─ РАУНД  5 ─── T-Buy: Full   CT-Buy: Full   ──────────────────
+│  ⚡ Тик  22606  danektraher [T]  Flashbang → (1503, -628)
+│  🔥 Тик  22623  frosya4 [CT]  Incendiary Grenade → (-785, -747)
+│  🔥 Тик  22624  Chelka25 [CT]  Incendiary Grenade → (1346, -532)
+│  🔥 Тик  22638  YaB0G_A_Tb)_Lo}{ [CT]  Incendiary Grenade → (-999, -653)
+│  💥 Тик  22830  YaB0G_A_Tb)_Lo}{ [CT]  HE Grenade → (-892, -778)
+│  💥 Тик  23023  frosya4 [CT]  HE Grenade → (-735, -673)
+│  ⚡ Тик  23257  vanalpisyn [T]  Flashbang → (1458, -51)
+│  💥 Тик  23284  danektraher [T]  HE Grenade → (744, -216)
+│  🔫 Тик  23364  danektraher [T] → YaB0G_A_Tb)_Lo}{ [CT]  via AK-47 [HS]
+│  🔥 Тик  23527  vanalpisyn [T]  Molotov → (343, -734)
+│  🔫 Тик  23701  EBAL_MATVEYA [T] → MC MLADEN [CT]  via AK-47 [HS]
+│  🔫 Тик  23851  Chelka25 [CT] → vanalpisyn [T]  via M4A1
+│  💨 Тик  23855  frosya4 [CT]  Smoke Grenade → (-1024, -760)
+│  🔫 Тик  23942  _Dream_ [T] → myshulka [CT]  via AK-47
+│  🔫 Тик  24263  Chelka25 [CT] → _Dream_ [T]  via M4A1
+│  🔫 Тик  24497  danektraher [T] → frosya4 [CT]  via AK-47 [HS]
+│  🔫 Тик  24669  Chelka25 [CT] → danektraher [T]  via M4A1 [HS+Wallbang]
+│  🔫 Тик  25366  Chelka25 [CT] → cheattopchik [T]  via M4A1
+│  💨 Тик  25512  danektraher [T]  Smoke Grenade → (1157, 157)
+│  🔫 Тик  26286  Chelka25 [CT] → EBAL_MATVEYA [T]  via M4A1
+└─ Итог: CT победили (t_surrender)  Счёт CT 4 – 0 T ─────────────────────
+
+┌─ РАУНД  6 ─── T-Buy: Full   CT-Buy: Full   ──────────────────
+│  🔫 Тик  28623  _Dream_ [T] → YaB0G_A_Tb)_Lo}{ [CT]  via AK-47 [HS]
+│  🔥 Тик  28632  YaB0G_A_Tb)_Lo}{ [CT]  Incendiary Grenade → (-933, -658)
+│  🔥 Тик  28653  Chelka25 [CT]  Incendiary Grenade → (1375, -590)
+│  🔥 Тик  28772  MC MLADEN [CT]  Incendiary Grenade → (-2190, -389)
+│  💥 Тик  28863  YaB0G_A_Tb)_Lo}{ [CT]  HE Grenade → (-898, -778)
+│  🔫 Тик  29135  danektraher [T] → MC MLADEN [CT]  via AK-47 [HS]
+│  🔫 Тик  29455  frosya4 [CT] → EBAL_MATVEYA [T]  via Desert Eagle [HS]
+│  🔫 Тик  29496  Chelka25 [CT] → _Dream_ [T]  via AK-47
+│  💥 Тик  29558  MC MLADEN [CT]  HE Grenade → (-1905, 100)
+│  ⚡ Тик  29712  vanalpisyn [T]  Flashbang → (-980, 1138)
+│  ⚡ Тик  29968  frosya4 [CT]  Flashbang → (-1268, -60)
+│  🔫 Тик  30225  cheattopchik [T] → frosya4 [CT]  via MAC-10
+│  💨 Тик  30453  vanalpisyn [T]  Smoke Grenade → (-1804, 215)
+│  🔫 Тик  30517  cheattopchik [T] → Chelka25 [CT]  via MAC-10 [HS]
+│  🔫 Тик  30838  myshulka [CT] → cheattopchik [T]  via M4A1
+│  🔫 Тик  30921  danektraher [T] → myshulka [CT]  via AK-47 [HS]
+└─ Итог: T победили (ct_surrender)  Счёт CT 4 – 1 T ─────────────────────
+
+┌─ РАУНД  7 ─── T-Buy: Full   CT-Buy: Full   ──────────────────
+│  ⚡ Тик  33206  danektraher [T]  Flashbang → (-1806, -736)
+│  🔥 Тик  33257  Chelka25 [CT]  Incendiary Grenade → (1363, -573)
+│  💥 Тик  33456  YaB0G_A_Tb)_Lo}{ [CT]  HE Grenade → (-862, -738)
+│  🔫 Тик  33520  frosya4 [CT] → vanalpisyn [T]  via Desert Eagle [HS]
+│  🔥 Тик  33539  danektraher [T]  Molotov → (-1860, 216)
+│  🔫 Тик  33594  danektraher [T] → MC MLADEN [CT]  via AK-47
+│  🔫 Тик  33667  danektraher [T] → frosya4 [CT]  via AK-47 [HS]
+│  🔫 Тик  33801  Chelka25 [CT] → _Dream_ [T]  via M4A1 [HS]
+│  ⚡ Тик  34104  YaB0G_A_Tb)_Lo}{ [CT]  Flashbang → (-2045, 1017)
+│  🔫 Тик  34347  EBAL_MATVEYA [T] → Chelka25 [CT]  via AK-47 [HS]
+│  💨 Тик  34566  danektraher [T]  Smoke Grenade → (-551, -714)
+│  💨 Тик  34572  _Dream_ [T]  Smoke Grenade → (3, -696)
+│  🔫 Тик  34905  myshulka [CT] → danektraher [T]  via M4A1
+│  🔥 Тик  34963  danektraher [T]  Molotov → (-440, 848)
+│  💨 Тик  35065  vanalpisyn [T]  Smoke Grenade → (-1725, -1174)
+│  🔫 Тик  35163  cheattopchik [T] → myshulka [CT]  via AK-47 [HS]
+│  💨 Тик  35807  YaB0G_A_Tb)_Lo}{ [CT]  Smoke Grenade → (-1934, 367)
+│  🔫 Тик  38118  EBAL_MATVEYA [T] → YaB0G_A_Tb)_Lo}{ [CT]  via AK-47
+└─ Итог: T победили (ct_surrender)  Счёт CT 4 – 2 T ─────────────────────
+│  💣 Тик  38459  БОМБА ЗАЛОЖЕНА  cheattopchik [T]
+│  💨 Тик  38566  EBAL_MATVEYA [T]  Smoke Grenade → (-1375, 368)
+
+┌─ РАУНД  8 ─── T-Buy: Full   CT-Buy: Force  ──────────────────
+│  ⚡ Тик  40442  EBAL_MATVEYA [T]  Flashbang → (-878, -741)
+│  ⚡ Тик  40454  danektraher [T]  Flashbang → (1484, 49)
+│  ⚡ Тик  40460  Chelka25 [CT]  Flashbang → (1366, -629)
+│  ⚡ Тик  40568  Chelka25 [CT]  Flashbang → (1275, -769)
+│  💥 Тик  40708  YaB0G_A_Tb)_Lo}{ [CT]  HE Grenade → (-922, -682)
+│  💥 Тик  41139  cheattopchik [T]  HE Grenade → (1290, -107)
+│  🔫 Тик  41159  danektraher [T] → myshulka [CT]  via AK-47
+│  💥 Тик  41247  EBAL_MATVEYA [T]  HE Grenade → (-812, -658)
+│  🔥 Тик  41302  EBAL_MATVEYA [T]  Molotov → (-522, 178)
+│  🔫 Тик  41335  _Dream_ [T] → YaB0G_A_Tb)_Lo}{ [CT]  via AK-47 [HS]
+│  💨 Тик  41468  EBAL_MATVEYA [T]  Smoke Grenade → (-378, -1179)
+│  🔫 Тик  41478  danektraher [T] → Chelka25 [CT]  via AK-47 [HS+Wallbang]
+│  🔥 Тик  41971  danektraher [T]  Molotov → (95, 782)
+│  💨 Тик  42070  vanalpisyn [T]  Smoke Grenade → (1222, -200)
+│  ⚡ Тик  42106  cheattopchik [T]  Flashbang → (361, -840)
+│  💨 Тик  43058  frosya4 [CT]  Smoke Grenade → (-1374, 135)
+│  💨 Тик  44139  cheattopchik [T]  Smoke Grenade → (-1216, -829)
+│  💥 Тик  44278  danektraher [T]  HE Grenade → (-1295, 1262)
+│  💣 Тик  44435  БОМБА ЗАЛОЖЕНА  EBAL_MATVEYA [T]
+│  🔫 Тик  44601  frosya4 [CT] → vanalpisyn [T]  via XM1014
+│  💥 Тик  45025  vanalpisyn [T]  HE Grenade → (-1747, -29)
+│  ⚡ Тик  45052  frosya4 [CT]  Flashbang → (-1896, 166)
+│  🔫 Тик  45402  _Dream_ [T] → MC MLADEN [CT]  via AK-47
+│  🔫 Тик  45711  danektraher [T] → frosya4 [CT]  via AK-47 [HS]
+└─ Итог: T победили (ct_surrender)  Счёт CT 4 – 3 T ─────────────────────
+
+┌─ РАУНД  9 ─── T-Buy: Full   CT-Buy: Force  ──────────────────
+│  🔥 Тик  48031  danektraher [T]  Molotov → (-1909, 188)
+│  ⚡ Тик  48080  _Dream_ [T]  Flashbang → (-514, -707)
+│  💥 Тик  48295  frosya4 [CT]  HE Grenade → (-873, -744)
+│  🔥 Тик  48672  _Dream_ [T]  Molotov → (144, -774)
+│  💥 Тик  48852  EBAL_MATVEYA [T]  HE Grenade → (-598, 638)
+│  💥 Тик  49062  cheattopchik [T]  HE Grenade → (-544, 570)
+│  ⚡ Тик  49117  danektraher [T]  Flashbang → (-1894, 704)
+│  🔥 Тик  49130  cheattopchik [T]  Molotov → (-470, 647)
+│  ⚡ Тик  49146  EBAL_MATVEYA [T]  Flashbang → (-1188, 655)
+│  🔫 Тик  49248  _Dream_ [T] → myshulka [CT]  via AK-47 [HS]
+│  💨 Тик  49253  _Dream_ [T]  Smoke Grenade → (-476, 262)
+│  💨 Тик  49261  EBAL_MATVEYA [T]  Smoke Grenade → (-343, -140)
+│  💥 Тик  49282  danektraher [T]  HE Grenade → (-1754, 1212)
+│  🔫 Тик  49331  danektraher [T] → MC MLADEN [CT]  via AK-47 [HS]
+│  🔥 Тик  49544  EBAL_MATVEYA [T]  Molotov → (-766, 1037)
+│  💣 Тик  49739  БОМБА ЗАЛОЖЕНА  EBAL_MATVEYA [T]
+│  💨 Тик  50098  vanalpisyn [T]  Smoke Grenade → (-2000, 474)
+│  🔫 Тик  50701  frosya4 [CT] → EBAL_MATVEYA [T]  via Desert Eagle [HS]
+│  🔫 Тик  50785  frosya4 [CT] → _Dream_ [T]  via Desert Eagle
+│  💨 Тик  51116  danektraher [T]  Smoke Grenade → (-981, 1446)
+│  🔫 Тик  51391  frosya4 [CT] → vanalpisyn [T]  via AK-47
+│  💨 Тик  51675  cheattopchik [T]  Smoke Grenade → (-951, 1139)
+│  🔫 Тик  51784  frosya4 [CT] → cheattopchik [T]  via Desert Eagle
+│  💥 Тик  51815  vanalpisyn [T]  HE Grenade → (-519, 1094)
+│  🔫 Тик  51832  YaB0G_A_Tb)_Lo}{ [CT] → danektraher [T]  via Desert Eagle [HS]
+│  🔫 Тик  52363  World [] → YaB0G_A_Tb)_Lo}{ [CT]  via C4
+│  💥 Тик  52363  БОМБА ВЗОРВАЛАСЬ
+└─ Итог: T победили (bomb)  Счёт CT 4 – 4 T ─────────────────────
+
+┌─ РАУНД 10 ─── T-Buy: Full   CT-Buy: Full   ──────────────────
+│  🔥 Тик  54610  YaB0G_A_Tb)_Lo}{ [CT]  Incendiary Grenade → (-788, -863)
+│  🔥 Тик  54729  Chelka25 [CT]  Incendiary Grenade → (1324, -666)
+│  💥 Тик  54875  YaB0G_A_Tb)_Lo}{ [CT]  HE Grenade → (-861, -782)
+│  🔥 Тик  54947  MC MLADEN [CT]  Incendiary Grenade → (-2107, -95)
+│  ⚡ Тик  54978  YaB0G_A_Tb)_Lo}{ [CT]  Flashbang → (-628, -223)
+│  🔫 Тик  55037  YaB0G_A_Tb)_Lo}{ [CT] → vanalpisyn [T]  via XM1014 [HS+ThroughSmoke]
+│  🔫 Тик  55107  _Dream_ [T] → YaB0G_A_Tb)_Lo}{ [CT]  via AK-47 [ThroughSmoke]
+│  ⚡ Тик  55120  frosya4 [CT]  Flashbang → (-497, -129)
+│  🔥 Тик  55247  danektraher [T]  Molotov → (635, -742)
+│  💥 Тик  55305  danektraher [T]  HE Grenade → (1238, 75)
+│  🔫 Тик  55458  frosya4 [CT] → _Dream_ [T]  via AK-47 [ThroughSmoke]
+│  💥 Тик  55461  vanalpisyn [T]  HE Grenade → (-419, -379)
+│  💥 Тик  55583  MC MLADEN [CT]  HE Grenade → (-2027, 368)
+│  💨 Тик  55913  frosya4 [CT]  Smoke Grenade → (-913, -753)
+│  🔫 Тик  55930  frosya4 [CT] → danektraher [T]  via AK-47 [Wallbang+ThroughSmoke]
+│  💨 Тик  55952  EBAL_MATVEYA [T]  Smoke Grenade → (-461, -291)
+│  💥 Тик  55962  EBAL_MATVEYA [T]  HE Grenade → (-676, -142)
+│  ⚡ Тик  56142  EBAL_MATVEYA [T]  Flashbang → (-774, -253)
+│  💨 Тик  56150  MC MLADEN [CT]  Smoke Grenade → (-2140, 749)
+│  🔫 Тик  56166  Chelka25 [CT] → cheattopchik [T]  via AK-47 [HS]
+│  🔥 Тик  56238  frosya4 [CT]  Incendiary Grenade → (-376, -388)
+│  🔫 Тик  56378  EBAL_MATVEYA [T] → Chelka25 [CT]  via AWP
+│  💨 Тик  56392  vanalpisyn [T]  Smoke Grenade → (-672, -174)
+│  ⚡ Тик  56639  frosya4 [CT]  Flashbang → (-584, -443)
+│  🔫 Тик  56803  frosya4 [CT] → EBAL_MATVEYA [T]  via Desert Eagle [HS]
+└─ Итог: CT победили (t_surrender)  Счёт CT 5 – 4 T ─────────────────────
+
+┌─ РАУНД 11 ─── T-Buy: Full   CT-Buy: Full   ──────────────────
+│  🔥 Тик  59190  Chelka25 [CT]  Incendiary Grenade → (1367, -671)
+│  💥 Тик  59342  YaB0G_A_Tb)_Lo}{ [CT]  HE Grenade → (-882, -747)
+│  🔥 Тик  59736  vanalpisyn [T]  Molotov → (1182, -219)
+│  🔥 Тик  59995  frosya4 [CT]  Incendiary Grenade → (570, 396)
+│  🔫 Тик  60030  YaB0G_A_Tb)_Lo}{ [CT] → danektraher [T]  via Dual Berettas [HS]
+│  💨 Тик  60355  frosya4 [CT]  Smoke Grenade → (-935, -762)
+│  💥 Тик  60409  frosya4 [CT]  HE Grenade → (1113, -272)
+│  ⚡ Тик  60503  YaB0G_A_Tb)_Lo}{ [CT]  Flashbang → (27, -758)
+│  💥 Тик  60526  MC MLADEN [CT]  HE Grenade → (-1919, 365)
+│  💨 Тик  60573  YaB0G_A_Tb)_Lo}{ [CT]  Smoke Grenade → (-922, -704)
+│  🔫 Тик  60642  YaB0G_A_Tb)_Lo}{ [CT] → cheattopchik [T]  via Dual Berettas
+│  🔫 Тик  60659  Chelka25 [CT] → _Dream_ [T]  via M4A1 [ThroughSmoke]
+│  💨 Тик  60679  vanalpisyn [T]  Smoke Grenade → (1207, -236)
+│  💨 Тик  60720  MC MLADEN [CT]  Smoke Grenade → (-2082, 432)
+│  💨 Тик  61023  danektraher [T]  Smoke Grenade → (892, -31)
+│  🔫 Тик  61092  MC MLADEN [CT] → vanalpisyn [T]  via AK-47
+│  💥 Тик  61516  vanalpisyn [T]  HE Grenade → (630, 136)
+│  💨 Тик  61595  cheattopchik [T]  Smoke Grenade → (864, 180)
+│  🔫 Тик  62171  YaB0G_A_Tb)_Lo}{ [CT] → EBAL_MATVEYA [T]  via AK-47 [HS]
+└─ Итог: CT победили (t_surrender)  Счёт CT 6 – 4 T ─────────────────────
+
+┌─ РАУНД 12 ─── T-Buy: Force  CT-Buy: Full   ──────────────────
+│  🔥 Тик  64414  YaB0G_A_Tb)_Lo}{ [CT]  Incendiary Grenade → (-681, -732)
+│  ⚡ Тик  64505  EBAL_MATVEYA [T]  Flashbang → (1240, 3)
+│  🔫 Тик  64513  danektraher [T] → YaB0G_A_Tb)_Lo}{ [CT]  via AK-47 [HS+ThroughSmoke]
+│  🔥 Тик  64572  Chelka25 [CT]  Incendiary Grenade → (1315, -702)
+│  💥 Тик  64703  YaB0G_A_Tb)_Lo}{ [CT]  HE Grenade → (-872, -746)
+│  ⚡ Тик  64705  EBAL_MATVEYA [T]  Flashbang → (1003, 261)
+│  💥 Тик  64813  frosya4 [CT]  HE Grenade → (-708, -900)
+│  🔫 Тик  64830  Chelka25 [CT] → EBAL_MATVEYA [T]  via M4A1 [HS]
+│  🔫 Тик  65004  _Dream_ [T] → MC MLADEN [CT]  via Desert Eagle [HS+ThroughSmoke]
+│  🔥 Тик  65014  frosya4 [CT]  Incendiary Grenade → (-744, -817)
+│  🔥 Тик  65134  vanalpisyn [T]  Molotov → (-1622, 1104)
+│  ⚡ Тик  65254  frosya4 [CT]  Flashbang → (-1330, 525)
+│  🔫 Тик  65323  frosya4 [CT] → cheattopchik [T]  via AK-47
+│  🟡 Тик  65399  danektraher [T]  Decoy Grenade → (-602, -420)
+│  💥 Тик  65521  Chelka25 [CT]  HE Grenade → (1197, -566)
+│  🔥 Тик  65551  myshulka [CT]  Molotov → (-114, -725)
+│  💨 Тик  65699  frosya4 [CT]  Smoke Grenade → (-992, -722)
+│  🔫 Тик  66207  frosya4 [CT] → vanalpisyn [T]  via AK-47
+│  💨 Тик  66351  vanalpisyn [T]  Smoke Grenade → (-1810, 815)
+│  💥 Тик  66631  vanalpisyn [T]  HE Grenade → (-1598, -267)
+│  💨 Тик  66768  Chelka25 [CT]  Smoke Grenade → (1166, -470)
+│  💣 Тик  66935  БОМБА ЗАЛОЖЕНА  danektraher [T]
+│  ⚡ Тик  67381  frosya4 [CT]  Flashbang → (-1399, 324)
+│  🔫 Тик  67453  Chelka25 [CT] → _Dream_ [T]  via M4A1
+│  🔫 Тик  68074  danektraher [T] → frosya4 [CT]  via AK-47
+│  ⚡ Тик  68192  Chelka25 [CT]  Flashbang → (-2090, 380)
+│  🔫 Тик  68292  myshulka [CT] → danektraher [T]  via HE Grenade
+│  💥 Тик  68612  myshulka [CT]  HE Grenade → (-2059, 316)
+│  ✂️  Тик  69263  БОМБА ОБЕЗВРЕЖЕНА  myshulka [CT]
+└─ Итог: CT победили (defuse)  Счёт CT 7 – 4 T ─────────────────────
+
+┌─ РАУНД 13 ─── T-Buy: Full   CT-Buy: Full   ──────────────────
+│  ⚡ Тик  71527  _Dream_ [T]  Flashbang → (-607, -890)
+│  🔫 Тик  71608  YaB0G_A_Tb)_Lo}{ [CT] → _Dream_ [T]  via AWP
+│  🔥 Тик  71875  vanalpisyn [T]  Molotov → (1184, 138)
+│  🔥 Тик  72513  Chelka25 [CT]  Incendiary Grenade → (1193, -849)
+│  ⚡ Тик  72627  Chelka25 [CT]  Flashbang → (1202, -650)
+│  💥 Тик  72664  Chelka25 [CT]  HE Grenade → (1194, -754)
+│  🔫 Тик  72742  danektraher [T] → myshulka [CT]  via AK-47 [HS]
+│  ⚡ Тик  72763  frosya4 [CT]  Flashbang → (-877, -237)
+│  ⚡ Тик  72942  YaB0G_A_Tb)_Lo}{ [CT]  Flashbang → (-557, 233)
+│  🔫 Тик  73105  Chelka25 [CT] → vanalpisyn [T]  via AWP
+│  🔫 Тик  73129  YaB0G_A_Tb)_Lo}{ [CT] → EBAL_MATVEYA [T]  via AWP
+│  💨 Тик  73219  vanalpisyn [T]  Smoke Grenade → (1254, -132)
+│  🔫 Тик  73296  danektraher [T] → Chelka25 [CT]  via AWP
+│  🔥 Тик  73412  frosya4 [CT]  Incendiary Grenade → (128, -796)
+│  💥 Тик  73529  vanalpisyn [T]  HE Grenade → (898, 366)
+│  🔫 Тик  73969  danektraher [T] → frosya4 [CT]  via AWP
+│  💥 Тик  74183  danektraher [T]  HE Grenade → (-132, -703)
+│  🔫 Тик  74600  YaB0G_A_Tb)_Lo}{ [CT] → cheattopchik [T]  via AWP [NoScope]
+│  💣 Тик  74911  БОМБА ЗАЛОЖЕНА  danektraher [T]
+│  💨 Тик  75362  danektraher [T]  Smoke Grenade → (96, -820)
+│  🔫 Тик  75663  danektraher [T] → YaB0G_A_Tb)_Lo}{ [CT]  via Glock-18
+│  💥 Тик  75946  YaB0G_A_Tb)_Lo}{ [CT]  HE Grenade → (1185, 421)
+│  🔫 Тик  76094  danektraher [T] → MC MLADEN [CT]  via AWP
+└─ Итог: T победили (ct_surrender)  Счёт CT 7 – 5 T ─────────────────────
+│  💥 Тик  76101  БОМБА ВЗОРВАЛАСЬ
+
+┌─ РАУНД 14 ─── T-Buy: Eco    CT-Buy: Eco    ──────────────────
+│  ⚡ Тик  78753  Chelka25 [T]  Flashbang → (-718, -1042)
+│  ⚡ Тик  78848  Chelka25 [T]  Flashbang → (-718, -1037)
+│  🔫 Тик  78987  EBAL_MATVEYA [CT] → frosya4 [T]  via Desert Eagle
+│  🔫 Тик  79036  MC MLADEN [T] → EBAL_MATVEYA [CT]  via Glock-18
+│  🔫 Тик  79190  MC MLADEN [T] → vanalpisyn [CT]  via Glock-18 [HS]
+│  💥 Тик  79365  cheattopchik [CT]  HE Grenade → (1354, -693)
+│  💥 Тик  79486  YaB0G_A_Tb)_Lo}{ [T]  HE Grenade → (-377, 70)
+│  🔫 Тик  80029  YaB0G_A_Tb)_Lo}{ [T] → cheattopchik [CT]  via Glock-18
+│  💨 Тик  80131  YaB0G_A_Tb)_Lo}{ [T]  Smoke Grenade → (-577, 292)
+│  🔫 Тик  80219  danektraher [CT] → myshulka [T]  via USP-S [HS]
+│  💨 Тик  80245  Chelka25 [T]  Smoke Grenade → (-1, -696)
+│  💣 Тик  80355  БОМБА ЗАЛОЖЕНА  YaB0G_A_Tb)_Lo}{ [T]
+│  🔫 Тик  80451  danektraher [CT] → Chelka25 [T]  via USP-S [HS]
+│  🔫 Тик  80585  YaB0G_A_Tb)_Lo}{ [T] → _Dream_ [CT]  via Glock-18
+│  🔫 Тик  80759  MC MLADEN [T] → danektraher [CT]  via Glock-18
+└─ Итог: T победили (ct_surrender)  Счёт CT 5 – 8 T ─────────────────────
+
+┌─ РАУНД 15 ─── T-Buy: Force  CT-Buy: Force  ──────────────────
+│  ⚡ Тик  83986  danektraher [CT]  Flashbang → (942, 200)
+│  🔫 Тик  84002  YaB0G_A_Tb)_Lo}{ [T] → cheattopchik [CT]  via MAC-10 [HS]
+│  ⚡ Тик  84178  Chelka25 [T]  Flashbang → (-1067, -1607)
+│  🔫 Тик  84289  myshulka [T] → danektraher [CT]  via MP5-SD
+│  🔫 Тик  84298  YaB0G_A_Tb)_Lo}{ [T] → vanalpisyn [CT]  via MAC-10
+│  💨 Тик  84315  Chelka25 [T]  Smoke Grenade → (-601, 168)
+│  ⚡ Тик  84384  Chelka25 [T]  Flashbang → (-937, -1483)
+│  💨 Тик  84413  YaB0G_A_Tb)_Lo}{ [T]  Smoke Grenade → (5, -697)
+│  💣 Тик  84419  БОМБА ЗАЛОЖЕНА  MC MLADEN [T]
+│  💨 Тик  84422  vanalpisyn [CT]  Smoke Grenade → (-600, -295)
+│  🔫 Тик  85165  EBAL_MATVEYA [CT] → YaB0G_A_Tb)_Lo}{ [T]  via Desert Eagle [HS]
+│  🔫 Тик  85411  MC MLADEN [T] → _Dream_ [CT]  via R8 Revolver
+│  🔫 Тик  85954  Chelka25 [T] → EBAL_MATVEYA [CT]  via Desert Eagle
+└─ Итог: T победили (ct_surrender)  Счёт CT 5 – 9 T ─────────────────────
+│  🔥 Тик  86348  frosya4 [T]  Molotov → (446, -275)
+
+┌─ РАУНД 16 ─── T-Buy: Full   CT-Buy: Force  ──────────────────
+│  ⚡ Тик  88087  Chelka25 [T]  Flashbang → (-718, -1038)
+│  ⚡ Тик  88302  YaB0G_A_Tb)_Lo}{ [T]  Flashbang → (-632, -882)
+│  ⚡ Тик  88325  frosya4 [T]  Flashbang → (1482, -543)
+│  ⚡ Тик  88604  frosya4 [T]  Flashbang → (-235, -840)
+│  ⚡ Тик  88630  MC MLADEN [T]  Flashbang → (77, -923)
+│  🔫 Тик  89028  YaB0G_A_Tb)_Lo}{ [T] → EBAL_MATVEYA [CT]  via XM1014 [HS]
+│  💥 Тик  89398  myshulka [T]  HE Grenade → (1189, 609)
+│  🔫 Тик  89469  danektraher [CT] → myshulka [T]  via M4A1 [HS]
+│  💨 Тик  89509  YaB0G_A_Tb)_Lo}{ [T]  Smoke Grenade → (-515, 263)
+│  💨 Тик  89573  frosya4 [T]  Smoke Grenade → (272, -791)
+│  💥 Тик  89603  Chelka25 [T]  HE Grenade → (-501, 587)
+│  🔫 Тик  89761  danektraher [CT] → MC MLADEN [T]  via M4A1
+│  🔫 Тик  89937  vanalpisyn [CT] → frosya4 [T]  via MP5-SD
+│  🔥 Тик  90025  frosya4 [T]  Molotov → (-1154, -815)
+│  🔫 Тик  91118  YaB0G_A_Tb)_Lo}{ [T] → danektraher [CT]  via XM1014 [HS]
+│  🔫 Тик  91348  cheattopchik [CT] → YaB0G_A_Tb)_Lo}{ [T]  via MP7 [HS]
+│  💨 Тик  91596  danektraher [CT]  Smoke Grenade → (671, 688)
+│  💥 Тик  91709  YaB0G_A_Tb)_Lo}{ [T]  HE Grenade → (799, -195)
+│  🔫 Тик  92573  Chelka25 [T] → _Dream_ [CT]  via M4A4
+│  🔫 Тик  92909  Chelka25 [T] → cheattopchik [CT]  via M4A4
+│  💥 Тик  93448  vanalpisyn [CT]  HE Grenade → (-353, 764)
+│  💨 Тик  94697  Chelka25 [T]  Smoke Grenade → (-261, 977)
+│  💣 Тик  94748  БОМБА ЗАЛОЖЕНА  Chelka25 [T]
+│  🔥 Тик  95041  Chelka25 [T]  Molotov → (445, 841)
+│  🔫 Тик  95143  vanalpisyn [CT] → Chelka25 [T]  via MP5-SD [HS]
+│  ✂️  Тик  96786  БОМБА ОБЕЗВРЕЖЕНА  vanalpisyn [CT]
+└─ Итог: CT победили (defuse)  Счёт CT 6 – 9 T ─────────────────────
+
+┌─ РАУНД 17 ─── T-Buy: Full   CT-Buy: Full   ──────────────────
+│  ⚡ Тик  98922  Chelka25 [T]  Flashbang → (-724, -1037)
+│  ⚡ Тик  99029  Chelka25 [T]  Flashbang → (-720, -1042)
+│  ⚡ Тик  99364  YaB0G_A_Tb)_Lo}{ [T]  Flashbang → (58, -919)
+│  ⚡ Тик  99373  frosya4 [T]  Flashbang → (-291, -872)
+│  🔥 Тик  99448  cheattopchik [CT]  Incendiary Grenade → (1092, -659)
+│  🔫 Тик  99470  _Dream_ [CT] → YaB0G_A_Tb)_Lo}{ [T]  via XM1014 [HS]
+│  💥 Тик  99513  vanalpisyn [CT]  HE Grenade → (-669, -763)
+│  💥 Тик  99560  cheattopchik [CT]  HE Grenade → (1363, -632)
+│  🔥 Тик  99572  vanalpisyn [CT]  Incendiary Grenade → (-576, 704)
+│  🔫 Тик  99617  cheattopchik [CT] → myshulka [T]  via MP5-SD [HS]
+│  💥 Тик  99859  myshulka [T]  HE Grenade → (1417, 93)
+│  🔫 Тик 100100  danektraher [CT] → MC MLADEN [T]  via M4A1
+│  💨 Тик 100335  Chelka25 [T]  Smoke Grenade → (-630, 190)
+│  💨 Тик 100405  frosya4 [T]  Smoke Grenade → (168, -772)
+│  ⚡ Тик 100414  _Dream_ [CT]  Flashbang → (162, -722)
+│  🔫 Тик 100510  frosya4 [T] → _Dream_ [CT]  via AK-47 [HS+Wallbang]
+│  ⚡ Тик 100794  danektraher [CT]  Flashbang → (-950, -181)
+│  💨 Тик 100820  danektraher [CT]  Smoke Grenade → (-2072, 728)
+│  🔫 Тик 101344  Chelka25 [T] → danektraher [CT]  via Knife
+│  💨 Тик 101515  cheattopchik [CT]  Smoke Grenade → (1045, -460)
+│  🔥 Тик 101822  Chelka25 [T]  Molotov → (-696, 1029)
+│  🔥 Тик 101940  frosya4 [T]  Molotov → (-1601, 994)
+│  💣 Тик 102008  БОМБА ЗАЛОЖЕНА  Chelka25 [T]
+│  💨 Тик 103225  frosya4 [T]  Smoke Grenade → (-1147, -193)
+│  ⚡ Тик 104162  frosya4 [T]  Flashbang → (-1445, 524)
+│  🔫 Тик 104224  frosya4 [T] → cheattopchik [CT]  via Glock-18 [HS]
+│  💥 Тик 104398  frosya4 [T]  HE Grenade → (-1416, 614)
+│  🔫 Тик 104632  World [] → vanalpisyn [CT]  via C4
+│  🔫 Тик 104632  World [] → Chelka25 [T]  via C4
+│  🔫 Тик 104632  World [] → frosya4 [T]  via C4
+│  💥 Тик 104632  БОМБА ВЗОРВАЛАСЬ
+└─ Итог: T победили (bomb)  Счёт CT 6 – 10 T ─────────────────────
+│  💥 Тик 104794  Chelka25 [T]  HE Grenade → (-1190, 649)
+
+┌─ РАУНД 18 ─── T-Buy: Full   CT-Buy: Force  ──────────────────
+│  ⚡ Тик 106820  Chelka25 [T]  Flashbang → (-715, -1040)
+│  ⚡ Тик 106908  Chelka25 [T]  Flashbang → (-717, -1039)
+│  ⚡ Тик 106928  frosya4 [T]  Flashbang → (-746, -880)
+│  🔥 Тик 106996  vanalpisyn [CT]  Incendiary Grenade → (-627, -669)
+│  ⚡ Тик 107195  YaB0G_A_Tb)_Lo}{ [T]  Flashbang → (92, -931)
+│  ⚡ Тик 107276  YaB0G_A_Tb)_Lo}{ [T]  Flashbang → (125, -669)
+│  ⚡ Тик 107288  myshulka [T]  Flashbang → (1248, -99)
+│  💥 Тик 107428  myshulka [T]  HE Grenade → (1319, -215)
+│  🔥 Тик 107708  Chelka25 [T]  Molotov → (653, 770)
+│  💣 Тик 108035  БОМБА ЗАЛОЖЕНА  Chelka25 [T]
+│  💨 Тик 108135  Chelka25 [T]  Smoke Grenade → (-577, -56)
+│  🔫 Тик 108765  _Dream_ [CT] → YaB0G_A_Tb)_Lo}{ [T]  via Negev [HS]
+│  💥 Тик 109000  Chelka25 [T]  HE Grenade → (507, 1047)
+│  🔫 Тик 109055  danektraher [CT] → myshulka [T]  via Negev
+│  🔫 Тик 109107  Chelka25 [T] → _Dream_ [CT]  via AK-47
+│  🔫 Тик 109120  Chelka25 [T] → danektraher [CT]  via AK-47 [HS]
+│  💥 Тик 109172  vanalpisyn [CT]  HE Grenade → (1112, 755)
+│  🔫 Тик 109220  cheattopchik [CT] → Chelka25 [T]  via Negev
+│  💨 Тик 109312  frosya4 [T]  Smoke Grenade → (-482, 310)
+│  🔫 Тик 110110  MC MLADEN [T] → vanalpisyn [CT]  via AK-47 [HS]
+│  🔫 Тик 110286  cheattopchik [CT] → MC MLADEN [T]  via Negev
+│  🔫 Тик 110659  World [] → cheattopchik [CT]  via C4
+│  🔫 Тик 110659  World [] → frosya4 [T]  via C4
+│  💥 Тик 110659  БОМБА ВЗОРВАЛАСЬ
+└─ Итог: T победили (bomb)  Счёт CT 6 – 11 T ─────────────────────
+
+┌─ РАУНД 19 ─── T-Buy: Full   CT-Buy: Force  ──────────────────
+│  ⚡ Тик 113110  frosya4 [T]  Flashbang → (1445, -517)
+│  💥 Тик 113493  myshulka [T]  HE Grenade → (1050, -1062)
+│  🔫 Тик 114091  Chelka25 [T] → cheattopchik [CT]  via AK-47 [HS]
+│  💨 Тик 114198  frosya4 [T]  Smoke Grenade → (-435, 200)
+│  🔫 Тик 114211  Chelka25 [T] → _Dream_ [CT]  via AK-47
+│  💨 Тик 114307  Chelka25 [T]  Smoke Grenade → (-0, -696)
+│  💨 Тик 114520  danektraher [CT]  Smoke Grenade → (1036, -87)
+│  🔫 Тик 114642  frosya4 [T] → vanalpisyn [CT]  via MAC-10
+│  🔫 Тик 114686  frosya4 [T] → danektraher [CT]  via MAC-10 [HS]
+└─ Итог: T победили (ct_surrender)  Счёт CT 6 – 12 T ─────────────────────
+│  💨 Тик 114732  vanalpisyn [CT]  Smoke Grenade → (1151, -245)
+
+┌─ РАУНД 20 ─── T-Buy: Full   CT-Buy: Force  ──────────────────
+│  ⚡ Тик 116905  cheattopchik [CT]  Flashbang → (-517, 510)
+│  ⚡ Тик 116944  YaB0G_A_Tb)_Lo}{ [T]  Flashbang → (-517, -901)
+│  ⚡ Тик 117019  Chelka25 [T]  Flashbang → (-520, -906)
+│  🔫 Тик 117024  YaB0G_A_Tb)_Lo}{ [T] → _Dream_ [CT]  via AK-47 [HS]
+│  ⚡ Тик 117044  myshulka [T]  Flashbang → (74, -14)
+│  🔥 Тик 117417  MC MLADEN [T]  Molotov → (1180, 382)
+│  🔥 Тик 117448  Chelka25 [T]  Molotov → (-469, 889)
+│  ⚡ Тик 117459  frosya4 [T]  Flashbang → (1441, -739)
+│  🟡 Тик 117756  MC MLADEN [T]  Decoy Grenade → (608, -1827)
+│  💥 Тик 117804  myshulka [T]  HE Grenade → (-103, -793)
+│  ⚡ Тик 118120  myshulka [T]  Flashbang → (-1495, 715)
+│  💥 Тик 118297  vanalpisyn [CT]  HE Grenade → (-105, -746)
+│  🔫 Тик 118328  frosya4 [T] → vanalpisyn [CT]  via MAC-10 [HS+Wallbang]
+│  💨 Тик 118345  MC MLADEN [T]  Smoke Grenade → (-5, -696)
+│  🔥 Тик 118570  YaB0G_A_Tb)_Lo}{ [T]  Incendiary Grenade → (451, -197)
+│  💥 Тик 118607  frosya4 [T]  HE Grenade → (636, 190)
+│  💨 Тик 118624  frosya4 [T]  Smoke Grenade → (1228, -1306)
+│  💨 Тик 118636  danektraher [CT]  Smoke Grenade → (1176, -861)
+│  💥 Тик 118663  YaB0G_A_Tb)_Lo}{ [T]  HE Grenade → (372, -172)
+│  💥 Тик 118667  MC MLADEN [T]  HE Grenade → (992, 355)
+│  🔫 Тик 118676  cheattopchik [CT] → YaB0G_A_Tb)_Lo}{ [T]  via XM1014 [ThroughSmoke]
+│  🔥 Тик 118825  frosya4 [T]  Molotov → (1028, -908)
+│  🔫 Тик 118867  frosya4 [T] → danektraher [CT]  via MAC-10 [HS]
+│  💨 Тик 118870  vanalpisyn [CT]  Smoke Grenade → (562, 145)
+│  🔫 Тик 119019  cheattopchik [CT] → frosya4 [T]  via XM1014 [HS]
+│  💨 Тик 119036  cheattopchik [CT]  Smoke Grenade → (700, -144)
+│  🔫 Тик 119170  MC MLADEN [T] → cheattopchik [CT]  via AK-47 [HS]
+└─ Итог: T победили (ct_surrender)  Счёт CT 6 – 13 T ─────────────────────
+│  🔫 Тик 119969  Chelka25 [T] → Chelka25 [T]  via World
+│  🔫 Тик 120144  MC MLADEN [T] → MC MLADEN [T]  via World
+
+
+══════════ ИТОГОВАЯ СТАТИСТИКА ИГРОКОВ ══════════════════════
+
+  [CT] _Dream_  K=13 D=18 A=3  MVPs=0
+  [T] myshulka  K=7 D=11 A=3  MVPs=1

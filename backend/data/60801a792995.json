@@ -1,0 +1,2173 @@
+{
+  "id": "60801a792995",
+  "map": "De_inferno",
+  "rounds_count": 16,
+  "rounds_history": [
+    {
+      "round_num": 1,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 0,
+      "score_b": 1,
+      "kill_feed": [
+        {
+          "time": "0:27",
+          "killer": "wq ツ",
+          "killer_team": "T",
+          "victim": "Olf0ns",
+          "victim_team": "CT",
+          "weapon": "Glock-18",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:31",
+          "killer": "nonsense",
+          "killer_team": "CT",
+          "victim": "сосал?",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:35",
+          "killer": "wq ツ",
+          "killer_team": "T",
+          "victim": "Мамулик",
+          "victim_team": "CT",
+          "weapon": "Glock-18",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:43",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "0:45",
+          "killer": "MINUUUSSS",
+          "killer_team": "T",
+          "victim": "nonsense",
+          "victim_team": "CT",
+          "weapon": "USP-S",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:50",
+          "killer": "MINUUUSSS",
+          "killer_team": "T",
+          "victim": "avoid",
+          "victim_team": "CT",
+          "weapon": "USP-S",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:53",
+          "killer": "Флешка с донбасса",
+          "killer_team": "CT",
+          "victim": "myshulka",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:54",
+          "killer": "Флешка с донбасса",
+          "killer_team": "CT",
+          "victim": "MINUUUSSS",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:00",
+          "killer": "Флешка с донбасса",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:02",
+          "killer": "wq ツ",
+          "killer_team": "T",
+          "victim": "Флешка с донбасса",
+          "victim_team": "CT",
+          "weapon": "Glock-18",
+          "hs": true,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 2,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 0,
+      "score_b": 2,
+      "kill_feed": [
+        {
+          "time": "0:18",
+          "killer": "avoid",
+          "killer_team": "CT",
+          "victim": "myshulka",
+          "victim_team": "T",
+          "weapon": "Desert Eagle",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:25",
+          "killer": "MINUUUSSS",
+          "killer_team": "T",
+          "victim": "avoid",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:31",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "Мамулик",
+          "victim_team": "CT",
+          "weapon": "MP5-SD",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:47",
+          "killer": "MINUUUSSS",
+          "killer_team": "T",
+          "victim": "nonsense",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:54",
+          "killer": "Флешка с донбасса",
+          "killer_team": "CT",
+          "victim": "сосал?",
+          "victim_team": "T",
+          "weapon": "Desert Eagle",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:59",
+          "killer": "MINUUUSSS",
+          "killer_team": "T",
+          "victim": "Olf0ns",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:15",
+          "killer": "wq ツ",
+          "killer_team": "T",
+          "victim": "Флешка с донбасса",
+          "victim_team": "CT",
+          "weapon": "MAC-10",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 3,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 0,
+      "score_b": 3,
+      "kill_feed": [
+        {
+          "time": "0:09",
+          "killer": "nonsense",
+          "killer_team": "CT",
+          "victim": "MINUUUSSS",
+          "victim_team": "T",
+          "weapon": "SSG 08",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:12",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "Olf0ns",
+          "victim_team": "CT",
+          "weapon": "MP5-SD",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:14",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "avoid",
+          "victim_team": "CT",
+          "weapon": "MP5-SD",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:29",
+          "killer": "сосал?",
+          "killer_team": "T",
+          "victim": "Мамулик",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:35",
+          "killer": "сосал?",
+          "killer_team": "T",
+          "victim": "nonsense",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:43",
+          "killer": "wq ツ",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "1:10",
+          "killer": "сосал?",
+          "killer_team": "T",
+          "victim": "Флешка с донбасса",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 4,
+      "winner_side": "CT",
+      "win_type": "defuse",
+      "score_a": 1,
+      "score_b": 3,
+      "kill_feed": [
+        {
+          "time": "0:56",
+          "killer": "nonsense",
+          "killer_team": "CT",
+          "victim": "сосал?",
+          "victim_team": "T",
+          "weapon": "MP9",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:58",
+          "killer": "myshulka",
+          "killer_team": "T",
+          "victim": "Olf0ns",
+          "victim_team": "CT",
+          "weapon": "MP5-SD",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:59",
+          "killer": "Флешка с донбасса",
+          "killer_team": "CT",
+          "victim": "myshulka",
+          "victim_team": "T",
+          "weapon": "MP5-SD",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:01",
+          "killer": "nonsense",
+          "killer_team": "CT",
+          "victim": "MINUUUSSS",
+          "victim_team": "T",
+          "weapon": "MP9",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:03",
+          "killer": "wq ツ",
+          "killer_team": "T",
+          "victim": "nonsense",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:09",
+          "killer": "wq ツ",
+          "killer_team": "T",
+          "victim": "Мамулик",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:11",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "avoid",
+          "victim_team": "CT",
+          "weapon": "Glock-18",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:14",
+          "killer": "wq ツ",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "1:18",
+          "killer": "Флешка с донбасса",
+          "killer_team": "CT",
+          "victim": "wq ツ",
+          "victim_team": "T",
+          "weapon": "MP5-SD",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:40",
+          "killer": "Флешка с донбасса",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "Knife",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 5,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 2,
+      "score_b": 3,
+      "kill_feed": [
+        {
+          "time": "0:10",
+          "killer": "Флешка с донбасса",
+          "killer_team": "CT",
+          "victim": "wq ツ",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:27",
+          "killer": "сосал?",
+          "killer_team": "T",
+          "victim": "Olf0ns",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:28",
+          "killer": "nonsense",
+          "killer_team": "CT",
+          "victim": "MINUUUSSS",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:33",
+          "killer": "nonsense",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:36",
+          "killer": "сосал?",
+          "killer_team": "T",
+          "victim": "Флешка с донбасса",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:44",
+          "killer": "сосал?",
+          "killer_team": "T",
+          "victim": "avoid",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:46",
+          "killer": "nonsense",
+          "killer_team": "CT",
+          "victim": "сосал?",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:25",
+          "killer": "nonsense",
+          "killer_team": "CT",
+          "victim": "myshulka",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 6,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 2,
+      "score_b": 4,
+      "kill_feed": [
+        {
+          "time": "0:21",
+          "killer": "сосал?",
+          "killer_team": "T",
+          "victim": "Флешка с донбасса",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:32",
+          "killer": "сосал?",
+          "killer_team": "T",
+          "victim": "avoid",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:33",
+          "killer": "Мамулик",
+          "killer_team": "CT",
+          "victim": "myshulka",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:41",
+          "killer": "wq ツ",
+          "killer_team": "T",
+          "victim": "nonsense",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:48",
+          "killer": "wq ツ",
+          "killer_team": "T",
+          "victim": "Мамулик",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:48",
+          "killer": "Olf0ns",
+          "killer_team": "CT",
+          "victim": "сосал?",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:01",
+          "killer": "wq ツ",
+          "killer_team": "T",
+          "victim": "Olf0ns",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 7,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 2,
+      "score_b": 5,
+      "kill_feed": [
+        {
+          "time": "0:14",
+          "killer": "сосал?",
+          "killer_team": "T",
+          "victim": "Флешка с донбасса",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:20",
+          "killer": "MINUUUSSS",
+          "killer_team": "T",
+          "victim": "nonsense",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:21",
+          "killer": "сосал?",
+          "killer_team": "T",
+          "victim": "avoid",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:28",
+          "killer": "Мамулик",
+          "killer_team": "CT",
+          "victim": "сосал?",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:33",
+          "killer": "wq ツ",
+          "killer_team": "T",
+          "victim": "Мамулик",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:49",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "0:54",
+          "killer": "MINUUUSSS",
+          "killer_team": "T",
+          "victim": "Olf0ns",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 8,
+      "winner_side": "CT",
+      "win_type": "defuse",
+      "score_a": 3,
+      "score_b": 5,
+      "kill_feed": [
+        {
+          "time": "0:19",
+          "killer": "сосал?",
+          "killer_team": "T",
+          "victim": "Olf0ns",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:19",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "nonsense",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:24",
+          "killer": "сосал?",
+          "killer_team": "T",
+          "victim": "Мамулик",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:28",
+          "killer": "Флешка с донбасса",
+          "killer_team": "CT",
+          "victim": "wq ツ",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:29",
+          "killer": "сосал?",
+          "killer_team": "T",
+          "victim": "Флешка с донбасса",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:55",
+          "killer": "MINUUUSSS",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "0:55",
+          "killer": "avoid",
+          "killer_team": "CT",
+          "victim": "сосал?",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:56",
+          "killer": "avoid",
+          "killer_team": "CT",
+          "victim": "MINUUUSSS",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:01",
+          "killer": "avoid",
+          "killer_team": "CT",
+          "victim": "myshulka",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:05",
+          "killer": "avoid",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 9,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 3,
+      "score_b": 6,
+      "kill_feed": [
+        {
+          "time": "0:16",
+          "killer": "сосал?",
+          "killer_team": "T",
+          "victim": "Мамулик",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:21",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "avoid",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:24",
+          "killer": "сосал?",
+          "killer_team": "T",
+          "victim": "Olf0ns",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:39",
+          "killer": "myshulka",
+          "killer_team": "T",
+          "victim": "Флешка с донбасса",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:09",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "1:12",
+          "killer": "MINUUUSSS",
+          "killer_team": "T",
+          "victim": "nonsense",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 10,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 3,
+      "score_b": 7,
+      "kill_feed": [
+        {
+          "time": "0:18",
+          "killer": "MINUUUSSS",
+          "killer_team": "T",
+          "victim": "nonsense",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:22",
+          "killer": "avoid",
+          "killer_team": "CT",
+          "victim": "сосал?",
+          "victim_team": "T",
+          "weapon": "Desert Eagle",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:24",
+          "killer": "MINUUUSSS",
+          "killer_team": "T",
+          "victim": "Olf0ns",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:25",
+          "killer": "wq ツ",
+          "killer_team": "T",
+          "victim": "avoid",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:29",
+          "killer": "wq ツ",
+          "killer_team": "T",
+          "victim": "Мамулик",
+          "victim_team": "CT",
+          "weapon": "Glock-18",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:42",
+          "killer": "myshulka",
+          "killer_team": "T",
+          "victim": "Флешка с донбасса",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 11,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 3,
+      "score_b": 8,
+      "kill_feed": [
+        {
+          "time": "0:23",
+          "killer": "avoid",
+          "killer_team": "CT",
+          "victim": "myshulka",
+          "victim_team": "T",
+          "weapon": "M4A4",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:29",
+          "killer": "MINUUUSSS",
+          "killer_team": "T",
+          "victim": "Мамулик",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:39",
+          "killer": "nonsense",
+          "killer_team": "CT",
+          "victim": "MINUUUSSS",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:56",
+          "killer": "сосал?",
+          "killer_team": "T",
+          "victim": "avoid",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:14",
+          "killer": "сосал?",
+          "killer_team": "T",
+          "victim": "Флешка с донбасса",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:17",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "1:18",
+          "killer": "nonsense",
+          "killer_team": "CT",
+          "victim": "сосал?",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:29",
+          "killer": "nonsense",
+          "killer_team": "CT",
+          "victim": "wq ツ",
+          "victim_team": "T",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:35",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "nonsense",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:37",
+          "killer": "cheattopchik",
+          "killer_team": "T",
+          "victim": "Olf0ns",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 12,
+      "winner_side": "T",
+      "win_type": "elimination",
+      "score_a": 3,
+      "score_b": 9,
+      "kill_feed": [
+        {
+          "time": "0:15",
+          "killer": "Флешка с донбасса",
+          "killer_team": "CT",
+          "victim": "wq ツ",
+          "victim_team": "T",
+          "weapon": "MP5-SD",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:16",
+          "killer": "MINUUUSSS",
+          "killer_team": "T",
+          "victim": "Флешка с донбасса",
+          "victim_team": "CT",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:30",
+          "killer": "Olf0ns",
+          "killer_team": "CT",
+          "victim": "cheattopchik",
+          "victim_team": "T",
+          "weapon": "P90",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:34",
+          "killer": "myshulka",
+          "killer_team": "T",
+          "victim": "Olf0ns",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:42",
+          "killer": "сосал?",
+          "killer_team": "T",
+          "victim": "Мамулик",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:48",
+          "killer": "сосал?",
+          "killer_team": "T",
+          "victim": "avoid",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:56",
+          "killer": "myshulka",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "1:18",
+          "killer": "nonsense",
+          "killer_team": "CT",
+          "victim": "MINUUUSSS",
+          "victim_team": "T",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:25",
+          "killer": "сосал?",
+          "killer_team": "T",
+          "victim": "nonsense",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 13,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 10,
+      "score_b": 3,
+      "kill_feed": [
+        {
+          "time": "0:13",
+          "killer": "MINUUUSSS",
+          "killer_team": "CT",
+          "victim": "nonsense",
+          "victim_team": "T",
+          "weapon": "Desert Eagle",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:15",
+          "killer": "MINUUUSSS",
+          "killer_team": "CT",
+          "victim": "Мамулик",
+          "victim_team": "T",
+          "weapon": "Desert Eagle",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:23",
+          "killer": "cheattopchik",
+          "killer_team": "CT",
+          "victim": "avoid",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:27",
+          "killer": "wq ツ",
+          "killer_team": "CT",
+          "victim": "Флешка с донбасса",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:29",
+          "killer": "сосал?",
+          "killer_team": "CT",
+          "victim": "Olf0ns",
+          "victim_team": "T",
+          "weapon": "USP-S",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 14,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 11,
+      "score_b": 3,
+      "kill_feed": [
+        {
+          "time": "0:22",
+          "killer": "cheattopchik",
+          "killer_team": "CT",
+          "victim": "nonsense",
+          "victim_team": "T",
+          "weapon": "Negev",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:23",
+          "killer": "wq ツ",
+          "killer_team": "CT",
+          "victim": "Olf0ns",
+          "victim_team": "T",
+          "weapon": "MP9",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:26",
+          "killer": "сосал?",
+          "killer_team": "CT",
+          "victim": "avoid",
+          "victim_team": "T",
+          "weapon": "XM1014",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:30",
+          "killer": "сосал?",
+          "killer_team": "CT",
+          "victim": "Флешка с донбасса",
+          "victim_team": "T",
+          "weapon": "XM1014",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:32",
+          "killer": "сосал?",
+          "killer_team": "CT",
+          "victim": "Мамулик",
+          "victim_team": "T",
+          "weapon": "XM1014",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 15,
+      "winner_side": "CT",
+      "win_type": "defuse",
+      "score_a": 12,
+      "score_b": 3,
+      "kill_feed": [
+        {
+          "time": "0:11",
+          "killer": "Флешка с донбасса",
+          "killer_team": "T",
+          "victim": "MINUUUSSS",
+          "victim_team": "CT",
+          "weapon": "SSG 08",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:14",
+          "killer": "Olf0ns",
+          "killer_team": "T",
+          "victim": "myshulka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:23",
+          "killer": "сосал?",
+          "killer_team": "CT",
+          "victim": "nonsense",
+          "victim_team": "T",
+          "weapon": "XM1014",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:27",
+          "killer": "wq ツ",
+          "killer_team": "CT",
+          "victim": "avoid",
+          "victim_team": "T",
+          "weapon": "MP9",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "0:42",
+          "killer": "wq ツ",
+          "killer_team": "CT",
+          "victim": "Мамулик",
+          "victim_team": "T",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:43",
+          "killer": "Флешка с донбасса",
+          "killer_team": "T",
+          "victim": "cheattopchik",
+          "victim_team": "CT",
+          "weapon": "M4A1",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:50",
+          "killer": "Флешка с донбасса",
+          "killer_team": "T",
+          "victim": "",
+          "victim_team": "",
+          "weapon": "c4_planted",
+          "hs": false,
+          "is_bomb": true
+        },
+        {
+          "time": "1:00",
+          "killer": "Флешка с донбасса",
+          "killer_team": "T",
+          "victim": "сосал?",
+          "victim_team": "CT",
+          "weapon": "M4A1",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:07",
+          "killer": "wq ツ",
+          "killer_team": "CT",
+          "victim": "Флешка с донбасса",
+          "victim_team": "T",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:16",
+          "killer": "wq ツ",
+          "killer_team": "CT",
+          "victim": "Olf0ns",
+          "victim_team": "T",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    },
+    {
+      "round_num": 16,
+      "winner_side": "CT",
+      "win_type": "elimination",
+      "score_a": 13,
+      "score_b": 3,
+      "kill_feed": [
+        {
+          "time": "0:10",
+          "killer": "MINUUUSSS",
+          "killer_team": "CT",
+          "victim": "Мамулик",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:16",
+          "killer": "avoid",
+          "killer_team": "T",
+          "victim": "сосал?",
+          "victim_team": "CT",
+          "weapon": "Galil AR",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:21",
+          "killer": "MINUUUSSS",
+          "killer_team": "CT",
+          "victim": "Olf0ns",
+          "victim_team": "T",
+          "weapon": "AWP",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:36",
+          "killer": "nonsense",
+          "killer_team": "T",
+          "victim": "myshulka",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:38",
+          "killer": "wq ツ",
+          "killer_team": "CT",
+          "victim": "avoid",
+          "victim_team": "T",
+          "weapon": "AK-47",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "0:44",
+          "killer": "cheattopchik",
+          "killer_team": "CT",
+          "victim": "Флешка с донбасса",
+          "victim_team": "T",
+          "weapon": "SCAR-20",
+          "hs": false,
+          "is_bomb": false
+        },
+        {
+          "time": "1:20",
+          "killer": "nonsense",
+          "killer_team": "T",
+          "victim": "wq ツ",
+          "victim_team": "CT",
+          "weapon": "AK-47",
+          "hs": true,
+          "is_bomb": false
+        },
+        {
+          "time": "1:22",
+          "killer": "cheattopchik",
+          "killer_team": "CT",
+          "victim": "nonsense",
+          "victim_team": "T",
+          "weapon": "SCAR-20",
+          "hs": false,
+          "is_bomb": false
+        }
+      ]
+    }
+  ],
+  "final_score_t": 3,
+  "final_score_ct": 13,
+  "players": [
+    {
+      "name": "myshulka",
+      "steamid": "76561199887422043",
+      "team": "CT",
+      "kills": 4,
+      "deaths": 9,
+      "assists": 3,
+      "hs": 1,
+      "hs_percent": 25,
+      "kd": 0.4444444444444444,
+      "adr": 53.916666666666664,
+      "fk": 0,
+      "fd": 2,
+      "blind_time": 0,
+      "util_dmg": 0,
+      "util_dmg_per_round": 0,
+      "fav_weapon": "AK-47",
+      "weapons": [
+        {
+          "name": "MP5-SD",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "AK-47",
+          "kills": 3,
+          "hs": 1,
+          "hs_percent": 33
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "nonsense",
+          "kills": 0,
+          "deaths": 2,
+          "diff": -2
+        },
+        {
+          "enemy": "Мамулик",
+          "kills": 0,
+          "deaths": 1,
+          "diff": -1
+        },
+        {
+          "enemy": "Флешка с донбасса",
+          "kills": 2,
+          "deaths": 2,
+          "diff": 0
+        },
+        {
+          "enemy": "avoid",
+          "kills": 0,
+          "deaths": 3,
+          "diff": -3
+        },
+        {
+          "enemy": "Olf0ns",
+          "kills": 2,
+          "deaths": 1,
+          "diff": 1
+        }
+      ]
+    },
+    {
+      "name": "Флешка с донбасса",
+      "steamid": "76561198863013576",
+      "team": "T",
+      "kills": 13,
+      "deaths": 15,
+      "assists": 2,
+      "hs": 8,
+      "hs_percent": 61,
+      "kd": 0.8666666666666667,
+      "adr": 116.75,
+      "fk": 3,
+      "fd": 2,
+      "blind_time": 8.398650176,
+      "util_dmg": 58,
+      "util_dmg_per_round": 3.625,
+      "fav_weapon": "MP5-SD",
+      "weapons": [
+        {
+          "name": "Desert Eagle",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "Knife",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "MP5-SD",
+          "kills": 3,
+          "hs": 2,
+          "hs_percent": 66
+        },
+        {
+          "name": "AWP",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "M4A4",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "SSG 08",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "M4A1",
+          "kills": 2,
+          "hs": 1,
+          "hs_percent": 50
+        },
+        {
+          "name": "USP-S",
+          "kills": 3,
+          "hs": 3,
+          "hs_percent": 100
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "MINUUUSSS",
+          "kills": 2,
+          "deaths": 1,
+          "diff": 1
+        },
+        {
+          "enemy": "cheattopchik",
+          "kills": 3,
+          "deaths": 1,
+          "diff": 2
+        },
+        {
+          "enemy": "сосал?",
+          "kills": 2,
+          "deaths": 7,
+          "diff": -5
+        },
+        {
+          "enemy": "wq ツ",
+          "kills": 4,
+          "deaths": 4,
+          "diff": 0
+        },
+        {
+          "enemy": "myshulka",
+          "kills": 2,
+          "deaths": 2,
+          "diff": 0
+        }
+      ]
+    },
+    {
+      "name": "cheattopchik",
+      "steamid": "76561199786282852",
+      "team": "CT",
+      "kills": 12,
+      "deaths": 6,
+      "assists": 1,
+      "hs": 3,
+      "hs_percent": 25,
+      "kd": 2,
+      "adr": 112.46153846153847,
+      "fk": 1,
+      "fd": 0,
+      "blind_time": 4.774382592,
+      "util_dmg": 30,
+      "util_dmg_per_round": 2.3076923076923075,
+      "fav_weapon": "AK-47",
+      "weapons": [
+        {
+          "name": "MP5-SD",
+          "kills": 3,
+          "hs": 2,
+          "hs_percent": 66
+        },
+        {
+          "name": "Glock-18",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "AK-47",
+          "kills": 4,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "USP-S",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "Negev",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "SCAR-20",
+          "kills": 2,
+          "hs": 0,
+          "hs_percent": 0
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "Флешка с донбасса",
+          "kills": 1,
+          "deaths": 3,
+          "diff": -2
+        },
+        {
+          "enemy": "Мамулик",
+          "kills": 1,
+          "deaths": 0,
+          "diff": 1
+        },
+        {
+          "enemy": "Olf0ns",
+          "kills": 2,
+          "deaths": 1,
+          "diff": 1
+        },
+        {
+          "enemy": "avoid",
+          "kills": 4,
+          "deaths": 1,
+          "diff": 3
+        },
+        {
+          "enemy": "nonsense",
+          "kills": 4,
+          "deaths": 1,
+          "diff": 3
+        }
+      ]
+    },
+    {
+      "name": "nonsense",
+      "steamid": "76561198906999167",
+      "team": "T",
+      "kills": 14,
+      "deaths": 15,
+      "assists": 4,
+      "hs": 6,
+      "hs_percent": 42,
+      "kd": 0.9333333333333333,
+      "adr": 122.9375,
+      "fk": 2,
+      "fd": 3,
+      "blind_time": 9.402665984,
+      "util_dmg": 14,
+      "util_dmg_per_round": 0.875,
+      "fav_weapon": "M4A1",
+      "weapons": [
+        {
+          "name": "M4A1",
+          "kills": 5,
+          "hs": 1,
+          "hs_percent": 20
+        },
+        {
+          "name": "AWP",
+          "kills": 2,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "AK-47",
+          "kills": 3,
+          "hs": 2,
+          "hs_percent": 66
+        },
+        {
+          "name": "USP-S",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "SSG 08",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        },
+        {
+          "name": "MP9",
+          "kills": 2,
+          "hs": 1,
+          "hs_percent": 50
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "MINUUUSSS",
+          "kills": 5,
+          "deaths": 6,
+          "diff": -1
+        },
+        {
+          "enemy": "wq ツ",
+          "kills": 2,
+          "deaths": 2,
+          "diff": 0
+        },
+        {
+          "enemy": "myshulka",
+          "kills": 2,
+          "deaths": 0,
+          "diff": 2
+        },
+        {
+          "enemy": "cheattopchik",
+          "kills": 1,
+          "deaths": 4,
+          "diff": -3
+        },
+        {
+          "enemy": "сосал?",
+          "kills": 4,
+          "deaths": 3,
+          "diff": 1
+        }
+      ]
+    },
+    {
+      "name": "сосал?",
+      "steamid": "76561198808900905",
+      "team": "CT",
+      "kills": 25,
+      "deaths": 11,
+      "assists": 7,
+      "hs": 17,
+      "hs_percent": 68,
+      "kd": 2.272727272727273,
+      "adr": 196.8125,
+      "fk": 4,
+      "fd": 1,
+      "blind_time": 9.269879296,
+      "util_dmg": 0,
+      "util_dmg_per_round": 0,
+      "fav_weapon": "AK-47",
+      "weapons": [
+        {
+          "name": "AK-47",
+          "kills": 20,
+          "hs": 16,
+          "hs_percent": 80
+        },
+        {
+          "name": "USP-S",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "XM1014",
+          "kills": 4,
+          "hs": 1,
+          "hs_percent": 25
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "Olf0ns",
+          "kills": 4,
+          "deaths": 1,
+          "diff": 3
+        },
+        {
+          "enemy": "avoid",
+          "kills": 6,
+          "deaths": 3,
+          "diff": 3
+        },
+        {
+          "enemy": "nonsense",
+          "kills": 3,
+          "deaths": 4,
+          "diff": -1
+        },
+        {
+          "enemy": "Флешка с донбасса",
+          "kills": 7,
+          "deaths": 2,
+          "diff": 5
+        },
+        {
+          "enemy": "Мамулик",
+          "kills": 5,
+          "deaths": 1,
+          "diff": 4
+        }
+      ]
+    },
+    {
+      "name": "Мамулик",
+      "steamid": "76561198369471632",
+      "team": "T",
+      "kills": 2,
+      "deaths": 15,
+      "assists": 3,
+      "hs": 0,
+      "hs_percent": 0,
+      "kd": 0.13333333333333333,
+      "adr": 36.733333333333334,
+      "fk": 0,
+      "fd": 2,
+      "blind_time": 0,
+      "util_dmg": 92,
+      "util_dmg_per_round": 6.133333333333334,
+      "fav_weapon": "M4A4",
+      "weapons": [
+        {
+          "name": "M4A4",
+          "kills": 2,
+          "hs": 0,
+          "hs_percent": 0
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "wq ツ",
+          "kills": 0,
+          "deaths": 6,
+          "diff": -6
+        },
+        {
+          "enemy": "cheattopchik",
+          "kills": 0,
+          "deaths": 1,
+          "diff": -1
+        },
+        {
+          "enemy": "сосал?",
+          "kills": 1,
+          "deaths": 5,
+          "diff": -4
+        },
+        {
+          "enemy": "myshulka",
+          "kills": 1,
+          "deaths": 0,
+          "diff": 1
+        },
+        {
+          "enemy": "MINUUUSSS",
+          "kills": 0,
+          "deaths": 3,
+          "diff": -3
+        }
+      ]
+    },
+    {
+      "name": "Olf0ns",
+      "steamid": "76561198807168215",
+      "team": "T",
+      "kills": 3,
+      "deaths": 16,
+      "assists": 1,
+      "hs": 1,
+      "hs_percent": 33,
+      "kd": 0.1875,
+      "adr": 39.1875,
+      "fk": 0,
+      "fd": 2,
+      "blind_time": 0.764666816,
+      "util_dmg": 19,
+      "util_dmg_per_round": 1.1875,
+      "fav_weapon": "M4A4",
+      "weapons": [
+        {
+          "name": "M4A4",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "P90",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "AK-47",
+          "kills": 1,
+          "hs": 1,
+          "hs_percent": 100
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "wq ツ",
+          "kills": 0,
+          "deaths": 4,
+          "diff": -4
+        },
+        {
+          "enemy": "MINUUUSSS",
+          "kills": 0,
+          "deaths": 4,
+          "diff": -4
+        },
+        {
+          "enemy": "cheattopchik",
+          "kills": 1,
+          "deaths": 2,
+          "diff": -1
+        },
+        {
+          "enemy": "myshulka",
+          "kills": 1,
+          "deaths": 2,
+          "diff": -1
+        },
+        {
+          "enemy": "сосал?",
+          "kills": 1,
+          "deaths": 4,
+          "diff": -3
+        }
+      ]
+    },
+    {
+      "name": "avoid",
+      "steamid": "76561198766959529",
+      "team": "T",
+      "kills": 8,
+      "deaths": 15,
+      "assists": 1,
+      "hs": 5,
+      "hs_percent": 62,
+      "kd": 0.5333333333333333,
+      "adr": 76.6875,
+      "fk": 2,
+      "fd": 0,
+      "blind_time": 6.117052223999999,
+      "util_dmg": 13,
+      "util_dmg_per_round": 0.8125,
+      "fav_weapon": "M4A4",
+      "weapons": [
+        {
+          "name": "Desert Eagle",
+          "kills": 2,
+          "hs": 2,
+          "hs_percent": 100
+        },
+        {
+          "name": "M4A4",
+          "kills": 5,
+          "hs": 3,
+          "hs_percent": 60
+        },
+        {
+          "name": "Galil AR",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "MINUUUSSS",
+          "kills": 1,
+          "deaths": 2,
+          "diff": -1
+        },
+        {
+          "enemy": "myshulka",
+          "kills": 3,
+          "deaths": 0,
+          "diff": 3
+        },
+        {
+          "enemy": "cheattopchik",
+          "kills": 1,
+          "deaths": 4,
+          "diff": -3
+        },
+        {
+          "enemy": "сосал?",
+          "kills": 3,
+          "deaths": 6,
+          "diff": -3
+        },
+        {
+          "enemy": "wq ツ",
+          "kills": 0,
+          "deaths": 3,
+          "diff": -3
+        }
+      ]
+    },
+    {
+      "name": "MINUUUSSS",
+      "steamid": "76561199045393127",
+      "team": "CT",
+      "kills": 16,
+      "deaths": 8,
+      "assists": 0,
+      "hs": 5,
+      "hs_percent": 31,
+      "kd": 2,
+      "adr": 157.57142857142858,
+      "fk": 3,
+      "fd": 2,
+      "blind_time": 0,
+      "util_dmg": 0,
+      "util_dmg_per_round": 0,
+      "fav_weapon": "AWP",
+      "weapons": [
+        {
+          "name": "AWP",
+          "kills": 9,
+          "hs": 1,
+          "hs_percent": 11
+        },
+        {
+          "name": "Desert Eagle",
+          "kills": 2,
+          "hs": 1,
+          "hs_percent": 50
+        },
+        {
+          "name": "USP-S",
+          "kills": 2,
+          "hs": 2,
+          "hs_percent": 100
+        },
+        {
+          "name": "AK-47",
+          "kills": 3,
+          "hs": 1,
+          "hs_percent": 33
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "Olf0ns",
+          "kills": 4,
+          "deaths": 0,
+          "diff": 4
+        },
+        {
+          "enemy": "Мамулик",
+          "kills": 3,
+          "deaths": 0,
+          "diff": 3
+        },
+        {
+          "enemy": "nonsense",
+          "kills": 6,
+          "deaths": 5,
+          "diff": 1
+        },
+        {
+          "enemy": "avoid",
+          "kills": 2,
+          "deaths": 1,
+          "diff": 1
+        },
+        {
+          "enemy": "Флешка с донбасса",
+          "kills": 1,
+          "deaths": 2,
+          "diff": -1
+        }
+      ]
+    },
+    {
+      "name": "wq ツ",
+      "steamid": "76561198976457404",
+      "team": "CT",
+      "kills": 19,
+      "deaths": 6,
+      "assists": 7,
+      "hs": 6,
+      "hs_percent": 31,
+      "kd": 3.1666666666666665,
+      "adr": 145.93333333333334,
+      "fk": 1,
+      "fd": 2,
+      "blind_time": 8.816204800000001,
+      "util_dmg": 122,
+      "util_dmg_per_round": 8.133333333333333,
+      "fav_weapon": "AK-47",
+      "weapons": [
+        {
+          "name": "MAC-10",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "AK-47",
+          "kills": 11,
+          "hs": 1,
+          "hs_percent": 9
+        },
+        {
+          "name": "USP-S",
+          "kills": 1,
+          "hs": 0,
+          "hs_percent": 0
+        },
+        {
+          "name": "MP9",
+          "kills": 2,
+          "hs": 1,
+          "hs_percent": 50
+        },
+        {
+          "name": "Glock-18",
+          "kills": 4,
+          "hs": 4,
+          "hs_percent": 100
+        }
+      ],
+      "duels": [
+        {
+          "enemy": "Olf0ns",
+          "kills": 4,
+          "deaths": 0,
+          "diff": 4
+        },
+        {
+          "enemy": "Мамулик",
+          "kills": 6,
+          "deaths": 0,
+          "diff": 6
+        },
+        {
+          "enemy": "nonsense",
+          "kills": 2,
+          "deaths": 2,
+          "diff": 0
+        },
+        {
+          "enemy": "avoid",
+          "kills": 3,
+          "deaths": 0,
+          "diff": 3
+        },
+        {
+          "enemy": "Флешка с донбасса",
+          "kills": 4,
+          "deaths": 4,
+          "diff": 0
+        }
+      ]
+    }
+  ],
+  "filename": "match_3921521-2512022219-de_inferno.dem",
+  "upload_date": "2025-12-12T01:31:43+03:00"
+}
